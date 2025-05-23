@@ -1,0 +1,16 @@
+name = "FuzzCraft 3"
+author = "FuzzyMelon94"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e5c1958ffb49603fcf56721fbd2dfd2179745b6ffcbfa71a6176acf0d084c860"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.172"
+
+[options]
+acceptable-game-versions = ["1.21.1"]
