@@ -407,5 +407,10 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "9cab8121bb9d377e1bfda3e802cd820ebc84671a08db6ad64dbbfba6fb438e3a"
