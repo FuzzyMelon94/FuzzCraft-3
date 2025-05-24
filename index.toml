@@ -185,6 +185,14 @@ file = "config/carryon-common.toml"
 hash = "c7d99f47415ca2954dfa3d0660e9abfead26dfdfafbfe3c800ce6a6d70165a03"
 
 [[files]]
+file = "config/comforts-common.toml"
+hash = "1f21c10bfce9cd25aea641046a79df88867f68ba8ba3838a5e1662521f9f06a2"
+
+[[files]]
+file = "config/comforts-server.toml"
+hash = "ab2a637d7e74181f0fd8e75e3e6346bbfdb374b416dcd21edda023bdd355a0bc"
+
+[[files]]
 file = "config/connector.json"
 hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
 
@@ -484,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "5e0a875282f4abed66a2cccf7929488ebb5e88447d2bb3369e8ddc728fc66fc0"
 metafile = true
 
 [[files]]
