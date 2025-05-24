@@ -5,6 +5,10 @@ file = "README.md"
 hash = "687e93170fcab3399d23f9a00a49c65c6d6991f84bf3520eb71c506f69cb58cf"
 
 [[files]]
+file = "config/.puzzle_cache/mojangstudios.png"
+hash = "27d2a588a33e94aff8cea4ea6090509ab3e10640f980e63dfd317c6b0dcd30df"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -165,6 +169,14 @@ file = "config/biomesoplenty/generation.toml"
 hash = "428c8be557854161e82b21b5654d2865b9b0c53bba969f20398568f94d4ae030"
 
 [[files]]
+file = "config/connector.json"
+hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
+
+[[files]]
+file = "config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
 file = "config/emi.css"
 hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
 
@@ -177,8 +189,24 @@ file = "config/enchdesc.json"
 hash = "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b"
 
 [[files]]
+file = "config/entity_model_features.json"
+hash = "49c31f039ecaa30817ce0d89b98fa602dac4ad5b3972e7e2e0b5bfefe04615a8"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "0554c0e7816266477c65c18d2ada9fdddf1c6750787efd329056223ca4a073b2"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "dc7598cff8d5128cabb1757c5e38a9cbf492ac2d195ed403bc47c679b4a1d4dc"
+
+[[files]]
+file = "config/etf_warnings.json"
+hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "8e167066b1ec8435d6f0cb832d2bca299af9a083fac714f6e160d7cd3a398369"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -257,6 +285,10 @@ file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
 [[files]]
+file = "config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
 file = "config/modernfix-common.toml"
 hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 
@@ -279,6 +311,10 @@ hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
 [[files]]
 file = "config/notenoughanimations.json"
 hash = "9faeabb868c136997cc44f69a487a6e0a6adb017424ad7b95a2db89f347b5da5"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "45ce0f0b227d11ae4e130214c14e7ce0cd78437066e95cb67f5227edda8da561"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -478,6 +514,11 @@ hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "04df77c921a891de3a2cfb8f0f9a6f61a4aa91640b90405a12d7bed93f8eead3"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "2119d22a1869118e389237716e0f66bd58c4f3f2b4a0dd1e7558721860afdca7"
 metafile = true
@@ -495,6 +536,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "708b91626dd1582effcd39c97c6f2edab0421a96097a94f26bb9a12bb54c637d"
 metafile = true
 
 [[files]]
@@ -554,4 +600,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9cab8121bb9d377e1bfda3e802cd820ebc84671a08db6ad64dbbfba6fb438e3a"
+hash = "1d2a19925c67cde6ce448d44e0cde121e183b02cf90b3cac49678fc7599aa135"
