@@ -245,6 +245,14 @@ file = "config/everycomp-hazardous.properties"
 hash = "77422a8a8fb669893ced1bc398773473a684e1e51e75993ce2cfd3f3aa954c91"
 
 [[files]]
+file = "config/explorerscompass-client.toml"
+hash = "7d005b7e0bbbff0724725b6d801d6d6155b6c76720d14a08ababf6244b9c5661"
+
+[[files]]
+file = "config/explorerscompass-common.toml"
+hash = "b1a5210922dd076ffb5ebab128d9c4006a3aa7efd2a5818a4a52b02bf20a982a"
+
+[[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "8e167066b1ec8435d6f0cb832d2bca299af9a083fac714f6e160d7cd3a398369"
 
@@ -343,6 +351,14 @@ hash = "6504dc07b5028b68d3e7a2680b0c188f12b794fc6eee8053d572e9640dd13472"
 [[files]]
 file = "config/moonlight-common.toml"
 hash = "6ae9ec9348bd85d9d67c401536fc13dd0ae72760438ec915a0c18c0627dcae07"
+
+[[files]]
+file = "config/naturescompass-client.toml"
+hash = "a5d664ed8aeecd77bd09611cba93d5f8e3194da8140666d3e97a0c4973dd0981"
+
+[[files]]
+file = "config/naturescompass-common.toml"
+hash = "a48da137411293b525a07b42e4f355484c990f7f7e29cf7dff3e3deebf5af051"
 
 [[files]]
 file = "config/neoforge-client.toml"
@@ -555,6 +571,11 @@ hash = "1e6d9f96071ca889616b26a34e8023e98c8777f445736cd85366a61a9150898c"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "de5ea0b6d6c303af3788a178996c39f46d260cd15a86121b1246b3591913d256"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "6f59e18621f30c6dc0ffa7f34324b423f3e3a7a8c251560c6a1dd835b6bce87a"
 metafile = true
@@ -642,6 +663,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
 
 [[files]]
