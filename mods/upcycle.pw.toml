@@ -1,0 +1,13 @@
+name = "Upcycle! (Compost Rotten Flesh!)"
+filename = "Upcycle-1.21-(v.2.0.0).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e3bdd825718d13a2b9cd8042ac462fd684df132"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5483938
+project-id = 567281

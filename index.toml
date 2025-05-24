@@ -145,6 +145,14 @@ file = "config/attributefix/neoforge/swim_speed.json"
 hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
 
 [[files]]
+file = "config/balm-client.toml"
+hash = "c51ed7f0af9528cffc79b6bf65e50dbf3dd49b21b1ec3ee7815b17c90f2d5638"
+
+[[files]]
+file = "config/balm-common.toml"
+hash = "c51ed7f0af9528cffc79b6bf65e50dbf3dd49b21b1ec3ee7815b17c90f2d5638"
+
+[[files]]
 file = "config/biomesoplenty/biome_toggles.json"
 hash = "adcd92e2dd2d6ca3528b4ded3a159fce6f4a3951e815d60494dc277d12289106"
 
@@ -299,6 +307,18 @@ hash = "cff6a9a0d415b19b9852844c0ad5bb2b1cfdb9fce12e729e7228a6521fc95927"
 [[files]]
 file = "config/trashcans-common.toml"
 hash = "9098a40f3445da4e4e330750079d5629abe4632c211c6f8db11bb0dea829e5d8"
+
+[[files]]
+file = "config/trashslot-common.toml"
+hash = "6cd3a10e6f7eaacf14aa46fa68dc141efbad30b32f3eabab8a82781fe96fea28"
+
+[[files]]
+file = "config/upcycle-client.toml"
+hash = "36fc8ceec8ed4a317eba901f5534c30190566a436d8f84ecb1366cec573e183a"
+
+[[files]]
+file = "config/upcycle-server.toml"
+hash = "9c47058fefdf056cad83e6cbbaec8714a2354b05f9690930439e03f20d9c5b13"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -473,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "b7edb8bf6ab6913509a777faa013241784c3a75a966a1c62e4ddd786ecd2392f"
+metafile = true
+
+[[files]]
+file = "mods/upcycle.pw.toml"
+hash = "dde9347dcb967089bf1c3c01cc1989b8453793609d69869e2f615356f54e86cb"
 metafile = true
 
 [[files]]
