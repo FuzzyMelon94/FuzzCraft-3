@@ -13,6 +13,14 @@ file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
+file = "config/amendments-client.toml"
+hash = "c595c20a1203c081dc9423d4f9f0e87d6e104c6329001117ab12d282614e9205"
+
+[[files]]
+file = "config/amendments-common.toml"
+hash = "58077520dd8ca4cc525f5d48d5261262280fdf591659de3e378999bbe277f0f8"
+
+[[files]]
 file = "config/appleskin-client.toml"
 hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
 
@@ -185,6 +193,14 @@ file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
+file = "config/dummmmmmy-client.toml"
+hash = "e3785d564675ef1a0209819d580c37e60c51fbe986057b3a6c8e7e5f2af1b416"
+
+[[files]]
+file = "config/dummmmmmy-common.toml"
+hash = "9507a75143689ab6f0da55929059652c6cab8dcd7d5e5b14697836232274e6d3"
+
+[[files]]
 file = "config/emi.css"
 hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
 
@@ -211,6 +227,14 @@ hash = "dc7598cff8d5128cabb1757c5e38a9cbf492ac2d195ed403bc47c679b4a1d4dc"
 [[files]]
 file = "config/etf_warnings.json"
 hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+
+[[files]]
+file = "config/everycomp-common.toml"
+hash = "13ad4e42471f2c6fe6672f0e32ea676ba96f4d2f9119176b546ee1a744833068"
+
+[[files]]
+file = "config/everycomp-hazardous.properties"
+hash = "77422a8a8fb669893ced1bc398773473a684e1e51e75993ce2cfd3f3aa954c91"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
@@ -291,6 +315,10 @@ hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 [[files]]
 file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "config/modelfix-client.toml"
+hash = "ae36e7199d4138e363e1565fbb8059984ca0b4f037a3cda7cfc4c15443862db0"
 
 [[files]]
 file = "config/modernfix-common.toml"
@@ -378,8 +406,12 @@ file = "config/spark/tmp/about.txt"
 hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 
 [[files]]
+file = "config/stonezone-common.toml"
+hash = "69448139a3cedce6d46ece8d816448a6d457599b53b07242383301697529b958"
+
+[[files]]
 file = "config/supplementaries-client.toml"
-hash = "57ec3fbcbc61c380dea90831ddcc2ecae51dee233eb0164dd9502b6d31b238c5"
+hash = "a5e551a642710fdfe1b81add05061eaf520a0ef97a17bd996a0d0bf4a70c8088"
 
 [[files]]
 file = "config/supplementaries-common.toml"
@@ -557,6 +589,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "44634200be079994523f61e1a4b2878f4d2e1b59d52378391aa81192b1d15bf1"
+metafile = true
+
+[[files]]
+file = "mods/justblahaj.pw.toml"
+hash = "855ef5d265c91d8ee6a9c1a80986c58fa34311be1cb65bcc6af5830bbda57bf0"
 metafile = true
 
 [[files]]
