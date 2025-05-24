@@ -217,10 +217,6 @@ file = "config/fml.toml"
 hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
 
 [[files]]
-file = "config/global_packs.toml"
-hash = "cf9f1ee3e2dc93d5a59cbad203cb0c8d1bfee2147ee725f1a94a1b5a7546fb9f"
-
-[[files]]
 file = "config/immediatelyfast.json"
 hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
 
@@ -311,6 +307,11 @@ hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
 [[files]]
 file = "config/notenoughanimations.json"
 hash = "9faeabb868c136997cc44f69a487a6e0a6adb017424ad7b95a2db89f347b5da5"
+
+[[files]]
+file = "config/paxi/datapacks/enchantedbookenabler-datapack.pw.toml"
+hash = "299948b2e34d22a81b4535f08762b625bd7585d8819c50d53de6ba6805900ccd"
+metafile = true
 
 [[files]]
 file = "config/puzzle.json"
@@ -479,11 +480,6 @@ hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
 
 [[files]]
-file = "mods/globalpacks.pw.toml"
-hash = "f426f827dc4ba8d6b31715054f74f003259aa2db9d5d86af67d0f5402160bd0f"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "d102275300c327312e3ea9afd6844d4627637cffa68525af69951fe2eeca33b0"
 metafile = true
@@ -534,6 +530,11 @@ hash = "82a5c30ed91d272ee1895376e0d2cf57504b3d9db4aba6547e19eaa344861ada"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
 metafile = true
@@ -541,6 +542,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "708b91626dd1582effcd39c97c6f2edab0421a96097a94f26bb9a12bb54c637d"
+metafile = true
+
+[[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
 metafile = true
 
 [[files]]
@@ -599,5 +605,35 @@ hash = "8e45f1774226d1b0cd818a264fa1f15ff9176ee97781f6e7b318b486685b0b7d"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "4bb587c09a53f82dec620482b3badeee9d6e865902efcfc39139f906cc0b108f"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "1d2a19925c67cde6ce448d44e0cde121e183b02cf90b3cac49678fc7599aa135"
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "5507b242a9db7237f92f75009d0036fc606ccbde30de9ad520dac873812126ab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "590d63ddd680c1a9ce96945cec48c1b1dca146090003c850cf7a9cb855452699"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "3545a5aeece1edd15cf0c31e39e12300110e7feac2f5343b6c209a4ae7d85680"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "e1958f3d85e8e248f316b08ea3211d0e90e860d3ed72d11776e5fd0662f84f24"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
