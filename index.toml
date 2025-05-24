@@ -281,6 +281,10 @@ file = "config/notenoughanimations.json"
 hash = "9faeabb868c136997cc44f69a487a6e0a6adb017424ad7b95a2db89f347b5da5"
 
 [[files]]
+file = "config/skinlayers.json"
+hash = "6938dedbced0a6bb0ef345264f8df432b6db8b759f6614b32bae655ca72e131d"
+
+[[files]]
 file = "config/sodium-fingerprint.json"
 hash = "bcc1476204e9059324442e1b908eca51e56bba187e3048217dd207e7be9d0835"
 
@@ -323,6 +327,10 @@ hash = "36fc8ceec8ed4a317eba901f5534c30190566a436d8f84ecb1366cec573e183a"
 [[files]]
 file = "config/upcycle-server.toml"
 hash = "9c47058fefdf056cad83e6cbbaec8714a2354b05f9690930439e03f20d9c5b13"
+
+[[files]]
+file = "config/waveycapes.json"
+hash = "ffdc0599eeeb8acb0fcfd2d1d3adb54f25447ed9b57fa9fa792d7529406742bd"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -512,6 +520,11 @@ metafile = true
 [[files]]
 file = "mods/upcycle.pw.toml"
 hash = "dde9347dcb967089bf1c3c01cc1989b8453793609d69869e2f615356f54e86cb"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "8e45f1774226d1b0cd818a264fa1f15ff9176ee97781f6e7b318b486685b0b7d"
 metafile = true
 
 [[files]]
