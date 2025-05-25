@@ -253,6 +253,10 @@ file = "config/everycomp-entries-1.toml.bak"
 hash = "cad9797f741841b64b641dbe5015d0aa2081d385fb05f99db9a988c39a0693d7"
 
 [[files]]
+file = "config/everycomp-entries-2.toml.bak"
+hash = "cad9797f741841b64b641dbe5015d0aa2081d385fb05f99db9a988c39a0693d7"
+
+[[files]]
 file = "config/everycomp-entries.toml"
 hash = "cad9797f741841b64b641dbe5015d0aa2081d385fb05f99db9a988c39a0693d7"
 
@@ -295,6 +299,10 @@ hash = "7724615b78b3aada388fe595c05f6a3b9807e069f1aaf70c332e991434c45e57"
 [[files]]
 file = "config/fml.toml"
 hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
+
+[[files]]
+file = "config/friendsandfoes.json"
+hash = "5378186838edcf828c352a47b0ea7e5f87efcadc7230eef08dc7d2c9ed6d27c7"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -430,8 +438,40 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/pneumaticcraft-client.toml"
+hash = "68e83efe6dea278f4173a85fd4ccb766f4cf0a66843d031c00bc94312bf581bc"
+
+[[files]]
+file = "config/pneumaticcraft-common.toml"
+hash = "97b01672bf7d55ae4aa62b39fb68c606cf65d2ed1f15cea5fe261643cbec718e"
+
+[[files]]
+file = "config/pneumaticcraft/ArmorFeatureStatus.cfg"
+hash = "9299bee1e7e749f3520989a276f9d7067bb36aef140df8173d0642bd765aa7da"
+
+[[files]]
+file = "config/pneumaticcraft/MicromissileDefaults.cfg"
+hash = "cf52b07316b17e5217bcd9983b8b5060683d0fe0ed26376e41011bf40e3ea997"
+
+[[files]]
+file = "config/pneumaticcraft/PneumaticArmorHUDLayout.cfg"
+hash = "052d37ccd8ea50a41b1313430b3b85690ae130e6fde53c1c4902ab40e51afb4f"
+
+[[files]]
+file = "config/pneumaticcraft/ProgrammingPuzzleBlacklist.cfg"
+hash = "828eeede645807b618d5b98d7f231437872d07bdff29f5674bdcb8d64efac061"
+
+[[files]]
+file = "config/pneumaticcraft/thirdparty.cfg"
+hash = "e9af5f88697631ee27cb744f587f6f75a68cebab371e0df6f795ea63fce79d6a"
+
+[[files]]
 file = "config/puzzle.json"
 hash = "45ce0f0b227d11ae4e130214c14e7ce0cd78437066e95cb67f5227edda8da561"
+
+[[files]]
+file = "config/repurposed_structures-neoforge/modded_loot.toml"
+hash = "7108d5e1936fc5e528bd3eff3b7f2176ad1180e41dfeafb6a17da0954d09d8a4"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -496,6 +536,14 @@ hash = "9c47058fefdf056cad83e6cbbaec8714a2354b05f9690930439e03f20d9c5b13"
 [[files]]
 file = "config/waveycapes.json"
 hash = "ffdc0599eeeb8acb0fcfd2d1d3adb54f25447ed9b57fa9fa792d7529406742bd"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "cf58744dbe870388a22f13c70c5c0488978f1d1e92465d12db6a0a30adabdb66"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -870,6 +918,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "8e45f1774226d1b0cd818a264fa1f15ff9176ee97781f6e7b318b486685b0b7d"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "892cf7902f5d3795a1a3d576e4cc24d51654f29ac0d39215e5e3adf262778562"
 metafile = true
 
 [[files]]
