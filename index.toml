@@ -758,6 +758,11 @@ hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures-forge.pw.toml"
+hash = "8a3eac5ecbc0fca603dd6e6cecc9bb4c3683e527ebaccf82fc2e1aeab28e70d4"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
