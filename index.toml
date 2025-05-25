@@ -901,6 +901,16 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
+file = "mods/totw-modded.pw.toml"
+hash = "fe3fb011871b3e3054158ab7f9fc248a9b467cdf6e661cd83bde3015963f01c5"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild-modded-extra-towers.pw.toml"
+hash = "d47be73e1d5b806141b000ac1093c4ed129e3ff9b63f7be8bbf989b850ef15fa"
+metafile = true
+
+[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "a43bccc1cdad8e0ce5167f379c98935f7ea8117ac0bda2218b372defbc9fc985"
 metafile = true
