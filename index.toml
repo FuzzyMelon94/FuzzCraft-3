@@ -185,6 +185,10 @@ file = "config/carryon-common.toml"
 hash = "c7d99f47415ca2954dfa3d0660e9abfead26dfdfafbfe3c800ce6a6d70165a03"
 
 [[files]]
+file = "config/chefsdelight-common.toml"
+hash = "10d852ba739ab2e9304c43bfd8d5eab2f95a7aaca01fb2e4db0c4f8d1ea2d3cb"
+
+[[files]]
 file = "config/comforts-common.toml"
 hash = "1f21c10bfce9cd25aea641046a79df88867f68ba8ba3838a5e1662521f9f06a2"
 
@@ -221,6 +225,10 @@ file = "config/enchdesc.json"
 hash = "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b"
 
 [[files]]
+file = "config/ends_delight-common.toml"
+hash = "4350c3a728be0744603007090263282dbbe083b1ef372257428ef6262b822976"
+
+[[files]]
 file = "config/entity_model_features.json"
 hash = "49c31f039ecaa30817ce0d89b98fa602dac4ad5b3972e7e2e0b5bfefe04615a8"
 
@@ -241,6 +249,10 @@ file = "config/everycomp-common.toml"
 hash = "13ad4e42471f2c6fe6672f0e32ea676ba96f4d2f9119176b546ee1a744833068"
 
 [[files]]
+file = "config/everycomp-entries-1.toml.bak"
+hash = "cad9797f741841b64b641dbe5015d0aa2081d385fb05f99db9a988c39a0693d7"
+
+[[files]]
 file = "config/everycomp-entries.toml"
 hash = "cad9797f741841b64b641dbe5015d0aa2081d385fb05f99db9a988c39a0693d7"
 
@@ -251,6 +263,10 @@ hash = "77422a8a8fb669893ced1bc398773473a684e1e51e75993ce2cfd3f3aa954c91"
 [[files]]
 file = "config/exmi/enable_config.json"
 hash = "915f23f69f114854e4e067dc463b2f71370cf8d291c0611decf50655f5054e47"
+
+[[files]]
+file = "config/expandeddelight-common.toml"
+hash = "e49e9e593220f269e65ab5940a850b743356376cddb357e6f765b11fa571e6bd"
 
 [[files]]
 file = "config/explorerscompass-client.toml"
@@ -522,6 +538,11 @@ hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "335d98debb12256815368fb77a3bec68b017c1bbf5969763087cd96f43c9a6ae"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
@@ -567,6 +588,11 @@ hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "c31e8aea1f4ddc50d79c6dfa46dec8cbbf1a6108ff74db140baa0395ea4c5766"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "3a4e194e945214cc457178f48e65b9ab6a8201b6d15b9736cd673324b70b6edd"
 metafile = true
@@ -584,6 +610,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "1e6d9f96071ca889616b26a34e8023e98c8777f445736cd85366a61a9150898c"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "08383f7378f7bed0d61c328b1501dae5045356d328014a074e35aed601edba3b"
 metafile = true
 
 [[files]]
@@ -682,6 +713,11 @@ hash = "87e3acd7d3cdda6d8c99f26dafd871ba6057b6ca54650b43e6b91939069a91e5"
 metafile = true
 
 [[files]]
+file = "mods/more-delight.pw.toml"
+hash = "c796b7d0789fd98201f84200ad64c74c338eef7b3f2cfb326c64c2edf90e4d29"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
@@ -739,6 +775,11 @@ metafile = true
 [[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "6881e2e81e9cc3ed6a449ec19a185f3ec68adfcf0cde8bc233d8c7a616eac119"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "518aa8c46e3910462d97ad31621c07f927a22594ac4e9682face02c36ee1a88c"
 metafile = true
 
 [[files]]
