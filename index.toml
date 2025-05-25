@@ -213,6 +213,10 @@ file = "config/dummmmmmy-common.toml"
 hash = "9507a75143689ab6f0da55929059652c6cab8dcd7d5e5b14697836232274e6d3"
 
 [[files]]
+file = "config/eccentrictome-common.toml"
+hash = "67cf23ebaa39a12ac8d0dbd487595cb8788c638d77143be908e67f5faaa063bf"
+
+[[files]]
 file = "config/emi.css"
 hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
 
@@ -613,6 +617,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
+file = "mods/eccentric-tome.pw.toml"
+hash = "3f61487794fd087c65061354e44526e9a162e3a6ce8ad180cd7b6d2bdf5ba9ac"
 metafile = true
 
 [[files]]
