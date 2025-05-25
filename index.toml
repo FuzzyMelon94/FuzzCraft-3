@@ -241,8 +241,16 @@ file = "config/everycomp-common.toml"
 hash = "13ad4e42471f2c6fe6672f0e32ea676ba96f4d2f9119176b546ee1a744833068"
 
 [[files]]
+file = "config/everycomp-entries.toml"
+hash = "cad9797f741841b64b641dbe5015d0aa2081d385fb05f99db9a988c39a0693d7"
+
+[[files]]
 file = "config/everycomp-hazardous.properties"
 hash = "77422a8a8fb669893ced1bc398773473a684e1e51e75993ce2cfd3f3aa954c91"
+
+[[files]]
+file = "config/exmi/enable_config.json"
+hash = "915f23f69f114854e4e067dc463b2f71370cf8d291c0611decf50655f5054e47"
 
 [[files]]
 file = "config/explorerscompass-client.toml"
@@ -255,6 +263,14 @@ hash = "b1a5210922dd076ffb5ebab128d9c4006a3aa7efd2a5818a4a52b02bf20a982a"
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "8e167066b1ec8435d6f0cb832d2bca299af9a083fac714f6e160d7cd3a398369"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "0aef81f57e2afd3906cf175407fa0725c3186eae76f0708a87454eaa57c9d72c"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "c834c382b3f43f6cc98e1bdcd9d96ed8a83984653215c4e4c45a44098a4a738e"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -578,6 +594,11 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "6f59e18621f30c6dc0ffa7f34324b423f3e3a7a8c251560c6a1dd835b6bce87a"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "867a029a8bed75bea2fb02e5186730db46ec01f970d0bdb266c6897074c16177"
 metafile = true
 
 [[files]]
