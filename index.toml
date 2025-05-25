@@ -643,8 +643,18 @@ hash = "52e65b5e25c60c629ad269147895f91bf29f16230a4f4153e70169bf28d757d9"
 metafile = true
 
 [[files]]
+file = "mods/floralis.pw.toml"
+hash = "40e8836af21d54a583aae325d402fc811f94444bf15e9a026f8b09e0ced4215d"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "cb56550a957dd44cab4f9102aa588cd22421cd6b4099a03ac7b1b167c23c0f13"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "f9a2c5d17247f0313a0b40ca69c8490e96f0e03dbfd5a6371007435c2e0db10f"
 metafile = true
 
 [[files]]
@@ -738,6 +748,11 @@ hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "f4ba7e9b81e7519c5a91b0a8d8401f19156bafb97b61d5837ee57fb3d0d65fc6"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "74c4147419e31244a156285fc030ca773e7f35c69a04ad15cc5af68aa4db72b5"
 metafile = true
@@ -758,8 +773,33 @@ hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
 metafile = true
 
 [[files]]
-file = "mods/repurposed-structures-forge.pw.toml"
-hash = "8a3eac5ecbc0fca603dd6e6cecc9bb4c3683e527ebaccf82fc2e1aeab28e70d4"
+file = "mods/repurposed-structures-farmers-delight-compat.pw.toml"
+hash = "1b9625747845eac9c4a92135ec74201039b9f7677abbf42bc8b61f51986b5a1a"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-floralis-compat.pw.toml"
+hash = "8ff392e6cce33dcaf62abe58297bce63461b7cdc1b3cc12c7c16f3c437ff15eb"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-friends-and-foes-compat.pw.toml"
+hash = "0491d8a170f8b3ac49de6dfb4228f07909a31d36b876658b53ad5c0963d947a2"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-pneumaticcraft-repressurized-compat.pw.toml"
+hash = "6869a276138fbdff57563dfe89b243c0a719eace7db7e0ed7d3afe61104b75d7"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures.pw.toml"
+hash = "9d6d05cd8a4b264a8bce71f73507ee54482eecf141c6802e28fccdb0390c9492"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
@@ -830,6 +870,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "8e45f1774226d1b0cd818a264fa1f15ff9176ee97781f6e7b318b486685b0b7d"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "e2ab678518f876a978414ec1b9c88896d78dcc49ee7bfefa0acc165d5388c7be"
 metafile = true
 
 [[files]]
