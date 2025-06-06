@@ -205,6 +205,18 @@ file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "e20f6769fd946b918f24cfd54a422a599faa43394ee9a33012e645102a366da3"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "0d0c25f8c1caf12dd89f8f3e14254ecde609dc9b861978a9b58998ce226240b4"
+
+[[files]]
 file = "config/curios-client.toml"
 hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
 
@@ -273,6 +285,10 @@ file = "config/everycomp-entries-2.toml.bak"
 hash = "cad9797f741841b64b641dbe5015d0aa2081d385fb05f99db9a988c39a0693d7"
 
 [[files]]
+file = "config/everycomp-entries-3.toml.bak"
+hash = "cad9797f741841b64b641dbe5015d0aa2081d385fb05f99db9a988c39a0693d7"
+
+[[files]]
 file = "config/everycomp-entries.toml"
 hash = "cad9797f741841b64b641dbe5015d0aa2081d385fb05f99db9a988c39a0693d7"
 
@@ -311,6 +327,10 @@ hash = "c834c382b3f43f6cc98e1bdcd9d96ed8a83984653215c4e4c45a44098a4a738e"
 [[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "7724615b78b3aada388fe595c05f6a3b9807e069f1aaf70c332e991434c45e57"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "9b9525f6baadc8312819ae21ad8688b20fb887e0e2bec4bceece4cbb296196b8"
 
 [[files]]
 file = "config/fml.toml"
@@ -494,6 +514,10 @@ file = "config/pneumaticcraft/thirdparty.cfg"
 hash = "e9af5f88697631ee27cb744f587f6f75a68cebab371e0df6f795ea63fce79d6a"
 
 [[files]]
+file = "config/ponder-client.toml"
+hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
+
+[[files]]
 file = "config/puzzle.json"
 hash = "45ce0f0b227d11ae4e130214c14e7ce0cd78437066e95cb67f5227edda8da561"
 
@@ -674,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
 metafile = true
 
 [[files]]
