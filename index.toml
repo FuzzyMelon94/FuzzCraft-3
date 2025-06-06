@@ -494,6 +494,22 @@ file = "config/sodium-options.json"
 hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
 
 [[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "aa5bbeecc4e09743f39f76a9a11df718ef7263804f14656df0c5d58f2a24c19d"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "c298f506a9243beba0f3a3ca52199dc8058ac6d1e5357a533549bfd18fbdc63e"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "450dcd187b54b7fda10824923ba7194e9af48d8df83e8650f1f00e0cc34a6617"
+
+[[files]]
 file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
@@ -528,6 +544,18 @@ hash = "9098a40f3445da4e4e330750079d5629abe4632c211c6f8db11bb0dea829e5d8"
 [[files]]
 file = "config/trashslot-common.toml"
 hash = "6cd3a10e6f7eaacf14aa46fa68dc141efbad30b32f3eabab8a82781fe96fea28"
+
+[[files]]
+file = "config/travelersbackpack-client.toml"
+hash = "dbc2100e994a4839bf08fb95dc065579370cbd6da0def54faaaadac40689a78b"
+
+[[files]]
+file = "config/travelersbackpack-common.toml"
+hash = "37ce5a56214bb9ca267ea3a4bdeee69da309afbbd6f74866efdd6e987a709ce3"
+
+[[files]]
+file = "config/travelersbackpack-server.toml"
+hash = "97dc092a064e2aab7d5c3f5b6552286c601d6a3e0ad981dfeb0872ff44d38b1f"
 
 [[files]]
 file = "config/upcycle-client.toml"
@@ -617,6 +645,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
