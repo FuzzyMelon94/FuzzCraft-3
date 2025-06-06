@@ -205,6 +205,18 @@ file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
+file = "config/curios-client.toml"
+hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
+
+[[files]]
+file = "config/curios-server.toml"
+hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
+
+[[files]]
 file = "config/dummmmmmy-client.toml"
 hash = "e3785d564675ef1a0209819d580c37e60c51fbe986057b3a6c8e7e5f2af1b416"
 
@@ -307,6 +319,18 @@ hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
 [[files]]
 file = "config/friendsandfoes.json"
 hash = "5378186838edcf828c352a47b0ea7e5f87efcadc7230eef08dc7d2c9ed6d27c7"
+
+[[files]]
+file = "config/gravestone-client.toml"
+hash = "d818768c7c459d70f78cd360152fa113e18f4deb0b8d81b8b9296b37e624ce75"
+
+[[files]]
+file = "config/gravestone-server.toml"
+hash = "2d184dfbe79bc606d5c934a899c5ce147db9d6951b28d3bbc757b660b7153fa6"
+
+[[files]]
+file = "config/gravestonecurioscompat-common.toml"
+hash = "250425339a33652b1da043c4ee48d36de74493c257c81df3ea6064eae82a7eb8"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -598,6 +622,11 @@ hash = "586341de7078015cea16ffaf8e2e198a16c43b306d70bc439a15ea0298f9d3cb"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "65eb3254419ce3c5ef9e51950833c9431a23fc96216b09081187e695326d522e"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "5be6142a7064df1e96149f505f4474c06b88e392629d6bc5552b5b2da98c8ace"
 metafile = true
@@ -755,6 +784,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "c34ad41e351235b1ca8e026e9fba9b3ee01c42e4933b060f0c870aac3014403a"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
+hash = "bac64d66334b78287575f7717aeb542bf4871c0fda866e9a9df4c080f7fdfed7"
 metafile = true
 
 [[files]]
