@@ -301,6 +301,10 @@ file = "config/everycomp-entries-4.toml.bak"
 hash = "cad9797f741841b64b641dbe5015d0aa2081d385fb05f99db9a988c39a0693d7"
 
 [[files]]
+file = "config/everycomp-entries-5.toml.bak"
+hash = "a71fe3da9dcbcb65f36fe2938a963a77746de6cb16af8ad9eb68c4bceb2e2d2a"
+
+[[files]]
 file = "config/everycomp-entries.toml"
 hash = "cad9797f741841b64b641dbe5015d0aa2081d385fb05f99db9a988c39a0693d7"
 
@@ -788,6 +792,11 @@ hash = "65cd00e90de065e99d13352fd5d8aa3bc28d062b9dc935cf1da914a2047b2208"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "6b3bb4f1428d108f1d538b143be7567ea1b24b795e7ad8442bf77d6e1b5c6e7d"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "1e6d9f96071ca889616b26a34e8023e98c8777f445736cd85366a61a9150898c"
 metafile = true
@@ -1129,4 +1138,14 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
 metafile = true
