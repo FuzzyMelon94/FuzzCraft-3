@@ -217,6 +217,14 @@ file = "config/create-server.toml"
 hash = "0d0c25f8c1caf12dd89f8f3e14254ecde609dc9b861978a9b58998ce226240b4"
 
 [[files]]
+file = "config/create_d2d-client.toml"
+hash = "666e22f40b14a3cd5291236b4bcce0499242f5ceeb91ccc752765f5f83f20eac"
+
+[[files]]
+file = "config/create_d2d-server.toml"
+hash = "4bb6f7c66fb07eade6aa9a05a2ef90720a16855dd93162af0aed8bad9d0d51ab"
+
+[[files]]
 file = "config/curios-client.toml"
 hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
 
@@ -286,6 +294,10 @@ hash = "cad9797f741841b64b641dbe5015d0aa2081d385fb05f99db9a988c39a0693d7"
 
 [[files]]
 file = "config/everycomp-entries-3.toml.bak"
+hash = "cad9797f741841b64b641dbe5015d0aa2081d385fb05f99db9a988c39a0693d7"
+
+[[files]]
+file = "config/everycomp-entries-4.toml.bak"
 hash = "cad9797f741841b64b641dbe5015d0aa2081d385fb05f99db9a988c39a0693d7"
 
 [[files]]
@@ -708,6 +720,11 @@ metafile = true
 [[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
 hash = "32956e0b85a4631a5c2091bbd64387978970e83c3d6f7654a3a4a8b59ddff0cc"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+hash = "92b932cdce55104c465c53bb8d57667e053135b51cdb11dae2099754a158d3f8"
 metafile = true
 
 [[files]]
