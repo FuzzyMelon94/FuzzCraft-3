@@ -834,6 +834,11 @@ hash = "65cd00e90de065e99d13352fd5d8aa3bc28d062b9dc935cf1da914a2047b2208"
 metafile = true
 
 [[files]]
+file = "mods/escalated.pw.toml"
+hash = "0000f47bdfffab7f0a030230eb77014330fed2fb10e4b0ad3837ccf265622529"
+metafile = true
+
+[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "6b3bb4f1428d108f1d538b143be7567ea1b24b795e7ad8442bf77d6e1b5c6e7d"
 metafile = true
