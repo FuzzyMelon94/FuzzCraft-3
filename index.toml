@@ -417,6 +417,18 @@ file = "config/friendsandfoes.json"
 hash = "5378186838edcf828c352a47b0ea7e5f87efcadc7230eef08dc7d2c9ed6d27c7"
 
 [[files]]
+file = "config/ftblibrary-client.snbt"
+hash = "749c947ef3e1d038863875e00787e23c5fef38d3b0f39451bfb54497b8597717"
+
+[[files]]
+file = "config/ftbultimine-client.snbt"
+hash = "f4619aa7f0ba6a08b5738e238b9348deebc9cb6f38214bd86d06519f98d253bc"
+
+[[files]]
+file = "config/ftbultimine-server.snbt"
+hash = "321919f66706059c06de774ed3a960fcba1d141b13f7a71c8c2e5d821b709c6c"
+
+[[files]]
 file = "config/gravestone-client.toml"
 hash = "d818768c7c459d70f78cd360152fa113e18f4deb0b8d81b8b9296b37e624ce75"
 
@@ -860,8 +872,13 @@ hash = "1f84c40e5490a8cae3c602a19f4dab3e9e35d202a24d759fcb020725155a96f6"
 metafile = true
 
 [[files]]
+file = "mods/create-ultimine.pw.toml"
+hash = "3e7e515c07ed45b5d7b4d6179f39dc4e0f9aab911ca035ce3770b7370f747c41"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
+hash = "7b553d5f7dee6230aba84fee4cc25c2421d6710b762951e1e2a6548a730e0b9f"
 metafile = true
 
 [[files]]
@@ -1042,6 +1059,11 @@ metafile = true
 [[files]]
 file = "mods/justblahaj.pw.toml"
 hash = "855ef5d265c91d8ee6a9c1a80986c58fa34311be1cb65bcc6af5830bbda57bf0"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "5bc824e369b9a085c7381f768356ce19c062d1b81e2302149684df62c60a16c8"
 metafile = true
 
 [[files]]
