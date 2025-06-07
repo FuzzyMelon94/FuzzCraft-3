@@ -273,6 +273,10 @@ file = "config/create_power_loader-server.toml"
 hash = "85c9c5fdd2b233247e26c739587bdae741fa1d04f9c20a2566663c47ec8ccd9b"
 
 [[files]]
+file = "config/createultimine-server.snbt"
+hash = "b2a09c46c13f973384ba6cc7278a3f92b2fe9c2a792c1a24e0077d38dc8ca53b"
+
+[[files]]
 file = "config/cullleaves.json"
 hash = "6596cbe9453cc9cf69b4addfb02fe9d1501ffc9254ac047d9cd7a23bc6ce7dcc"
 
@@ -832,6 +836,11 @@ hash = "85bfeee744eff6e3cb9146da32407874d569237298072c4455224566e322e476"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "1c5df92ddd39de9c6752e45abb0a4be355ced98deed159a96e13ab12dba63b12"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "7311050b0232214f32999a6eb3e75dc64de40ea1962bbb166f3e5499495db352"
 metafile = true
@@ -878,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "7b553d5f7dee6230aba84fee4cc25c2421d6710b762951e1e2a6548a730e0b9f"
+hash = "ff54adc13d204ceacffbf4cacce611bb3c6e7c741a912ee297259a4f1e576e61"
 metafile = true
 
 [[files]]
