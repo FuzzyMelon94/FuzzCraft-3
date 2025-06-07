@@ -725,6 +725,11 @@ hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "586341de7078015cea16ffaf8e2e198a16c43b306d70bc439a15ea0298f9d3cb"
 metafile = true
@@ -982,6 +987,16 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "f9a2c5d17247f0313a0b40ca69c8490e96f0e03dbfd5a6371007435c2e0db10f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "a4f2d610c81a2696b9a4a2ef9c569ec2caf1dd615c78fd70f73f91ad3a849c2a"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "a224c65c2b6bdf3a019f1b2c1af037e7001921f75c0229d2231c4f38cd47e9c0"
 metafile = true
 
 [[files]]
