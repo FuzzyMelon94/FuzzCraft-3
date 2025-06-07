@@ -177,6 +177,14 @@ file = "config/biomesoplenty/generation.toml"
 hash = "428c8be557854161e82b21b5654d2865b9b0c53bba969f20398568f94d4ae030"
 
 [[files]]
+file = "config/brewinandchewin-client.toml"
+hash = "d9dcb96e592b978b26aa41bf941d2f22bdb731b357934b8edbcd717d1df03131"
+
+[[files]]
+file = "config/brewinandchewin-common.toml"
+hash = "2f588307a4fd5053bf8e9ba4110cd0bcd99a33547f6ff018a284914cdfc46214"
+
+[[files]]
 file = "config/carryon-client.toml"
 hash = "865a366143df5f4d92941058c823ea48deb8445f6444b45e870331b16a444f0f"
 
@@ -815,6 +823,11 @@ metafile = true
 [[files]]
 file = "mods/create-integrated-farming.pw.toml"
 hash = "01ba110405e8949787002b55c62a1aba202411be665180b01db74c096f67d891"
+metafile = true
+
+[[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "67422fb0ab5a5ae646fb99077e83282c2e13e29749611bcb64bbbe02ccdb644a"
 metafile = true
 
 [[files]]
