@@ -217,6 +217,14 @@ file = "config/create-server.toml"
 hash = "0d0c25f8c1caf12dd89f8f3e14254ecde609dc9b861978a9b58998ce226240b4"
 
 [[files]]
+file = "config/create_central_kitchen-client.toml"
+hash = "0a1393aff89a803f574fcdb72a6c39c7fcdc95fae4e9ccf3d53cbd155c405c9d"
+
+[[files]]
+file = "config/create_central_kitchen-common.toml"
+hash = "49c41db65be12584f781b20498e11f03126a8c21e2cb608e5a1501e45f088eee"
+
+[[files]]
 file = "config/create_chocolate_fountain-server.toml"
 hash = "7ccab727b0cd740ddf858d0e6969f5096473dc299c5b818fc2595de05cfb8d59"
 
@@ -732,6 +740,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "71434caad33d734bcafdb976be3f7c6e90cea1ac13c9ebb292d1b96562b2588b"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "3ec8952109756b9adde5f7764f4bf7f09b6485d327959d9ac797a152029c635b"
 metafile = true
 
 [[files]]
