@@ -245,6 +245,10 @@ file = "config/create_enchantment_industry-server.toml"
 hash = "fe51eafe8ca5fa6e86f57675818fa11f2ba9f0ced35676aa567bf01a29c45b3d"
 
 [[files]]
+file = "config/cullleaves.json"
+hash = "6596cbe9453cc9cf69b4addfb02fe9d1501ffc9254ac047d9cd7a23bc6ce7dcc"
+
+[[files]]
 file = "config/curios-client.toml"
 hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
 
@@ -775,6 +779,11 @@ metafile = true
 [[files]]
 file = "mods/create-framed.pw.toml"
 hash = "92b932cdce55104c465c53bb8d57667e053135b51cdb11dae2099754a158d3f8"
+metafile = true
+
+[[files]]
+file = "mods/create-integrated-farming.pw.toml"
+hash = "01ba110405e8949787002b55c62a1aba202411be665180b01db74c096f67d891"
 metafile = true
 
 [[files]]
