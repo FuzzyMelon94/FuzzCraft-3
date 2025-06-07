@@ -800,6 +800,11 @@ hash = "a75cc9645368acbba1513db4558b1e281c7eea5d77246fb232a2df55b96b09a6"
 metafile = true
 
 [[files]]
+file = "mods/create-cheese.pw.toml"
+hash = "5ee28df27b17ee4a91939e162276383c817f0ecf5f14684177dd12994ce09118"
+metafile = true
+
+[[files]]
 file = "mods/create-chocolate-fountain.pw.toml"
 hash = "53c0c3f6af82adca8d24dcf575d2bdf3bed5e12135823a4c4f27ee7b435b9044"
 metafile = true
