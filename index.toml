@@ -805,6 +805,11 @@ hash = "53c0c3f6af82adca8d24dcf575d2bdf3bed5e12135823a4c4f27ee7b435b9044"
 metafile = true
 
 [[files]]
+file = "mods/create-confectionery.pw.toml"
+hash = "85bfeee744eff6e3cb9146da32407874d569237298072c4455224566e322e476"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "7311050b0232214f32999a6eb3e75dc64de40ea1962bbb166f3e5499495db352"
 metafile = true
