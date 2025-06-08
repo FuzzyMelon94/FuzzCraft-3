@@ -237,6 +237,14 @@ file = "config/create_chocolate_fountain-server.toml"
 hash = "7ccab727b0cd740ddf858d0e6969f5096473dc299c5b818fc2595de05cfb8d59"
 
 [[files]]
+file = "config/create_connected-common.toml"
+hash = "b6c22d51bd1175342f39d19b8f46d1c95f390a7daba4a4825ff7f3d20a765a16"
+
+[[files]]
+file = "config/create_connected-server.toml"
+hash = "c2d7ef373f19e1912416f250252e986cd8d8f2056cb6b24bd0dcb5daf67f4699"
+
+[[files]]
 file = "config/create_d2d-client.toml"
 hash = "666e22f40b14a3cd5291236b4bcce0499242f5ceeb91ccc752765f5f83f20eac"
 
@@ -823,6 +831,11 @@ metafile = true
 [[files]]
 file = "mods/create-cheese.pw.toml"
 hash = "5ee28df27b17ee4a91939e162276383c817f0ecf5f14684177dd12994ce09118"
+metafile = true
+
+[[files]]
+file = "mods/create-chicken-nuggets.pw.toml"
+hash = "4dfd7275b3f2be50cd1e1cf89e434fe19ef4f0b6b8a869fced10f9c7fba2c608"
 metafile = true
 
 [[files]]
