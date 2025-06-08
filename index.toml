@@ -618,6 +618,10 @@ file = "config/ponder-client.toml"
 hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
 
 [[files]]
+file = "config/protection-pixel.toml"
+hash = "0d250042d47362bed889029edc2d70bd8062f7302a7eb4f8bd73034e99a01b3f"
+
+[[files]]
 file = "config/puzzle.json"
 hash = "45ce0f0b227d11ae4e130214c14e7ce0cd78437066e95cb67f5227edda8da561"
 
@@ -876,6 +880,11 @@ metafile = true
 [[files]]
 file = "mods/create-integrated-farming.pw.toml"
 hash = "01ba110405e8949787002b55c62a1aba202411be665180b01db74c096f67d891"
+metafile = true
+
+[[files]]
+file = "mods/create-ironworks.pw.toml"
+hash = "526ffc7ce038465260df7cb64c0f70613efe9f633f4174206f84d2103a0ff9dd"
 metafile = true
 
 [[files]]
