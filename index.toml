@@ -25,6 +25,50 @@ file = "config/appleskin-client.toml"
 hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
 
 [[files]]
+file = "config/attributefix/l2damagetracker/bow_strength.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/l2damagetracker/crit_damage.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/l2damagetracker/crit_rate.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/l2damagetracker/damage_absorption.json"
+hash = "fead7637d9e24d53ba947a7260fdbb1b8d7da59e0d46a480e2a5fb9bf2d4aeb1"
+
+[[files]]
+file = "config/attributefix/l2damagetracker/damage_reduction.json"
+hash = "68512ba5fb38958b90a6d612a2d002d7ddfc965e609d27776f1918efc8c989bc"
+
+[[files]]
+file = "config/attributefix/l2damagetracker/explosion_damage.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/l2damagetracker/fire_damage.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/l2damagetracker/freezing_damage.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/l2damagetracker/lightning_damage.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/l2damagetracker/magic_damage.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/l2damagetracker/regen.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
 file = "config/attributefix/minecraft/generic.armor.json"
 hash = "b6aa33f20fbc7bb14c930dfcfd93591f37f2ccf12df0b6da9551f7a6fad1e439"
 
@@ -147,6 +191,22 @@ hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
 [[files]]
 file = "config/attributefix/minecraft/zombie.spawn_reinforcements.json"
 hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/modulargolems/golem_jump.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/modulargolems/golem_regen.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/modulargolems/golem_size.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = "config/attributefix/modulargolems/golem_sweep.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
 
 [[files]]
 file = "config/attributefix/neoforge/nametag_distance.json"
@@ -549,6 +609,34 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "d61f8c5cc3305b24b133cb95804c85a66c405f0ff977fbf45ff452c38dbb7546"
 
 [[files]]
+file = "config/l2configs/l2core-client.toml"
+hash = "58a37c4b6c7f3bbfe8320afec4792e324fb81985ae4ba763752e1841cccde538"
+
+[[files]]
+file = "config/l2configs/l2damagetracker-server.toml"
+hash = "6d28810ba07b69d97a23a4ba23cb6d4d9df2b4f40681333eea4d77d14c16c2d7"
+
+[[files]]
+file = "config/l2configs/l2itemselector-client.toml"
+hash = "06974965c2133bc6078f173b4342834270e78a4b3b70dd9a9d786c8055d771c0"
+
+[[files]]
+file = "config/l2configs/l2library-server.toml"
+hash = "dbe7095d94a7ffa634cbf853963ec9bfc63f669a9e3d08967c0b07249ba9c568"
+
+[[files]]
+file = "config/l2configs/l2menustacker-server.toml"
+hash = "6f3fdf92adf6da9c2f011ed3d814bfcbf3e8247dbd2bdcdb231283666ea0877c"
+
+[[files]]
+file = "config/l2configs/l2tabs-client.toml"
+hash = "a9c9034135d0ce7d10b2b14e6958f12f8578af0313dae6528cc53b446511d953"
+
+[[files]]
+file = "config/l2configs/modulargolems-server.toml"
+hash = "2912be01065303c90df4bffba0ec9a822a11daebaff9c514d2e164fd81373776"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
@@ -836,6 +924,30 @@ hash = "ffdc0599eeeb8acb0fcfd2d1d3adb54f25447ed9b57fa9fa792d7529406742bd"
 [[files]]
 file = "config/waystones-common.toml"
 hash = "cf58744dbe870388a22f13c70c5c0488978f1d1e92465d12db6a0a30adabdb66"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "b1c47681c88ef9f848ef3a2d399bb532ff60b3091faef966e065707e3077f163"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
 file = "config/yacl.json5"
@@ -1569,6 +1681,16 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "892cf7902f5d3795a1a3d576e4cc24d51654f29ac0d39215e5e3adf262778562"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "874e30e629a4d32dc35b37fae6ab6996f63a9f5f6fa3acb10a89d96a7ac6f740"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "4853035723ad5005425f408601ad878b1a6c28bf20ca9ab9c1ec0997e60c348e"
 metafile = true
 
 [[files]]
