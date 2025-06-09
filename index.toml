@@ -277,12 +277,28 @@ file = "config/create_integrated_farming-server.toml"
 hash = "1c2b4c850fa36e2cae25eff64593c23b70164b3fe99e4ca847bfb7fb5ab39ef2"
 
 [[files]]
+file = "config/create_jetpack-client.toml"
+hash = "89094f05746ba946d303ca7fd7888094c34165b4af507317e081b6c9b5f7ecc3"
+
+[[files]]
+file = "config/create_jetpack-common.toml"
+hash = "1177996d40fc3be7b7716d2594874ac48b64d890ac82a88b41c88aff89a02567"
+
+[[files]]
 file = "config/create_power_loader-server.toml"
 hash = "85c9c5fdd2b233247e26c739587bdae741fa1d04f9c20a2566663c47ec8ccd9b"
 
 [[files]]
 file = "config/createaddition-common.toml"
 hash = "155d0315ca1eac84e636983dd845ac67bfd38f22a437213c8e26488de0338cf5"
+
+[[files]]
+file = "config/createsifter-client.toml"
+hash = "604ab70af44962ebb35531b86a9dc9ae23092c06c146cbbf4fe29bb6b29132ee"
+
+[[files]]
+file = "config/createsifter-server.toml"
+hash = "daff09d6b53c6a58a7d44f258385181356e3bead3032cf3a68787031a9121a99"
 
 [[files]]
 file = "config/createultimine-server.snbt"
@@ -902,6 +918,11 @@ hash = "526ffc7ce038465260df7cb64c0f70613efe9f633f4174206f84d2103a0ff9dd"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "09eca8aef96745c2f30d0536ed76904a2342a5f9cbe0745b62ce48f5e4666b4c"
+metafile = true
+
+[[files]]
 file = "mods/create-more-sandpapers.pw.toml"
 hash = "c8af0c27930ddb2dc60fe2775178cc383f72e304277c098bfe2114c292501c77"
 metafile = true
@@ -1138,7 +1159,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "5bc824e369b9a085c7381f768356ce19c062d1b81e2302149684df62c60a16c8"
+hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
 
 [[files]]
