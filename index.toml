@@ -941,6 +941,11 @@ hash = "ec83351ff8e3ed9c085370cb1d6844dda99f24ad271ffc4b07beba5fe7c836cc"
 metafile = true
 
 [[files]]
+file = "mods/create-more-chocolate.pw.toml"
+hash = "591c42b5272adeb3baa83d073633d113d55a718a6b8d004e7cf41e5e029c3a65"
+metafile = true
+
+[[files]]
 file = "mods/create-more-sandpapers.pw.toml"
 hash = "c8af0c27930ddb2dc60fe2775178cc383f72e304277c098bfe2114c292501c77"
 metafile = true
@@ -982,7 +987,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "ff54adc13d204ceacffbf4cacce611bb3c6e7c741a912ee297259a4f1e576e61"
+hash = "7b553d5f7dee6230aba84fee4cc25c2421d6710b762951e1e2a6548a730e0b9f"
 metafile = true
 
 [[files]]
