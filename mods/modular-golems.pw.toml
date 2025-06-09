@@ -1,0 +1,13 @@
+name = "Modular Golems"
+filename = "modulargolems-3.0.25.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gtGDlsAD/versions/R81vtgPe/modulargolems-3.0.25.jar"
+hash-format = "sha512"
+hash = "6aa00406e3b7b01f787ad3676d0cbb1fd7623fc6491a67c310dea1915ce8334a6235a8e62ffdc0edf5e2ce10bb12284a54d07ba550942e12bd67e3d5b3688f7f"
+
+[update]
+[update.modrinth]
+mod-id = "gtGDlsAD"
+version = "R81vtgPe"

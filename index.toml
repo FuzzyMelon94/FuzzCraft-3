@@ -473,6 +473,10 @@ file = "config/ftbultimine-server.snbt"
 hash = "321919f66706059c06de774ed3a960fcba1d141b13f7a71c8c2e5d821b709c6c"
 
 [[files]]
+file = "config/golemoverhaul.jsonc"
+hash = "7e694c92bd8b75e3cae9c6a0730a4d5e1cc00c39dc7f4924dd09ef8ce12da41d"
+
+[[files]]
 file = "config/gravestone-client.toml"
 hash = "d818768c7c459d70f78cd360152fa113e18f4deb0b8d81b8b9296b37e624ce75"
 
@@ -716,6 +720,10 @@ hash = "45ce0f0b227d11ae4e130214c14e7ce0cd78437066e95cb67f5227edda8da561"
 [[files]]
 file = "config/repurposed_structures-neoforge/modded_loot.toml"
 hash = "7108d5e1936fc5e528bd3eff3b7f2176ad1180e41dfeafb6a17da0954d09d8a4"
+
+[[files]]
+file = "config/resourceful-config-web.json"
+hash = "506499dc0502ae7abdc4f74fd1950cc5aae053b0d268d45896c1cc347e2f3cf9"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -1294,6 +1302,11 @@ hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
 
 [[files]]
+file = "mods/l2library.pw.toml"
+hash = "623d0e5b524db1334df97220d3bcbb13eec85c6ab09f702bd11cd15e66747170"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
@@ -1321,6 +1334,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "2119d22a1869118e389237716e0f66bd58c4f3f2b4a0dd1e7558721860afdca7"
+metafile = true
+
+[[files]]
+file = "mods/modular-golems.pw.toml"
+hash = "a6224627ed66e232badd412a9effc75bf886fbbdde1d16f0b0e0565996a94870"
 metafile = true
 
 [[files]]
