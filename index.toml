@@ -878,6 +878,11 @@ hash = "1c5df92ddd39de9c6752e45abb0a4be355ced98deed159a96e13ab12dba63b12"
 metafile = true
 
 [[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "dd3ac8991f2af25de63075a7525233dbb520150f9e8fa342ee8fd8f702e0cafa"
+metafile = true
+
+[[files]]
 file = "mods/create-deep-dark.pw.toml"
 hash = "c40e9a30bcd7bc7706166a20ce3009579e257840885509510e4a7ae3d82f6218"
 metafile = true
@@ -964,7 +969,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "ff54adc13d204ceacffbf4cacce611bb3c6e7c741a912ee297259a4f1e576e61"
+hash = "7b553d5f7dee6230aba84fee4cc25c2421d6710b762951e1e2a6548a730e0b9f"
 metafile = true
 
 [[files]]
@@ -989,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
