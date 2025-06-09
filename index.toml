@@ -1236,6 +1236,11 @@ hash = "a6448a229fe0cb53a4042f8b16b41d1986316376ace55c8cf126cb61c29d417e"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
@@ -1433,6 +1438,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "4891b6437ba99eec2ca6875149fd202832cd8bfeae01750f6bd82547321c77a7"
 metafile = true
 
 [[files]]
