@@ -926,6 +926,10 @@ file = "config/upcycle-server.toml"
 hash = "9c47058fefdf056cad83e6cbbaec8714a2354b05f9690930439e03f20d9c5b13"
 
 [[files]]
+file = "config/utilitarian-common.toml"
+hash = "c32a7d79a6d9349f699aaaf78b623b354a8680ecdd72282873b510435c750bab"
+
+[[files]]
 file = "config/waveycapes.json"
 hash = "ffdc0599eeeb8acb0fcfd2d1d3adb54f25447ed9b57fa9fa792d7529406742bd"
 
@@ -1694,6 +1698,11 @@ metafile = true
 [[files]]
 file = "mods/upcycle.pw.toml"
 hash = "dde9347dcb967089bf1c3c01cc1989b8453793609d69869e2f615356f54e86cb"
+metafile = true
+
+[[files]]
+file = "mods/utilitarian.pw.toml"
+hash = "74104b7854f3ee565c7c47e8f01fcbfba464aa33f5d9d1be9e026b8da09abc26"
 metafile = true
 
 [[files]]
