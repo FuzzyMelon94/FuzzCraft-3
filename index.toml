@@ -898,6 +898,11 @@ hash = "526ffc7ce038465260df7cb64c0f70613efe9f633f4174206f84d2103a0ff9dd"
 metafile = true
 
 [[files]]
+file = "mods/create-more-sandpapers.pw.toml"
+hash = "c8af0c27930ddb2dc60fe2775178cc383f72e304277c098bfe2114c292501c77"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
 metafile = true
