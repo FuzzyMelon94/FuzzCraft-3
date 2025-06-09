@@ -281,6 +281,10 @@ file = "config/create_power_loader-server.toml"
 hash = "85c9c5fdd2b233247e26c739587bdae741fa1d04f9c20a2566663c47ec8ccd9b"
 
 [[files]]
+file = "config/createaddition-common.toml"
+hash = "155d0315ca1eac84e636983dd845ac67bfd38f22a437213c8e26488de0338cf5"
+
+[[files]]
 file = "config/createultimine-server.snbt"
 hash = "b2a09c46c13f973384ba6cc7278a3f92b2fe9c2a792c1a24e0077d38dc8ca53b"
 
@@ -940,6 +944,11 @@ metafile = true
 [[files]]
 file = "mods/create_oxidized.pw.toml"
 hash = "50a9e0cce66be2ab5f875133d7ce53d0fc6c35d4a5a4fc0e776f10fadeb61c68"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "bffb086ccb18831669912bfca626b405a180555c3e395301089d3104336dbba8"
 metafile = true
 
 [[files]]
