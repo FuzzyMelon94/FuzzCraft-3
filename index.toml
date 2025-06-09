@@ -674,6 +674,14 @@ file = "config/sodium-options.json"
 hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
 
 [[files]]
+file = "config/someassemblyrequired-client.toml"
+hash = "b1c986e16f374fcbe9cd0f8a19327af34fa0e2feacbadb63cc3781bcf7b4d912"
+
+[[files]]
+file = "config/someassemblyrequired-server.toml"
+hash = "7c1f24310075a6498a7fe9c96cf40e865703fca3f4f1763dd7474fc8e984862b"
+
+[[files]]
 file = "config/sophisticatedbackpacks-common.toml"
 hash = "390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f"
 
@@ -1305,6 +1313,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/some-assembly-required.pw.toml"
+hash = "49880cabd0789b5742cc1fdd3140da316720bf29b7cc3b27c2cd280c89b96ba3"
 metafile = true
 
 [[files]]
