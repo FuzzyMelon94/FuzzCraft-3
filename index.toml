@@ -986,8 +986,13 @@ hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
 metafile = true
 
 [[files]]
+file = "mods/create-winery.pw.toml"
+hash = "cfc8dbfed63284c828a8141003a5a34ea58b8c9d62d5c520d4b42d3e65858c7e"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "7b553d5f7dee6230aba84fee4cc25c2421d6710b762951e1e2a6548a730e0b9f"
+hash = "ff54adc13d204ceacffbf4cacce611bb3c6e7c741a912ee297259a4f1e576e61"
 metafile = true
 
 [[files]]
