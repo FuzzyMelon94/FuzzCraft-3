@@ -873,6 +873,11 @@ hash = "60231e01fc1a64f3f0b155738bf5f56e9cb0f84d930b04aac83858357c4deaaf"
 metafile = true
 
 [[files]]
+file = "mods/create-extra-casing.pw.toml"
+hash = "b104731c5e6f3fba4464709c3c18950f58972d760aba74a6909230cb2c3a752c"
+metafile = true
+
+[[files]]
 file = "mods/create-framed.pw.toml"
 hash = "92b932cdce55104c465c53bb8d57667e053135b51cdb11dae2099754a158d3f8"
 metafile = true
