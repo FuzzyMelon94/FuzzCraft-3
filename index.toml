@@ -936,6 +936,11 @@ hash = "09eca8aef96745c2f30d0536ed76904a2342a5f9cbe0745b62ce48f5e4666b4c"
 metafile = true
 
 [[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "ec83351ff8e3ed9c085370cb1d6844dda99f24ad271ffc4b07beba5fe7c836cc"
+metafile = true
+
+[[files]]
 file = "mods/create-more-sandpapers.pw.toml"
 hash = "c8af0c27930ddb2dc60fe2775178cc383f72e304277c098bfe2114c292501c77"
 metafile = true
@@ -977,7 +982,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "7b553d5f7dee6230aba84fee4cc25c2421d6710b762951e1e2a6548a730e0b9f"
+hash = "ff54adc13d204ceacffbf4cacce611bb3c6e7c741a912ee297259a4f1e576e61"
 metafile = true
 
 [[files]]
