@@ -1022,6 +1022,10 @@ file = "config/travelersbackpack-server.toml"
 hash = "97dc092a064e2aab7d5c3f5b6552286c601d6a3e0ad981dfeb0872ff44d38b1f"
 
 [[files]]
+file = "config/travelerstitles-neoforge-1_21.toml"
+hash = "aa7573a0345adcf873b0f6b4644727bb0dd218d9281b36b0424b75b440bfe6fb"
+
+[[files]]
 file = "config/upcycle-client.toml"
 hash = "36fc8ceec8ed4a317eba901f5534c30190566a436d8f84ecb1366cec573e183a"
 
@@ -1818,6 +1822,11 @@ hash = "b7edb8bf6ab6913509a777faa013241784c3a75a966a1c62e4ddd786ecd2392f"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "167acde56f86d848efbbec713809ce3fa833030952acac473f6af9f9a1e98900"
 metafile = true
@@ -1949,6 +1958,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-travelers-titles.pw.toml"
+hash = "d59de12cad6c6346a76ee32b5ed2fea007ff8832771591f204a0ce6a0704dd1b"
 metafile = true
 
 [[files]]
