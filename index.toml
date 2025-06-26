@@ -713,6 +713,14 @@ file = "config/createultimine-server.snbt"
 hash = "b2a09c46c13f973384ba6cc7278a3f92b2fe9c2a792c1a24e0077d38dc8ca53b"
 
 [[files]]
+file = "config/creeperoverhaul.jsonc"
+hash = "33bcbfcf31ef5fc5d2b067e35123b0ffc64e9197deee31c6011708482aab6b7d"
+
+[[files]]
+file = "config/crepperoverhaul-client.jsonc"
+hash = "8ebd8ce17fd98dc18dde0d3271b9237fbc98d9664647940308c9a4d7804dc200"
+
+[[files]]
 file = "config/cullleaves.json"
 hash = "6596cbe9453cc9cf69b4addfb02fe9d1501ffc9254ac047d9cd7a23bc6ce7dcc"
 
@@ -767,6 +775,14 @@ hash = "856df01bdd2e529fb6df5a6561bf82bd033295bbb3150f3f8158945587579e68"
 [[files]]
 file = "config/enchdesc.json"
 hash = "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b"
+
+[[files]]
+file = "config/endermanoverhaul-client.jsonc"
+hash = "7fcc9808465cc6ac8f57426b568516f7ad9ba3197be8f3692ead91253f8bef7a"
+
+[[files]]
+file = "config/endermanoverhaul.jsonc"
+hash = "205388dcbd6c4a6ecb4c632b0adc4da7e2d78dbe93ee8132a28e3827b6ce9de5"
 
 [[files]]
 file = "config/ends_delight-common.toml"
@@ -879,6 +895,10 @@ hash = "82d92afd80114a5f8154cbdd3b40a1ab5e6dac9d271fc239eb670b96720221c8"
 [[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$withered_abyss.cfg"
 hash = "1dd4af40e1c8dd1afed76d408ca860811cadbe6a76af572e98b100e4d2e28b08"
+
+[[files]]
+file = "config/forgeendertech/Biomes/incendium$volcanic_deltas.cfg"
+hash = "59375a56d2170563f04667778c586a53c0284f4719d45e6f22dc5e6d8bb4cf97"
 
 [[files]]
 file = "config/forgeendertech/Biomes/incendium$weeping_valley.cfg"
@@ -2090,6 +2110,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "efa8d53b3a7144e56b9823c54249fc353828f532808a73e65967d84183874782"
 metafile = true
 
 [[files]]
