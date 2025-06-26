@@ -881,6 +881,10 @@ file = "config/forgeendertech/Biomes/incendium$weeping_valley.cfg"
 hash = "4e72709109fb9cf8edd4b35dc98e7029da06d798ab9bcec01a1586a7ebd4601c"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$mushroom_fields.cfg"
+hash = "b749e0680e8cd499bbe29c8267664507bedf501c9b2c40ee11e616657bb24ee3"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$alpha_islands.cfg"
 hash = "cb08607b05e4a4152c0fceffb8f568b793697882dd83f29115ef5627f614bee1"
 
@@ -1837,6 +1841,11 @@ hash = "d102275300c327312e3ea9afd6844d4627637cffa68525af69951fe2eeca33b0"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "80b8f5ac81313635f3829c0bfc1be0c82190cd5eeb2bd0f74039548f5d300ecc"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "2de1f8a8f059d117ba2de24df09b29c6c197298d60b62fcba2a6793a7985ca1a"
 metafile = true
@@ -1904,6 +1913,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "d887c005b64a36e1ab515d2fc6a35531b665ff7f4964b7068a01d3a136925641"
 metafile = true
 
 [[files]]
