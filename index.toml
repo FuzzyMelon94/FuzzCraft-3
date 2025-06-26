@@ -913,6 +913,10 @@ file = "config/forgeendertech/Biomes/terralith$alpha_islands.cfg"
 hash = "cb08607b05e4a4152c0fceffb8f568b793697882dd83f29115ef5627f614bee1"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$amethyst_canyon.cfg"
+hash = "9fdad4d760f96a038b83dbc08b7c0049eb7e6a92301b831bcf3321d1955be355"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$caldera.cfg"
 hash = "01ad476dd4527c8515e48a0954f0d1283404eb55b64264146ece0099a94acc37"
 
@@ -1260,6 +1264,14 @@ hash = "7108d5e1936fc5e528bd3eff3b7f2176ad1180e41dfeafb6a17da0954d09d8a4"
 [[files]]
 file = "config/resourceful-config-web.json"
 hash = "506499dc0502ae7abdc4f74fd1950cc5aae053b0d268d45896c1cc347e2f3cf9"
+
+[[files]]
+file = "config/ribbits-neoforge-1_21_1.toml"
+hash = "d7426d0b5c3cce1e3be82c6b68bb833efdcde4a52b3b4825502b5b26ee1e8043"
+
+[[files]]
+file = "config/ribbits-options.json"
+hash = "671ee75b5333f98d3a9b92fcfcc79c7df7a6b4c0e5cda025a7b449ab79562b2b"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -1875,6 +1887,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
 hash = "bac64d66334b78287575f7717aeb542bf4871c0fda866e9a9df4c080f7fdfed7"
+metafile = true
+
+[[files]]
+file = "mods/hearths.pw.toml"
+hash = "e85a99b873be94bc88f82dc924b3db1e14b70c3cd2962384ee3e0a998fb31f62"
 metafile = true
 
 [[files]]
