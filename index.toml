@@ -877,6 +877,10 @@ file = "config/forgeendertech/Biomes/biomesoplenty$shrubland.cfg"
 hash = "82d92afd80114a5f8154cbdd3b40a1ab5e6dac9d271fc239eb670b96720221c8"
 
 [[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$withered_abyss.cfg"
+hash = "1dd4af40e1c8dd1afed76d408ca860811cadbe6a76af572e98b100e4d2e28b08"
+
+[[files]]
 file = "config/forgeendertech/Biomes/incendium$weeping_valley.cfg"
 hash = "4e72709109fb9cf8edd4b35dc98e7029da06d798ab9bcec01a1586a7ebd4601c"
 
@@ -891,6 +895,10 @@ hash = "cb08607b05e4a4152c0fceffb8f568b793697882dd83f29115ef5627f614bee1"
 [[files]]
 file = "config/forgeendertech/Biomes/terralith$caldera.cfg"
 hash = "01ad476dd4527c8515e48a0954f0d1283404eb55b64264146ece0099a94acc37"
+
+[[files]]
+file = "config/forgeendertech/Biomes/terralith$yosemite_cliffs.cfg"
+hash = "d2c5a42adf5e957ce85c98736daa0377d5c40778d8fbca792d7031b2ef189e46"
 
 [[files]]
 file = "config/forgeendertech/Wind.cfg"
@@ -939,6 +947,10 @@ hash = "250425339a33652b1da043c4ee48d36de74493c257c81df3ea6064eae82a7eb8"
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
+
+[[files]]
+file = "config/immersive_aircraft.json"
+hash = "7e934f3c7ff3beaeb73d7242b68467fc62b779827c9cd3a79736fe79c93d4aec"
 
 [[files]]
 file = "config/immersive_paintings/client_config.toml"
@@ -1656,6 +1668,11 @@ hash = "87aa1394bc5c0211ac0b39b669b08219b00faae6a442efde762da18238afbcce"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "a6448a229fe0cb53a4042f8b16b41d1986316376ace55c8cf126cb61c29d417e"
 metafile = true
@@ -1703,6 +1720,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "8efa1757432143004e1958e70f01139ed350e85c9d5842346d30ec32231636de"
 metafile = true
 
 [[files]]
