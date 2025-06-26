@@ -1362,6 +1362,11 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
+metafile = true
+
+[[files]]
 file = "mods/eccentric-tome.pw.toml"
 hash = "3f61487794fd087c65061354e44526e9a162e3a6ce8ad180cd7b6d2bdf5ba9ac"
 metafile = true
