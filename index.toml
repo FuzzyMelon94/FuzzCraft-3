@@ -881,6 +881,10 @@ file = "config/forgeendertech/Biomes/incendium$weeping_valley.cfg"
 hash = "4e72709109fb9cf8edd4b35dc98e7029da06d798ab9bcec01a1586a7ebd4601c"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$alpha_islands.cfg"
+hash = "cb08607b05e4a4152c0fceffb8f568b793697882dd83f29115ef5627f614bee1"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$caldera.cfg"
 hash = "01ad476dd4527c8515e48a0954f0d1283404eb55b64264146ece0099a94acc37"
 
@@ -909,6 +913,10 @@ file = "config/ftbultimine-server.snbt"
 hash = "321919f66706059c06de774ed3a960fcba1d141b13f7a71c8c2e5d821b709c6c"
 
 [[files]]
+file = "config/fzzy_config/keybinds.toml"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
 file = "config/golemoverhaul.jsonc"
 hash = "7e694c92bd8b75e3cae9c6a0730a4d5e1cc00c39dc7f4924dd09ef8ce12da41d"
 
@@ -927,6 +935,14 @@ hash = "250425339a33652b1da043c4ee48d36de74493c257c81df3ea6064eae82a7eb8"
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
+
+[[files]]
+file = "config/immersive_paintings/client_config.toml"
+hash = "a2f833b23c9edccd68dc2455ead4ddc9948cc4240eeeb2b99f29b31260d05af2"
+
+[[files]]
+file = "config/immersive_paintings/common_config.toml"
+hash = "ac280a3271b92b29c0f85cdc348099cb7108c3e139a49a3d7b8d9fd7c61211b9"
 
 [[files]]
 file = "config/immersivetips-client.toml"
