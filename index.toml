@@ -21,6 +21,30 @@ file = "config/accessories.json5"
 hash = "b9f6a56acdb02a286de9aa06578dac5485656fb476adc819fb3c63dd49ad0785"
 
 [[files]]
+file = "config/almostunified/debug.json"
+hash = "def5b541fa88db047795d5c0647faed56329319298336e072e6b86d5500c4941"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
+
+[[files]]
+file = "config/almostunified/placeholders.json"
+hash = "43733b207b9f0238c7a5bec47f19e8fd5bec80499b286e0ac4994671702dfed9"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "37f013c49586db025c17f9fa6657c6f239e0169ebc97ef682ff114a2ede43c5e"
+
+[[files]]
+file = "config/almostunified/tags.json"
+hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
+
+[[files]]
+file = "config/almostunified/unification/materials.json"
+hash = "aeedd65c113ba7e1442e4106f0ca0f95728f4addd39ae90a84f50aff2de7c538"
+
+[[files]]
 file = "config/amendments-client.toml"
 hash = "c595c20a1203c081dc9423d4f9f0e87d6e104c6329001117ab12d282614e9205"
 
@@ -659,6 +683,10 @@ hash = "250425339a33652b1da043c4ee48d36de74493c257c81df3ea6064eae82a7eb8"
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
+
+[[files]]
+file = "config/immersivetips-client.toml"
+hash = "5886fcce3d28eaabd26753b219097562e5e6631a12ddeb7558b7316ab35cb9d1"
 
 [[files]]
 file = "config/iris-excluded.json"
@@ -1475,6 +1503,11 @@ hash = "40e8836af21d54a583aae325d402fc811f94444bf15e9a026f8b09e0ced4215d"
 metafile = true
 
 [[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "ff52ca3814a15c1aa7c940bc0f965affea0279691816321945df63137cc7f810"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "cb56550a957dd44cab4f9102aa588cd22421cd6b4099a03ac7b1b167c23c0f13"
 metafile = true
@@ -1572,6 +1605,11 @@ metafile = true
 [[files]]
 file = "mods/l2library.pw.toml"
 hash = "623d0e5b524db1334df97220d3bcbb13eec85c6ab09f702bd11cd15e66747170"
+metafile = true
+
+[[files]]
+file = "mods/large-ore-deposits.pw.toml"
+hash = "d3d88ec654586f9258bffd7739d4016ddd06f9a0afb343adb0484f10d1a83584"
 metafile = true
 
 [[files]]
