@@ -593,6 +593,10 @@ file = "config/chefsdelight-common.toml"
 hash = "10d852ba739ab2e9304c43bfd8d5eab2f95a7aaca01fb2e4db0c4f8d1ea2d3cb"
 
 [[files]]
+file = "config/cobblemon/main.json"
+hash = "d08b5ae439dd0549e5d7dd8418b7f5724249a76d3d638e2c1967d8b249b1f0ba"
+
+[[files]]
 file = "config/comforts-common.toml"
 hash = "1f21c10bfce9cd25aea641046a79df88867f68ba8ba3838a5e1662521f9f06a2"
 
@@ -927,6 +931,10 @@ hash = "035b12f5aa721a1545015afac765c5f67f005b1dbe779a21614cb2e6be735b7f"
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$mushroom_fields.cfg"
 hash = "b749e0680e8cd499bbe29c8267664507bedf501c9b2c40ee11e616657bb24ee3"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$snowy_plains.cfg"
+hash = "70be9eb31c0bec0559f3abc06270292c7235105d3ff8946463356e7b8177fcde"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$wooded_badlands.cfg"
@@ -1487,7 +1495,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -1556,8 +1564,23 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "69c59f5d7eaf9489c5e0f870e2b5bf1d5c5e9cd8dbff028f85dad5896b4cd09f"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-knowlogy.pw.toml"
+hash = "3cd677840a0a75ccf597b6da30805564db0d57760d571b58f4fcbed3b5b27755"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "e3cb1eb238192071af93f764e3ff2c493f4f437802bb56273f664bafdea13f1d"
+metafile = true
+
+[[files]]
+file = "mods/cobbreeding.pw.toml"
+hash = "97ab0f1c6358fbb68c889656714a7736862c884ce33e1ac953c9747818b904a1"
 metafile = true
 
 [[files]]
@@ -1996,6 +2019,11 @@ hash = "3f7076cd5a6fef650b5541bb6e7c89793f2a52f92d354a7a838ceb74b96e5de9"
 metafile = true
 
 [[files]]
+file = "mods/knowlogy.pw.toml"
+hash = "f092b35e3b003cd7a305c68a0c00c450b489ac36c22282d2ec56f77dff822d56"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
@@ -2008,6 +2036,11 @@ metafile = true
 [[files]]
 file = "mods/large-ore-deposits.pw.toml"
 hash = "d3d88ec654586f9258bffd7739d4016ddd06f9a0afb343adb0484f10d1a83584"
+metafile = true
+
+[[files]]
+file = "mods/lavender.pw.toml"
+hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
 metafile = true
 
 [[files]]
@@ -2071,6 +2104,11 @@ hash = "87e3acd7d3cdda6d8c99f26dafd871ba6057b6ca54650b43e6b91939069a91e5"
 metafile = true
 
 [[files]]
+file = "mods/more-cobblemon-tweaks.pw.toml"
+hash = "e2496817bd7d9b92f2d73490548a46cbd67789fd16fdf1a000f5c03f7d6ecfa3"
+metafile = true
+
+[[files]]
 file = "mods/more-delight.pw.toml"
 hash = "c796b7d0789fd98201f84200ad64c74c338eef7b3f2cfb326c64c2edf90e4d29"
 metafile = true
@@ -2088,6 +2126,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "82a5c30ed91d272ee1895376e0d2cf57504b3d9db4aba6547e19eaa344861ada"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
 metafile = true
 
 [[files]]
