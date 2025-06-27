@@ -601,6 +601,14 @@ file = "config/comforts-server.toml"
 hash = "ab2a637d7e74181f0fd8e75e3e6346bbfdb374b416dcd21edda023bdd355a0bc"
 
 [[files]]
+file = "config/computercraft-client.toml"
+hash = "db7bbdc89ab05070b2a4c22f6348b0c80aca4a3c449d92cdc6bc56b5af25ff7b"
+
+[[files]]
+file = "config/computercraft-server.toml"
+hash = "d4995da449d5c96d24245c7108b339b729cc088b012170b3445f7f4fc1e20b3d"
+
+[[files]]
 file = "config/connector.json"
 hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
 
@@ -919,6 +927,10 @@ hash = "035b12f5aa721a1545015afac765c5f67f005b1dbe779a21614cb2e6be735b7f"
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$mushroom_fields.cfg"
 hash = "b749e0680e8cd499bbe29c8267664507bedf501c9b2c40ee11e616657bb24ee3"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$wooded_badlands.cfg"
+hash = "fce5a910a90025adba11278cae3a86ad2dd9852e0bd808e845b0c626b0173fb6"
 
 [[files]]
 file = "config/forgeendertech/Biomes/terralith$alpha_islands.cfg"
@@ -1541,6 +1553,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "e3cb1eb238192071af93f764e3ff2c493f4f437802bb56273f664bafdea13f1d"
 metafile = true
 
 [[files]]
