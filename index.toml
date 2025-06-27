@@ -597,6 +597,14 @@ file = "config/cobblemon/main.json"
 hash = "d08b5ae439dd0549e5d7dd8418b7f5724249a76d3d638e2c1967d8b249b1f0ba"
 
 [[files]]
+file = "config/cobblemonintegrations-common.toml"
+hash = "0a5663957c3aa122188b7b73c42550daae297537ac2f182b314391406370bcf9"
+
+[[files]]
+file = "config/cobbreeding/main.json"
+hash = "81e04cf1214139fd8dfc68704f5ac5629fb8f78a4bf1426d4f367c8b1b087931"
+
+[[files]]
 file = "config/comforts-common.toml"
 hash = "1f21c10bfce9cd25aea641046a79df88867f68ba8ba3838a5e1662521f9f06a2"
 
@@ -937,6 +945,10 @@ file = "config/forgeendertech/Biomes/minecraft$snowy_plains.cfg"
 hash = "70be9eb31c0bec0559f3abc06270292c7235105d3ff8946463356e7b8177fcde"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$sunflower_plains.cfg"
+hash = "acad277a50933737287fe4e9cc49e6533d8c4e6cd3017c8a86b8d346f7f91b1f"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$wooded_badlands.cfg"
 hash = "fce5a910a90025adba11278cae3a86ad2dd9852e0bd808e845b0c626b0173fb6"
 
@@ -1203,6 +1215,10 @@ hash = "6504dc07b5028b68d3e7a2680b0c188f12b794fc6eee8053d572e9640dd13472"
 [[files]]
 file = "config/moonlight-common.toml"
 hash = "6ae9ec9348bd85d9d67c401536fc13dd0ae72760438ec915a0c18c0627dcae07"
+
+[[files]]
+file = "config/more_cobblemon_tweaks.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/naturescompass-client.toml"
@@ -1564,6 +1580,11 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "d63a13fa3e497b2ced089edeaabaecc8b09ef7dda6dce5f05a5926ff9912eefe"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-integrations.pw.toml"
 hash = "69c59f5d7eaf9489c5e0f870e2b5bf1d5c5e9cd8dbff028f85dad5896b4cd09f"
 metafile = true
@@ -1574,8 +1595,13 @@ hash = "3cd677840a0a75ccf597b6da30805564db0d57760d571b58f4fcbed3b5b27755"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-playerxp.pw.toml"
+hash = "cd40e85aad40fd45df9ba1553150bf4c3d8c7ac9dcebe0077b8b3cd5619c1db9"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "e3cb1eb238192071af93f764e3ff2c493f4f437802bb56273f664bafdea13f1d"
+hash = "a292645eacc6a5e6a322796a436c4fb48af0fd4e0212eb3221f13f31785d44d3"
 metafile = true
 
 [[files]]
@@ -2025,7 +2051,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
+hash = "5bc824e369b9a085c7381f768356ce19c062d1b81e2302149684df62c60a16c8"
 metafile = true
 
 [[files]]
