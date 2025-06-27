@@ -897,6 +897,10 @@ file = "config/forgeendertech/Biomes/biomesoplenty$shrubland.cfg"
 hash = "82d92afd80114a5f8154cbdd3b40a1ab5e6dac9d271fc239eb670b96720221c8"
 
 [[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$visceral_heap.cfg"
+hash = "b67acccdd643cd4981b6309e87a2c81e65c5d1c9c64382f8b65528ca90fae617"
+
+[[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$withered_abyss.cfg"
 hash = "1dd4af40e1c8dd1afed76d408ca860811cadbe6a76af572e98b100e4d2e28b08"
 
@@ -2061,6 +2065,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
+metafile = true
+
+[[files]]
+file = "mods/productivebees.pw.toml"
+hash = "dd5aad569fb25abbead8793db184a0dfe928b1b66976a2b85e7cd1847677b5b3"
 metafile = true
 
 [[files]]
