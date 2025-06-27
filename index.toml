@@ -581,6 +581,10 @@ file = "config/brewinandchewin-common.toml"
 hash = "2f588307a4fd5053bf8e9ba4110cd0bcd99a33547f6ff018a284914cdfc46214"
 
 [[files]]
+file = "config/capture_xp.json"
+hash = "3cf67a4b61c8be59c56921303ffa1b07586106b5fa572d30647f48a5524eb132"
+
+[[files]]
 file = "config/carryon-client.toml"
 hash = "865a366143df5f4d92941058c823ea48deb8445f6444b45e870331b16a444f0f"
 
@@ -919,6 +923,10 @@ hash = "82d92afd80114a5f8154cbdd3b40a1ab5e6dac9d271fc239eb670b96720221c8"
 [[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$visceral_heap.cfg"
 hash = "b67acccdd643cd4981b6309e87a2c81e65c5d1c9c64382f8b65528ca90fae617"
+
+[[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$wasteland.cfg"
+hash = "331fe2a94feb2d80fc037cf6f6fe4a87e84b5a0a49a42bbc7be7144ebf8770ff"
 
 [[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$withered_abyss.cfg"
@@ -1266,6 +1274,10 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/playerxp/playerxp/playerxp.json"
+hash = "53b1273941a2b56342a14f48d6373ec61a03d47ff2ad6cb1006cff96e9eeb386"
+
+[[files]]
 file = "config/pneumaticcraft-client.toml"
 hash = "68e83efe6dea278f4173a85fd4ccb766f4cf0a66843d031c00bc94312bf581bc"
 
@@ -1600,8 +1612,18 @@ hash = "cd40e85aad40fd45df9ba1553150bf4c3d8c7ac9dcebe0077b8b3cd5619c1db9"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-ride-on.pw.toml"
+hash = "27d34b63352687e4bada1733272fc32e4fbb90952d80c757bab2864f56020c41"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-spawn-notification.pw.toml"
+hash = "ad4ebdfeb5c20ecba5c791791d8dc71a51d137af34694d7a0cd390aaac18a517"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "a292645eacc6a5e6a322796a436c4fb48af0fd4e0212eb3221f13f31785d44d3"
+hash = "e3cb1eb238192071af93f764e3ff2c493f4f437802bb56273f664bafdea13f1d"
 metafile = true
 
 [[files]]
@@ -2051,7 +2073,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "5bc824e369b9a085c7381f768356ce19c062d1b81e2302149684df62c60a16c8"
+hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
 
 [[files]]
