@@ -889,6 +889,10 @@ file = "config/forgeendertech-common.toml"
 hash = "84817209a4fb2b8c1eb8d3aacb50ff91e1397324f10ea019b53d39735411496c"
 
 [[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$prairie.cfg"
+hash = "8cd546f5ca1bbf655addef4a98a1ab74299e06dcd5f087f443778e23c94bf17d"
+
+[[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$shrubland.cfg"
 hash = "82d92afd80114a5f8154cbdd3b40a1ab5e6dac9d271fc239eb670b96720221c8"
 
@@ -2267,6 +2271,16 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "892cf7902f5d3795a1a3d576e4cc24d51654f29ac0d39215e5e3adf262778562"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise-seven-seas.pw.toml"
+hash = "7ce0db3a2b83cc8fc4fcb2598b5f3a970f937d3730aea62c06d29269dcd213c3"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "79d6d9e874b17cd48b2d543e3075fbac5aae940e37190d8e9afd0a5ecfd2ea7c"
 metafile = true
 
 [[files]]
