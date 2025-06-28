@@ -473,6 +473,10 @@ file = "config/balm-common.toml"
 hash = "c51ed7f0af9528cffc79b6bf65e50dbf3dd49b21b1ec3ee7815b17c90f2d5638"
 
 [[files]]
+file = "config/betteradvancements-client.toml"
+hash = "38e88509078026a5a660e00947e5a6db74a3c374c8c7978ef64c360167f84db9"
+
+[[files]]
 file = "config/betterdeserttemples-neoforge-1_21.toml"
 hash = "c7355a13f2f7c4eeb3332ab67a2315e0662c7e5b434dc33d4624fccb9e815240"
 
@@ -606,7 +610,7 @@ hash = "c85653944e9ad0a167fa21032ffb518ce1dfc044268ca6e95b4f449d882b4ae7"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "d08b5ae439dd0549e5d7dd8418b7f5724249a76d3d638e2c1967d8b249b1f0ba"
+hash = "293d2cbfd02692ccf9cf52419d38c27522732f2519308790362eeb9e27f69670"
 
 [[files]]
 file = "config/cobblemonintegrations-common.toml"
@@ -894,7 +898,7 @@ hash = "77422a8a8fb669893ced1bc398773473a684e1e51e75993ce2cfd3f3aa954c91"
 
 [[files]]
 file = "config/exmi/enable_config.json"
-hash = "915f23f69f114854e4e067dc463b2f71370cf8d291c0611decf50655f5054e47"
+hash = "8d293141f4f5cdd55f5fa65189970bf05b8c5f874e82291cc51c6349dddfe2a6"
 
 [[files]]
 file = "config/expandeddelight-common.toml"
@@ -1009,6 +1013,10 @@ file = "config/forgeendertech/Biomes/terralith$caldera.cfg"
 hash = "01ad476dd4527c8515e48a0954f0d1283404eb55b64264146ece0099a94acc37"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$orchid_swamp.cfg"
+hash = "09c1a806231c250aab433c7a1f3bac920cdb4a76756b85e93f49dc7f16b9703e"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$painted_mountains.cfg"
 hash = "29faeae2b5a5a3b328f47156c940d7587605cf2e971339a4d6bb5a150a921144"
 
@@ -1102,11 +1110,11 @@ hash = "2c8f96c9e2d3593e9040427a0449966086a029b8d66ce800dbeb0b0488f1cae9"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "b05c3ddb890df65bfd2fe5d2f9dd1222834bd5099f1bff9aeb90a5bc6f514f79"
+hash = "a99429792099f102b616eb387c4a0bfc0d0873e562a3c86fb8b3b1f2e9711a44"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "c302f4304f9e843e2371a5ab849424ebdaed21f989ceb355f9e8f8421eec25d8"
+hash = "0f5814b495ff0ae94deefd8f15a6ff3dd83ca606f7287e0df50eced3f907e28e"
 
 [[files]]
 file = "config/jei-server.toml"
@@ -1290,7 +1298,7 @@ hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
 
 [[files]]
 file = "config/notenoughanimations.json"
-hash = "9faeabb868c136997cc44f69a487a6e0a6adb017424ad7b95a2db89f347b5da5"
+hash = "99c9c4dc7ff364020c9ff0799ee8be539faabea956425a980f45c17c8b8acb77"
 
 [[files]]
 file = "config/paxi-neoforge-1_21.toml"
@@ -1403,7 +1411,7 @@ hash = "6938dedbced0a6bb0ef345264f8df432b6db8b759f6614b32bae655ca72e131d"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "3f1aa17aeb3e3165ca5d53aa38287645b029d3fe6d46bfc57af1fb83b4d30536"
+hash = "2d4ca4951a0305b94d950b9a99e4842e91e6fbe93e213d37f5dde64c40464f80"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -1419,7 +1427,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
+hash = "592d14ea22405d4057e1ec1e04902a00fd9f6a623e385261c1e4e17cc78b03ab"
 
 [[files]]
 file = "config/someassemblyrequired-client.toml"
@@ -2275,6 +2283,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
 
 [[files]]
