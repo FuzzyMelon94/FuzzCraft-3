@@ -1057,6 +1057,10 @@ file = "config/forgeendertech/Biomes/minecraft$taiga.cfg"
 hash = "0a2bc7689a09a521ca72c618d182664ae8c782a7fa80cb9871e2cbe662554777"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$warped_forest.cfg"
+hash = "8d0798e48edd5052e0620c0feb2c3f4cf16f05ebfddc90aa8bd0435a49b3992b"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$wooded_badlands.cfg"
 hash = "fce5a910a90025adba11278cae3a86ad2dd9852e0bd808e845b0c626b0173fb6"
 
@@ -1686,6 +1690,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "586341de7078015cea16ffaf8e2e198a16c43b306d70bc439a15ea0298f9d3cb"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "7df7e3e3473f447993e5f700c2a2d86373f66aea8485117c1399407ddef83b56"
 metafile = true
 
 [[files]]
