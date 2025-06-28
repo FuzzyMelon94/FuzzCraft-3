@@ -1,0 +1,13 @@
+name = "Dynamic Crosshair"
+filename = "dynamiccrosshair-9.7.1+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/SoaoXAAt/dynamiccrosshair-9.7.1%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "cbf8592212b0960257a551ee2548a41fb85561b075ae353a63445a39ef6afe8c45666051cf57419022b5e0b9b4a7484aa309c66b1a33df8a54b4884533d1f3f6"
+
+[update]
+[update.modrinth]
+mod-id = "ZcR9weSm"
+version = "SoaoXAAt"

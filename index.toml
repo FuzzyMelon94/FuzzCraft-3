@@ -781,6 +781,10 @@ file = "config/crepperoverhaul-client.jsonc"
 hash = "8ebd8ce17fd98dc18dde0d3271b9237fbc98d9664647940308c9a4d7804dc200"
 
 [[files]]
+file = "config/cubes_without_borders.json"
+hash = "99b15b0a069e6d9f3e5a6267e128c1bec50e8205dcf6baa7739dea79ea999ff2"
+
+[[files]]
 file = "config/cullleaves.json"
 hash = "6596cbe9453cc9cf69b4addfb02fe9d1501ffc9254ac047d9cd7a23bc6ce7dcc"
 
@@ -1019,6 +1023,10 @@ hash = "59375a56d2170563f04667778c586a53c0284f4719d45e6f22dc5e6d8bb4cf97"
 [[files]]
 file = "config/forgeendertech/Biomes/incendium$weeping_valley.cfg"
 hash = "4e72709109fb9cf8edd4b35dc98e7029da06d798ab9bcec01a1586a7ebd4601c"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$lush_caves.cfg"
+hash = "6434e38669136dd53a039fa18bc54e62dd1854d6976c5914f900c79b59beaf0a"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$meadow.cfg"
@@ -1635,6 +1643,11 @@ hash = "a34cb55f2a55e2a4e47d6954948387105c14f0d0f2e800d003e1e7ec19c2904f"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "cb96cee37aeb38e012b1b85b10f0aa888b3875c84103e6981b13df389cbd8074"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "674c0b5a3b389edc0d0e205c114715f59ebb3dce8d2ed0ceea525aa89a937f2d"
 metafile = true
@@ -1812,6 +1825,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "5e0a875282f4abed66a2cccf7929488ebb5e88447d2bb3369e8ddc728fc66fc0"
+metafile = true
+
+[[files]]
+file = "mods/completionists-index.pw.toml"
+hash = "28295238cdd395ea32d1da83b2abb098700870e44e7162c6468694aec73bdcb5"
 metafile = true
 
 [[files]]
@@ -2052,6 +2070,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "3a1e3c15218bce89c22276201f16178674d83ca02320b34b98bec1ab12d00401"
 metafile = true
 
 [[files]]
@@ -2307,6 +2330,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
 
 [[files]]
