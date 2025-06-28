@@ -937,6 +937,10 @@ file = "config/forgeendertech-common.toml"
 hash = "84817209a4fb2b8c1eb8d3aacb50ff91e1397324f10ea019b53d39735411496c"
 
 [[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$coniferous_forest.cfg"
+hash = "1e9f90ad8ad059ec72169953bc1e82ae6fe734249836f31991673d0bb4a957d7"
+
+[[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$old_growth_dead_forest.cfg"
 hash = "55c83f01cd5252e57a4f1210e71afb489a195d73b0a5f7f46cfda5a694d30bf1"
 
@@ -1595,6 +1599,11 @@ hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "5e6b92aeaa2ca2dab799c563faac0e2cb0c95a1be5440f67177b7ad35776cfa3"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "0c839ff974cf6d353055a2bc9d858d853be57ee4be193fa4e41ff7c4d7de9b09"
 metafile = true
@@ -1632,6 +1641,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
