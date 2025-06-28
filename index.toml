@@ -1338,6 +1338,10 @@ file = "config/puzzle.json"
 hash = "45ce0f0b227d11ae4e130214c14e7ce0cd78437066e95cb67f5227edda8da561"
 
 [[files]]
+file = "config/rctmod-client.toml"
+hash = "d3d43d652761b58b32d76003afb1ea065c76e9854beee93cd07182891d5474de"
+
+[[files]]
 file = "config/repurposed_structures-neoforge/modded_loot.toml"
 hash = "7108d5e1936fc5e528bd3eff3b7f2176ad1180e41dfeafb6a17da0954d09d8a4"
 
@@ -1604,6 +1608,16 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
+file = "mods/cobbleboom.pw.toml"
+hash = "528a4a65821570b6bfffb54685f3701ba41013d387b4e7043f6fdf5500502b79"
+metafile = true
+
+[[files]]
+file = "mods/cobbleloots.pw.toml"
+hash = "064da84fb859670f2850f93883baaa30e6e6f1d33dfa25b82aa8ab0bb11bfeee"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
 hash = "d63a13fa3e497b2ced089edeaabaecc8b09ef7dda6dce5f05a5926ff9912eefe"
 metafile = true
@@ -1619,6 +1633,11 @@ hash = "3cd677840a0a75ccf597b6da30805564db0d57760d571b58f4fcbed3b5b27755"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-move-inspector.pw.toml"
+hash = "72317695af9eccf152ff06de916ee245fe787761ee62fc293507092e81a7e81c"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-playerxp.pw.toml"
 hash = "cd40e85aad40fd45df9ba1553150bf4c3d8c7ac9dcebe0077b8b3cd5619c1db9"
 metafile = true
@@ -1626,6 +1645,16 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-ride-on.pw.toml"
 hash = "27d34b63352687e4bada1733272fc32e4fbb90952d80c757bab2864f56020c41"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-safepastures.pw.toml"
+hash = "a6c5a1eebefa74d91b3ba528a812b586acf1c29a416f09ef9f631015f3d73f3c"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-size-variations.pw.toml"
+hash = "63a518562aef9a547ac16bbef4b8affce709729e2c9677bd90ef9a7b3f748abd"
 metafile = true
 
 [[files]]
@@ -2161,6 +2190,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "87e3acd7d3cdda6d8c99f26dafd871ba6057b6ca54650b43e6b91939069a91e5"
+metafile = true
+
+[[files]]
+file = "mods/more-cobblemon-move-anims.pw.toml"
+hash = "f308b3671f2d7c2dc69a2a8d239208b4476579bc24fdfdb21c1e8520d4c5d44d"
 metafile = true
 
 [[files]]
