@@ -653,6 +653,10 @@ file = "config/comforts-server.toml"
 hash = "ab2a637d7e74181f0fd8e75e3e6346bbfdb374b416dcd21edda023bdd355a0bc"
 
 [[files]]
+file = "config/completionistsindex-client.toml"
+hash = "1fa44b7c4c8872ec5b32f1130add1cd747700b0c749f2fec225f416b4104a155"
+
+[[files]]
 file = "config/computercraft-client.toml"
 hash = "db7bbdc89ab05070b2a4c22f6348b0c80aca4a3c449d92cdc6bc56b5af25ff7b"
 
@@ -827,6 +831,10 @@ hash = "e3785d564675ef1a0209819d580c37e60c51fbe986057b3a6c8e7e5f2af1b416"
 [[files]]
 file = "config/dummmmmmy-common.toml"
 hash = "9507a75143689ab6f0da55929059652c6cab8dcd7d5e5b14697836232274e6d3"
+
+[[files]]
+file = "config/dynamiccrosshair.json5"
+hash = "73ee72b678319124c3212f1fb81aec18b6bd77a27e33e71849e59a77f8e622bf"
 
 [[files]]
 file = "config/easyanvils-client.toml"
@@ -1073,6 +1081,10 @@ file = "config/forgeendertech/Biomes/terralith$painted_mountains.cfg"
 hash = "29faeae2b5a5a3b328f47156c940d7587605cf2e971339a4d6bb5a150a921144"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$savanna_badlands.cfg"
+hash = "922dd2f3f1bc25bd57cab35cfdbfbcfec6346bae7bceb9597a1056f09d2759ff"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$yosemite_cliffs.cfg"
 hash = "d2c5a42adf5e957ce85c98736daa0377d5c40778d8fbca792d7031b2ef189e46"
 
@@ -1227,6 +1239,10 @@ hash = "2912be01065303c90df4bffba0ec9a822a11daebaff9c514d2e164fd81373776"
 [[files]]
 file = "config/lavender_client_storage.json"
 hash = "fd673e59f4ea6cbbf0f0cc1b54da6ea78964e8d0ec4018ef81dbb4003eea6099"
+
+[[files]]
+file = "config/letmedespawn.json"
+hash = "6af411644e22ede34383135509cb96b2a636d8ed45494b28976514a95537105e"
 
 [[files]]
 file = "config/lithium.properties"
@@ -2245,6 +2261,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
 hash = "bac64d66334b78287575f7717aeb542bf4871c0fda866e9a9df4c080f7fdfed7"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
