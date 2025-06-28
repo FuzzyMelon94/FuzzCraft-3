@@ -605,6 +605,10 @@ file = "config/cobblemonintegrations-common.toml"
 hash = "0a5663957c3aa122188b7b73c42550daae297537ac2f182b314391406370bcf9"
 
 [[files]]
+file = "config/cobbleride/config.json"
+hash = "21ac8214b5d0ee157ab0aa4ce675b814dbf0dabb7b0e7e3a0cd2455b35c280c2"
+
+[[files]]
 file = "config/cobbreeding/main.json"
 hash = "81e04cf1214139fd8dfc68704f5ac5629fb8f78a4bf1426d4f367c8b1b087931"
 
@@ -955,6 +959,10 @@ hash = "70be9eb31c0bec0559f3abc06270292c7235105d3ff8946463356e7b8177fcde"
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$sunflower_plains.cfg"
 hash = "acad277a50933737287fe4e9cc49e6533d8c4e6cd3017c8a86b8d346f7f91b1f"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$taiga.cfg"
+hash = "0a2bc7689a09a521ca72c618d182664ae8c782a7fa80cb9871e2cbe662554777"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$wooded_badlands.cfg"
@@ -1404,6 +1412,10 @@ hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 [[files]]
 file = "config/spark/tmp/about.txt"
 hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
+
+[[files]]
+file = "config/spawn_notification.json"
+hash = "7995a3fe82793aaa319e036bc030a2ab2879340f30ad8b709cbc90322f6f3ab9"
 
 [[files]]
 file = "config/stonezone-common.toml"
@@ -2214,6 +2226,16 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "708b91626dd1582effcd39c97c6f2edab0421a96097a94f26bb9a12bb54c637d"
+metafile = true
+
+[[files]]
+file = "mods/rctapi.pw.toml"
+hash = "93c0991d400a76bb527703124b29bc866a75e1a5a0a48f27eed8e9e5f3486391"
+metafile = true
+
+[[files]]
+file = "mods/rctmod.pw.toml"
+hash = "df3c224ba2522194c24bc3bdd2e86b18aeed795a620207dcec20639a6bffb82d"
 metafile = true
 
 [[files]]
