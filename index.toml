@@ -597,12 +597,32 @@ file = "config/chefsdelight-common.toml"
 hash = "10d852ba739ab2e9304c43bfd8d5eab2f95a7aaca01fb2e4db0c4f8d1ea2d3cb"
 
 [[files]]
+file = "config/cobbleboom.json"
+hash = "2958f507bd40e4d9425118eabf4cef9d7b3b8c3d9be2110b0f153f570abb0da3"
+
+[[files]]
+file = "config/cobbleloots/cobbleloots.yaml"
+hash = "c85653944e9ad0a167fa21032ffb518ce1dfc044268ca6e95b4f449d882b4ae7"
+
+[[files]]
 file = "config/cobblemon/main.json"
 hash = "d08b5ae439dd0549e5d7dd8418b7f5724249a76d3d638e2c1967d8b249b1f0ba"
 
 [[files]]
 file = "config/cobblemonintegrations-common.toml"
 hash = "0a5663957c3aa122188b7b73c42550daae297537ac2f182b314391406370bcf9"
+
+[[files]]
+file = "config/cobblemonsizevariation/config.json"
+hash = "4e8145af209be58dfa8cca2d2f771104f887a3e4898cdeaf82ea301db5fa0732"
+
+[[files]]
+file = "config/cobblemonsizevariation/sizes/basic.json"
+hash = "0d2e72dff8d55ebe156d9beba4b9b8989fa0d09b0dd90eba13747bcb757e7257"
+
+[[files]]
+file = "config/cobblemonsizevariation/sizes/gen9.json"
+hash = "ac23f299e2dbf56a9b3c3791052c93d4d1c2a8bc0683a5025b8738275df3f060"
 
 [[files]]
 file = "config/cobbleride/config.json"
@@ -915,6 +935,10 @@ hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
 [[files]]
 file = "config/forgeendertech-common.toml"
 hash = "84817209a4fb2b8c1eb8d3aacb50ff91e1397324f10ea019b53d39735411496c"
+
+[[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$old_growth_dead_forest.cfg"
+hash = "55c83f01cd5252e57a4f1210e71afb489a195d73b0a5f7f46cfda5a694d30bf1"
 
 [[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$prairie.cfg"
@@ -1342,6 +1366,10 @@ file = "config/rctmod-client.toml"
 hash = "d3d43d652761b58b32d76003afb1ea065c76e9854beee93cd07182891d5474de"
 
 [[files]]
+file = "config/rctmod-server.toml"
+hash = "78614e249fc24024b241281a2084fdb82f56ec132b75192b7bdef8202dee5512"
+
+[[files]]
 file = "config/repurposed_structures-neoforge/modded_loot.toml"
 hash = "7108d5e1936fc5e528bd3eff3b7f2176ad1180e41dfeafb6a17da0954d09d8a4"
 
@@ -1356,6 +1384,10 @@ hash = "d7426d0b5c3cce1e3be82c6b68bb833efdcde4a52b3b4825502b5b26ee1e8043"
 [[files]]
 file = "config/ribbits-options.json"
 hash = "671ee75b5333f98d3a9b92fcfcc79c7df7a6b4c0e5cda025a7b449ab79562b2b"
+
+[[files]]
+file = "config/safepastures/safepastures.json"
+hash = "c5392353cf86d37296242f6c3faf43e0342a72e190e457a1042108ffe980c5b6"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -1610,6 +1642,11 @@ metafile = true
 [[files]]
 file = "mods/cobbleboom.pw.toml"
 hash = "528a4a65821570b6bfffb54685f3701ba41013d387b4e7043f6fdf5500502b79"
+metafile = true
+
+[[files]]
+file = "mods/cobbled-armour-trims.pw.toml"
+hash = "e400180545e3c3592e5c6893781de55e752d958ed653e97be18181dc2aec58d5"
 metafile = true
 
 [[files]]
