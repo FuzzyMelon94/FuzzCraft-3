@@ -233,6 +233,10 @@ file = "config/adlods/VanillaOres/tuff.cfg"
 hash = "3147996e6e2ee8869116b342019c94455f9824bc88e90a254d5744615710eac3"
 
 [[files]]
+file = "config/aiimprovements-common.toml"
+hash = "99113ed20833ab95be2a9ca46ffc88e3427b066d4b02646873cdebe2203fd622"
+
+[[files]]
 file = "config/almostunified/debug.json"
 hash = "def5b541fa88db047795d5c0647faed56329319298336e072e6b86d5500c4941"
 
@@ -619,6 +623,10 @@ hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 [[files]]
 file = "config/chunky/tasks/minecraft/overworld.properties"
 hash = "597164925e0ae84a4c6443e8a368082ca016189f97432f5468a2019e20311230"
+
+[[files]]
+file = "config/clienttweaks-common.toml"
+hash = "3827e57f3af1dc2cd0f53052eed6d9b0bbb21fa9fb92325ca6a1407518d9f1ac"
 
 [[files]]
 file = "config/cobbleboom.json"
@@ -1097,6 +1105,10 @@ file = "config/forgeendertech/Biomes/terralith$caldera.cfg"
 hash = "01ad476dd4527c8515e48a0954f0d1283404eb55b64264146ece0099a94acc37"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$lavender_valley.cfg"
+hash = "91f74000ea3436832f1483c416601684a2a6cae7c31d701e4834667864fe8376"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$orchid_swamp.cfg"
 hash = "09c1a806231c250aab433c7a1f3bac920cdb4a76756b85e93f49dc7f16b9703e"
 
@@ -1405,6 +1417,10 @@ file = "config/notenoughanimations.json"
 hash = "99c9c4dc7ff364020c9ff0799ee8be539faabea956425a980f45c17c8b8acb77"
 
 [[files]]
+file = "config/notenoughcrashes.json"
+hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
+
+[[files]]
 file = "config/overflowingbars-client.toml"
 hash = "f32cb54a99b0f143fe0db5b5664a8df7bff668c8d4291267f2ce8873da7f4439"
 
@@ -1428,6 +1444,14 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/pickupnotifier/pickupnotifier-client.toml"
+hash = "079be54b7b6059b2864b3ed140dc1e20219589f6afba32dc4ff203c981ea6a4e"
+
+[[files]]
+file = "config/pickupnotifier/pickupnotifier-server.toml"
+hash = "f307605d2e9622fcb9290a02a28c37febfe87676faebe600899c339c1f9453e4"
 
 [[files]]
 file = "config/playerxp/playerxp/playerxp.json"
@@ -2404,6 +2428,11 @@ metafile = true
 [[files]]
 file = "mods/lavender.pw.toml"
 hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "6917553073df67745da1d535cc6107839a76b54081b1b6f368a38c723f5fd8c7"
 metafile = true
 
 [[files]]
