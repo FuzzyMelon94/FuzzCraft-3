@@ -593,6 +593,10 @@ file = "config/brewinandchewin-common.toml"
 hash = "2f588307a4fd5053bf8e9ba4110cd0bcd99a33547f6ff018a284914cdfc46214"
 
 [[files]]
+file = "config/bwncr-common.toml"
+hash = "a8d9256245e6a4a9ef9cd19db22432e7dccf447fa7ba803a70ebd23624e7d21b"
+
+[[files]]
 file = "config/capture_xp.json"
 hash = "3cf67a4b61c8be59c56921303ffa1b07586106b5fa572d30647f48a5524eb132"
 
@@ -1765,6 +1769,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
