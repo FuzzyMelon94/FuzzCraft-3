@@ -613,6 +613,10 @@ file = "config/chefsdelight-common.toml"
 hash = "10d852ba739ab2e9304c43bfd8d5eab2f95a7aaca01fb2e4db0c4f8d1ea2d3cb"
 
 [[files]]
+file = "config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+
+[[files]]
 file = "config/cobbleboom.json"
 hash = "2958f507bd40e4d9425118eabf4cef9d7b3b8c3d9be2110b0f153f570abb0da3"
 
@@ -1023,6 +1027,10 @@ hash = "b67acccdd643cd4981b6309e87a2c81e65c5d1c9c64382f8b65528ca90fae617"
 [[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$wasteland.cfg"
 hash = "331fe2a94feb2d80fc037cf6f6fe4a87e84b5a0a49a42bbc7be7144ebf8770ff"
+
+[[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$wasteland_steppe.cfg"
+hash = "429df037a569438c79c4381815d6ac4aa6f212adb986ae92a649a0134ccf0477"
 
 [[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$withered_abyss.cfg"
@@ -2142,6 +2150,11 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
+file = "mods/emiffect.pw.toml"
+hash = "3a38fc4ad5e60a568d0c635557086e5372045ba0c373125f13fc595cd8dedef7"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
 metafile = true
@@ -2292,6 +2305,11 @@ hash = "e85a99b873be94bc88f82dc924b3db1e14b70c3cd2962384ee3e0a998fb31f62"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a2fbecad69fcbff54919864ea8b95e54d140a1a2c637d73307fb366e76066fe6"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "d102275300c327312e3ea9afd6844d4627637cffa68525af69951fe2eeca33b0"
 metafile = true
@@ -2364,6 +2382,11 @@ metafile = true
 [[files]]
 file = "mods/lavender.pw.toml"
 hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "0fc577cca01abfc5ad90edf68157a2f15cfe63de99e29403f4c504a1e66969e3"
 metafile = true
 
 [[files]]
@@ -2499,6 +2522,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "b74fd982783637610879023be235f99af1c7c81c8e9a9ef45e86c24c4fef2c40"
 metafile = true
 
 [[files]]
