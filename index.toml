@@ -1121,6 +1121,10 @@ file = "config/forgeendertech/Biomes/terralith$savanna_badlands.cfg"
 hash = "922dd2f3f1bc25bd57cab35cfdbfbcfec6346bae7bceb9597a1056f09d2759ff"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$tropical_jungle.cfg"
+hash = "82a94e3df47506398a27d1358cdd4ce307f4d02b56297975c5797fa1f045271f"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$yosemite_cliffs.cfg"
 hash = "d2c5a42adf5e957ce85c98736daa0377d5c40778d8fbca792d7031b2ef189e46"
 
@@ -1275,6 +1279,10 @@ hash = "2912be01065303c90df4bffba0ec9a822a11daebaff9c514d2e164fd81373776"
 [[files]]
 file = "config/lavender_client_storage.json"
 hash = "fd673e59f4ea6cbbf0f0cc1b54da6ea78964e8d0ec4018ef81dbb4003eea6099"
+
+[[files]]
+file = "config/leavesbegone-server.toml"
+hash = "24ff0a6e8d2d18678868edbb77056c1818dc0a02990e626f0d91c6d683c5b632"
 
 [[files]]
 file = "config/legendarytooltips.toml"
@@ -2288,6 +2296,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "cb56550a957dd44cab4f9102aa588cd22421cd6b4099a03ac7b1b167c23c0f13"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "dd2dd5801f199427e7595250f6bed29391edd2bc63c1a04498c483bdb812d0c3"
 metafile = true
 
 [[files]]
