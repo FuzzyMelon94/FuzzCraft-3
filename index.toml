@@ -945,6 +945,10 @@ file = "config/forgeendertech/Biomes/biomesoplenty$coniferous_forest.cfg"
 hash = "1e9f90ad8ad059ec72169953bc1e82ae6fe734249836f31991673d0bb4a957d7"
 
 [[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$muskeg.cfg"
+hash = "7351123a72028d9a12bbc3fa2ced7f5af6ba2c8f60f59d33a5a3793441ffc198"
+
+[[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$old_growth_dead_forest.cfg"
 hash = "55c83f01cd5252e57a4f1210e71afb489a195d73b0a5f7f46cfda5a694d30bf1"
 
@@ -1606,6 +1610,11 @@ hash = "5be6142a7064df1e96149f505f4474c06b88e392629d6bc5552b5b2da98c8ace"
 metafile = true
 
 [[files]]
+file = "mods/bartering-station.pw.toml"
+hash = "89d5086e2383c436bcedadc91aff9d69ec6a59d2bacbbba6b5d59e2d74576a69"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
@@ -1951,6 +1960,26 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "b2abfcd26485e785f6836f6b0d3844a5ba00a97f8c0689aa44c44d3a072ca43a"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "632743d54d410c8b78fb92c94d8f3bb6a7a3faed45171f91e554877f94f82163"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+hash = "bbc15c019fd260bbb9058b14a8e03232a55df77608d9aca466d051007d62abd2"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "218dcd780f0251a15f78b097206ea22a519d57b974b39e2fdd43dce91ac07133"
+metafile = true
+
+[[files]]
 file = "mods/dis-enchanting-table.pw.toml"
 hash = "d71851407e388787d67281a0564f357bd6384316fa1e4c1984ac6c549acba68d"
 metafile = true
@@ -1958,6 +1987,16 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "4485332b8ff7be999cc4142ecad55763acdb587df69f748170bf5644f72d5729"
 metafile = true
 
 [[files]]
@@ -2216,6 +2255,11 @@ hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "f0c97c0212ddda5c012ba451a123d4b39e89f402cc70d38d31dc9098736ec07f"
+metafile = true
+
+[[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "d887c005b64a36e1ab515d2fc6a35531b665ff7f4964b7068a01d3a136925641"
 metafile = true
@@ -2296,6 +2340,11 @@ hash = "82a5c30ed91d272ee1895376e0d2cf57504b3d9db4aba6547e19eaa344861ada"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "80ae7efa4eabb2f9df835f1d2f64dbd7cffc57df0878fc160a6620572de20e8d"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
 metafile = true
@@ -2333,6 +2382,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "708b91626dd1582effcd39c97c6f2edab0421a96097a94f26bb9a12bb54c637d"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "b27fedf73ce2b829db06bf18fea5afd33f0a001b75465301c7f5bafe7e3c04d8"
 metafile = true
 
 [[files]]
@@ -2533,6 +2587,11 @@ metafile = true
 [[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "74104b7854f3ee565c7c47e8f01fcbfba464aa33f5d9d1be9e026b8da09abc26"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "fcc4e00f37493f6292af7fbef7be6ea27e1a0cb4185d010e17db67e4ac61da15"
 metafile = true
 
 [[files]]
