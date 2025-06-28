@@ -617,6 +617,10 @@ file = "config/chunky/config.json"
 hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
+file = "config/chunky/tasks/minecraft/overworld.properties"
+hash = "597164925e0ae84a4c6443e8a368082ca016189f97432f5468a2019e20311230"
+
+[[files]]
 file = "config/cobbleboom.json"
 hash = "2958f507bd40e4d9425118eabf4cef9d7b3b8c3d9be2110b0f153f570abb0da3"
 
@@ -1057,6 +1061,10 @@ file = "config/forgeendertech/Biomes/minecraft$mushroom_fields.cfg"
 hash = "b749e0680e8cd499bbe29c8267664507bedf501c9b2c40ee11e616657bb24ee3"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$old_growth_spruce_taiga.cfg"
+hash = "97e4487d7d569f54a8748e46cb6cb5f37423166e84190415e364525253df33bf"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$snowy_plains.cfg"
 hash = "70be9eb31c0bec0559f3abc06270292c7235105d3ff8946463356e7b8177fcde"
 
@@ -1255,6 +1263,10 @@ hash = "2912be01065303c90df4bffba0ec9a822a11daebaff9c514d2e164fd81373776"
 [[files]]
 file = "config/lavender_client_storage.json"
 hash = "fd673e59f4ea6cbbf0f0cc1b54da6ea78964e8d0ec4018ef81dbb4003eea6099"
+
+[[files]]
+file = "config/legendarytooltips.toml"
+hash = "3ee86b7d3db0c11d9e4288110804777e598f49a8445fa63d7fbec00f74a0f92f"
 
 [[files]]
 file = "config/letmedespawn.json"
@@ -1675,6 +1687,11 @@ hash = "a34cb55f2a55e2a4e47d6954948387105c14f0d0f2e800d003e1e7ec19c2904f"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "cb96cee37aeb38e012b1b85b10f0aa888b3875c84103e6981b13df389cbd8074"
 metafile = true
@@ -1782,6 +1799,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "f04dbdb55968bf405bdadae301ed5f1877237bdba4e602d52182117ddc984022"
 metafile = true
 
 [[files]]
@@ -2495,6 +2517,11 @@ hash = "82a5c30ed91d272ee1895376e0d2cf57504b3d9db4aba6547e19eaa344861ada"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
+metafile = true
+
+[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "80ae7efa4eabb2f9df835f1d2f64dbd7cffc57df0878fc160a6620572de20e8d"
 metafile = true
@@ -2507,6 +2534,11 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "49c0bacf8e4cb3ade6c384ad379282f92d7fa3075f2affd8e3093feb685288dd"
 metafile = true
 
 [[files]]
@@ -2557,6 +2589,11 @@ metafile = true
 [[files]]
 file = "mods/rctmod.pw.toml"
 hash = "df3c224ba2522194c24bc3bdd2e86b18aeed795a620207dcec20639a6bffb82d"
+metafile = true
+
+[[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "7e11d8dcebe59f58513993ed2c212697a5c6cb361c88e017bc821721c29409c2"
 metafile = true
 
 [[files]]
