@@ -1009,6 +1009,10 @@ file = "config/forgeendertech/Biomes/terralith$caldera.cfg"
 hash = "01ad476dd4527c8515e48a0954f0d1283404eb55b64264146ece0099a94acc37"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$painted_mountains.cfg"
+hash = "29faeae2b5a5a3b328f47156c940d7587605cf2e971339a4d6bb5a150a921144"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$yosemite_cliffs.cfg"
 hash = "d2c5a42adf5e957ce85c98736daa0377d5c40778d8fbca792d7031b2ef189e46"
 
@@ -1596,6 +1600,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "779cbbcf44f8cdcf6ef3c4b790e73cc3df5d06164842d56162dbb534e692cf9c"
 metafile = true
 
 [[files]]
