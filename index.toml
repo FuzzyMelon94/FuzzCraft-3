@@ -9,6 +9,10 @@ file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27d2a588a33e94aff8cea4ea6090509ab3e10640f980e63dfd317c6b0dcd30df"
 
 [[files]]
+file = "config/CoroUtil/General.toml"
+hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "49cc18f889159bd96c2b7e97611d9ae5e935bd820e759e5ae04fa1e3fb12eb3b"
 
@@ -2178,6 +2182,22 @@ file = "config/visualworkbench-common.toml"
 hash = "118dee28250b68612c3e4b4913a11f39a55ddf56be30b4eee6306bcf4d27713c"
 
 [[files]]
+file = "config/watut-client.toml"
+hash = "cc750724e261c94be36d2cea4a5e4f9466192e9ff7cf01546cb1efcea918282b"
+
+[[files]]
+file = "config/watut-common.toml"
+hash = "93d4055b22552b80ae5f96d396b335910993ab7010b562a34291adade59df4f6"
+
+[[files]]
+file = "config/watut-item-arm-adjustments.json"
+hash = "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982"
+
+[[files]]
+file = "config/watut-server.toml"
+hash = "77c32650cc543180e5d03cf079956b631da769ef0c845cc75f34d95718be91f3"
+
+[[files]]
 file = "config/waveycapes.json"
 hash = "ffdc0599eeeb8acb0fcfd2d1d3adb54f25447ed9b57fa9fa792d7529406742bd"
 
@@ -2249,7 +2269,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
@@ -2948,6 +2968,11 @@ hash = "652900870d343dda5683456934ca76bf176ea54da73d9883d8a13c9b3cae2fac"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "888492de9de2384ae9b0b427624be6b004bc5882176d2c71d05d948d06cdb826"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "44634200be079994523f61e1a4b2878f4d2e1b59d52378391aa81192b1d15bf1"
 metafile = true
@@ -3250,6 +3275,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "efa8d53b3a7144e56b9823c54249fc353828f532808a73e65967d84183874782"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "71c69a20c6325a3b41de44f5963e5d74afed3bc9d86eb29c5fd0352c72db38cd"
 metafile = true
 
 [[files]]
