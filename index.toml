@@ -661,8 +661,24 @@ file = "config/ars_nouveau/search_index/_1.si"
 hash = "36bc3631ee24d97f8d8a0191d69b6c9ef3d1f112c134d62f8dd120478167fc58"
 
 [[files]]
+file = "config/ars_nouveau/search_index/_3.cfe"
+hash = "8f8262451e541ad13a941bf6f2983f555a952cf6b88ae6cc500632bbea8dc2ed"
+
+[[files]]
+file = "config/ars_nouveau/search_index/_3.cfs"
+hash = "7da7d5e44f1b2562ca707594f8be61fb378a20098fa073d0fe85009c86689c78"
+
+[[files]]
+file = "config/ars_nouveau/search_index/_3.si"
+hash = "946aef6ac4099b116d5ac0a568eb8da88457294c16f7a6e3780b8fc0c460ce73"
+
+[[files]]
 file = "config/ars_nouveau/search_index/segments_2"
 hash = "29dc86deaa277fdfec0373a9ada1de3efcbaf9a179c21b2fa589fae0759e5f63"
+
+[[files]]
+file = "config/ars_nouveau/search_index/segments_4"
+hash = "63aaeabf0a3e1e7602ecc619522938c62fc12368101343875794096079e2b681"
 
 [[files]]
 file = "config/ars_nouveau/search_index/write.lock"
@@ -1117,6 +1133,10 @@ file = "config/cobbreeding/main.json"
 hash = "81e04cf1214139fd8dfc68704f5ac5629fb8f78a4bf1426d4f367c8b1b087931"
 
 [[files]]
+file = "config/collective.json5"
+hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
+
+[[files]]
 file = "config/comforts-common.toml"
 hash = "1f21c10bfce9cd25aea641046a79df88867f68ba8ba3838a5e1662521f9f06a2"
 
@@ -1295,6 +1315,10 @@ hash = "9533cd0c0bb7a22df2f9037d09fbabf87a6f6ae66e18f8699658aa3cbe508dfb"
 [[files]]
 file = "config/disenchanting_table-server.toml"
 hash = "2e02940e004655993542b2749d4c2aaf3fde99a21543a6c286ac9c16b60fead1"
+
+[[files]]
+file = "config/doubledoors.json5"
+hash = "7f0cdf0a4aadbc00d7a651e511a2b55a759a13a69419017ce3233c857bf2700c"
 
 [[files]]
 file = "config/dummmmmmy-client.toml"
@@ -1481,6 +1505,10 @@ file = "config/forgeendertech/Biomes/biomesoplenty$old_growth_dead_forest.cfg"
 hash = "55c83f01cd5252e57a4f1210e71afb489a195d73b0a5f7f46cfda5a694d30bf1"
 
 [[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$pasture.cfg"
+hash = "71887866559fef0fb7752a997c93e1c367f24802874f8f6de3e191fa8974f723"
+
+[[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$prairie.cfg"
 hash = "8cd546f5ca1bbf655addef4a98a1ab74299e06dcd5f087f443778e23c94bf17d"
 
@@ -1559,6 +1587,10 @@ hash = "9fdad4d760f96a038b83dbc08b7c0049eb7e6a92301b831bcf3321d1955be355"
 [[files]]
 file = "config/forgeendertech/Biomes/terralith$caldera.cfg"
 hash = "01ad476dd4527c8515e48a0954f0d1283404eb55b64264146ece0099a94acc37"
+
+[[files]]
+file = "config/forgeendertech/Biomes/terralith$desert_oasis.cfg"
+hash = "48b267e40bd2d224667dc0bdbd76f75f1d431d206463eb0f25bb6a980bd77865"
 
 [[files]]
 file = "config/forgeendertech/Biomes/terralith$lavender_valley.cfg"
@@ -2443,6 +2475,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "1d609f597d90c582a01f360cc143ba5c5cd5d62a7336d8d5fd02ca50637f52fb"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
@@ -3353,6 +3390,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "892cf7902f5d3795a1a3d576e4cc24d51654f29ac0d39215e5e3adf262778562"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]
