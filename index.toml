@@ -677,12 +677,28 @@ file = "config/ars_nouveau/search_index/_3.si"
 hash = "946aef6ac4099b116d5ac0a568eb8da88457294c16f7a6e3780b8fc0c460ce73"
 
 [[files]]
+file = "config/ars_nouveau/search_index/_4.cfe"
+hash = "87f362111e3e0d98a9a74a71581459c50c5d661a2bb24c4ddf4d1c4ef7fb8e96"
+
+[[files]]
+file = "config/ars_nouveau/search_index/_4.cfs"
+hash = "97599bf99b5d4406c625db50a00c4b8c55057024e42f0a93de9b4fb2a9db2684"
+
+[[files]]
+file = "config/ars_nouveau/search_index/_4.si"
+hash = "4c124143d71dee2bbbc99cc7cd9206ffe0b2d1f03cb566a12fec2005c2ff6ed1"
+
+[[files]]
 file = "config/ars_nouveau/search_index/segments_2"
 hash = "29dc86deaa277fdfec0373a9ada1de3efcbaf9a179c21b2fa589fae0759e5f63"
 
 [[files]]
 file = "config/ars_nouveau/search_index/segments_4"
 hash = "63aaeabf0a3e1e7602ecc619522938c62fc12368101343875794096079e2b681"
+
+[[files]]
+file = "config/ars_nouveau/search_index/segments_5"
+hash = "dbe6ebfc36fce76061f5c99a4f5a36a5e33982cb45e3e6be8290f7a4f3a632c8"
 
 [[files]]
 file = "config/ars_nouveau/search_index/write.lock"
@@ -1725,6 +1741,10 @@ file = "config/jade/sort-order.json"
 hash = "0f5814b495ff0ae94deefd8f15a6ff3dd83ca606f7287e0df50eced3f907e28e"
 
 [[files]]
+file = "config/jamlib/known_suspicious_jars.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/jei-server.toml"
 hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
 
@@ -2048,6 +2068,10 @@ hash = "d7426d0b5c3cce1e3be82c6b68bb833efdcde4a52b3b4825502b5b26ee1e8043"
 [[files]]
 file = "config/ribbits-options.json"
 hash = "671ee75b5333f98d3a9b92fcfcc79c7df7a6b4c0e5cda025a7b449ab79562b2b"
+
+[[files]]
+file = "config/rightclickharvest.json5"
+hash = "0a212a531c33238b3ae8b9aa15bb8466e3d65ae802b0441a0228a991136bbe17"
 
 [[files]]
 file = "config/safepastures/safepastures.json"
@@ -2500,6 +2524,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "6f6ecb72aa956a4461add613a717d751879092c6ef30bf1e4c8576e165324da6"
 metafile = true
 
 [[files]]
