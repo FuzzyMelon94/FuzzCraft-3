@@ -1757,8 +1757,23 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "2643451cedf7ca89ba11bb6e8c62a72b9a4d94652f21cf0ce96fe8f7644caf59"
+metafile = true
+
+[[files]]
+file = "mods/ars-elixirum.pw.toml"
+hash = "65ae54fbe544adbd5c83872bfbe75f08939f9941f18bef611c4b829d421229f3"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "6d6af80f5a99a749e9e9abd5133299593754282efa8720bb2b33f77ea6949183"
+metafile = true
+
+[[files]]
+file = "mods/arsdelight.pw.toml"
+hash = "bb6cbf8efc905cc6cd36d960cab4042d91f3038abb264e1676b1ef594cbc8b4e"
 metafile = true
 
 [[files]]
@@ -2312,6 +2327,11 @@ hash = "cb56550a957dd44cab4f9102aa588cd22421cd6b4099a03ac7b1b167c23c0f13"
 metafile = true
 
 [[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "907626f3224cff49b9c2754f9c182062c3d5ae8a3538df382d46e1042b97d056"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "dd2dd5801f199427e7595250f6bed29391edd2bc63c1a04498c483bdb812d0c3"
 metafile = true
@@ -2584,6 +2604,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "686a952412f0e2949505def1b3da9bc9cc5bf32433cdd9d6cc8edc62ad979362"
 metafile = true
 
 [[files]]
