@@ -689,6 +689,18 @@ file = "config/ars_nouveau/search_index/_4.si"
 hash = "4c124143d71dee2bbbc99cc7cd9206ffe0b2d1f03cb566a12fec2005c2ff6ed1"
 
 [[files]]
+file = "config/ars_nouveau/search_index/_5.cfe"
+hash = "834aae9d035b9add0b45b0cdfb1ed7220e6a3326e95c61ca19afee07c8217b52"
+
+[[files]]
+file = "config/ars_nouveau/search_index/_5.cfs"
+hash = "ce5e612e770f320a2fd0ce712ac4dd10d5342d458b8f1f8e991278e771b52ca9"
+
+[[files]]
+file = "config/ars_nouveau/search_index/_5.si"
+hash = "b8c66b1d906593753d2d6289f9de62ad8bafc469633aa3328ea1138f93868684"
+
+[[files]]
 file = "config/ars_nouveau/search_index/segments_2"
 hash = "29dc86deaa277fdfec0373a9ada1de3efcbaf9a179c21b2fa589fae0759e5f63"
 
@@ -699,6 +711,10 @@ hash = "63aaeabf0a3e1e7602ecc619522938c62fc12368101343875794096079e2b681"
 [[files]]
 file = "config/ars_nouveau/search_index/segments_5"
 hash = "dbe6ebfc36fce76061f5c99a4f5a36a5e33982cb45e3e6be8290f7a4f3a632c8"
+
+[[files]]
+file = "config/ars_nouveau/search_index/segments_6"
+hash = "82736d9cfd268d48a1ff31fd9740cba6d6e38a653e932312db1ef7a31ed9b5e7"
 
 [[files]]
 file = "config/ars_nouveau/search_index/write.lock"
@@ -1197,6 +1213,10 @@ file = "config/copycats-server.toml"
 hash = "3a2e328d298b0ef379673beffa566eda2d92b4f1d0e00425573b59f0ea66e646"
 
 [[files]]
+file = "config/craftingtweaks-common.toml"
+hash = "1f13af1d6754dbfc7fa5d8641e607562892e22a0bdd77034666e7a240cbdf387"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "e20f6769fd946b918f24cfd54a422a599faa43394ee9a33012e645102a366da3"
 
@@ -1575,6 +1595,10 @@ hash = "b749e0680e8cd499bbe29c8267664507bedf501c9b2c40ee11e616657bb24ee3"
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$old_growth_spruce_taiga.cfg"
 hash = "97e4487d7d569f54a8748e46cb6cb5f37423166e84190415e364525253df33bf"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$river.cfg"
+hash = "90f20e2ba051109cec274dedd2ab78a82b726ff1f356f6bcca221d85a5f17be9"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$snowy_plains.cfg"
