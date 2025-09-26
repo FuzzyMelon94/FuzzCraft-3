@@ -3,8 +3,8 @@ filename = "createultimine-1.21.1-neoforge-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2c1adb966235b3adbf417cf9b82a0aa0c723b2b4"
+hash-format = "sha256"
+hash = "b31f3c66bb01ff6ab6ab889d5a5b3877be1ff7cc13bf1cbcf42bdbd8f3b8a16c"
 mode = "metadata:curseforge"
 
 [update]

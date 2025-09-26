@@ -3,8 +3,8 @@ filename = "jamlib-neoforge-1.3.5+1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "efd3a1e2e05589338f976764270ae98fc62f4e1f"
+hash-format = "sha256"
+hash = "3f9653e6e771cd70a73c7e706f87ed80a797baa6a17c6e7698fd2d4d15e404b4"
 mode = "metadata:curseforge"
 
 [update]

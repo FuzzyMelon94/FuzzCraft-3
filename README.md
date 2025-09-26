@@ -8,6 +8,16 @@ A custom modpack created for me and my friends, with some mods to keep everyone 
 - Magic
 - Technology
 
+## Playing the pack
+
+Easiest way to install this pack is to use the packwiz bootloader. I've tested this setup using
+both [ATLauncher](https://atlauncher.com/downloads) and [Prism Launcher](https://prismlauncher.org/download/windows/) - there's probably others that work, but the following instructions are for those two.
+
+1. Create a new instance
+2. Set the Minecraft version to `1.21.1`
+3. Set `NeoForge` as the mod loader, and select version `21.1.172`
+4.
+
 ## Setting up development
 
 Using `packwiz` to get this set up and versioned nicely.

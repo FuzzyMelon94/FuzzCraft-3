@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ProvjTA7/versions/CmelGVF9/mechanicals-1.21.1-1.0.9.jar"
-hash-format = "sha512"
-hash = "03041648807489bb20aa10d1d0ef060ecb11fbbc015899137b481cd64fe5f87e2a1c74cc86a5afd76e28dcaf34f47ab30aacc2637d3e88e717b6828646fe0bc2"
+hash-format = "sha256"
+hash = "d42b0c9530cd8214d6dcac279d7e97b9cc2f0f4e2cd72bcef1c421169d289e06"
 
 [update]
 [update.modrinth]

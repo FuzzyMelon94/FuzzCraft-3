@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/6iTJugQR/versions/lbqEyGoA/amendments-1.21-1.2.24-neoforge.jar"
-hash-format = "sha512"
-hash = "8f9a01fa0863fa7e04bd71cc2385bd3356f29854c36d1d0c93286679c4b4603fa92373be4cf34de3ae75b2ba78b14a4c5943779f9c0ca765de0fea546e59d244"
+hash-format = "sha256"
+hash = "9baa403224a3b58b63f14020242eb73ef1bebc07402b37dd0f071de95a8a4db7"
 
 [update]
 [update.modrinth]

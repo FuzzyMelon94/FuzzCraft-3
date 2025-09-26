@@ -3,8 +3,8 @@ filename = "playerxp-neoforge-1.0.0+1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ebe447cc443794bf255147870353fe31c33db01d"
+hash-format = "sha256"
+hash = "407ddf47b2518e456d7f2535491509031b06d2adfd77538165bf349552b20ba0"
 mode = "metadata:curseforge"
 
 [update]

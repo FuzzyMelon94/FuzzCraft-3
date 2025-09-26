@@ -3,8 +3,8 @@ filename = "doubledoors-1.21.1-7.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9e45b64f4339d37b37b31c4f6bcae14207036bea"
+hash-format = "sha256"
+hash = "a01aa9de724b0bb3733ecb541848e667157b762a0bcc68514bca4618c6181b93"
 mode = "metadata:curseforge"
 
 [update]

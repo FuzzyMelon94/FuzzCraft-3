@@ -3,8 +3,8 @@ filename = "Stam1oCreateTweaks-1.0.7+1.21.1-Neo.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b7967fd6f945998201e57a7bb6e564b880b5f147"
+hash-format = "sha256"
+hash = "c6cb40fc2fd9ff69b75edb4aedfd803e93dc04177a6c94d47b01bd74a0f7a80e"
 mode = "metadata:curseforge"
 
 [update]

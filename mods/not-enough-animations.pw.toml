@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/7ariADSH/notenoughanimations-neoforge-1.9.3-mc1.21.jar"
-hash-format = "sha512"
-hash = "c10504ebda1dd138b84be79d015d628e330b0550be90a122d4a1ed16deeef1e614b211f432cd8a579a832a256dd553014061c87310e283e40348235bcecfd504"
+hash-format = "sha256"
+hash = "ba40cc216164a687b1d223a84b0d61a3f67bd6573f1e56b7c8f996e613c0f9b1"
 
 [update]
 [update.modrinth]

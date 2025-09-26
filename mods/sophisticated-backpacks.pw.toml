@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TyCTlI4b/versions/C752gvn9/sophisticatedbackpacks-1.21.1-3.24.15.1250.jar"
-hash-format = "sha512"
-hash = "d3be5c98aa5d01df46ba3c4446b702c546e25ed436a62c77508e89fb5837ed2419055823a62fc5847474d272e42389b35804d7f2b090cd11cd8a6f5f221af393"
+hash-format = "sha256"
+hash = "cf828652c9a9db7fbd0e6ae1d69f203e9907e9af568b61bae29875f1e39342c1"
 
 [update]
 [update.modrinth]

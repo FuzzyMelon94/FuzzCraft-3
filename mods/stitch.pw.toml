@@ -3,8 +3,8 @@ filename = "athena-neoforge-1.21-4.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "36b80d2340718b22432e2761142cb4bdb2629a42"
+hash-format = "sha256"
+hash = "c77464e04c0a09e22197a3288ffd0fd2b3280378142ff9e141a74c8910ac265e"
 mode = "metadata:curseforge"
 
 [update]

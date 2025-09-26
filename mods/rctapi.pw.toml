@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/CBfM2yw7/versions/qMekONka/rctapi-neoforge-1.21.1-0.13.6-beta.jar"
-hash-format = "sha512"
-hash = "6aac2d73577c970f88392a8c5d1c37b919ca31d58a79514c91516c1556cae86dbca0c5904e99284c2b2cb71448e1b67f51c66815ac09cca3e28db56f57fd13ae"
+hash-format = "sha256"
+hash = "0a1798e4504683ca001e1197f79e25a0e49e595bcfa38e5d5c7439f2cd145624"
 
 [update]
 [update.modrinth]

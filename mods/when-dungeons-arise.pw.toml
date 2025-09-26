@@ -3,8 +3,8 @@ filename = "DungeonsArise-1.21.x-2.1.64-release.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d16aff6540d02d59f1b218183740c900a341649d"
+hash-format = "sha256"
+hash = "6c83f63d1703a2085f6ebc0547016eab62fdabd6c4502ffd29f3f47080aea2b9"
 mode = "metadata:curseforge"
 
 [update]

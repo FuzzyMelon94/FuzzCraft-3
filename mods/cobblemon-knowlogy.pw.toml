@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/dba1h0rW/versions/lV3CqgJo/cobblemon_knowlogy-neoforge-1.4.0-1.21.1.jar"
-hash-format = "sha512"
-hash = "4e018c1eb333b4c18cdb858432442d4ad0ec39470084a8696847a213881f11837211883e3cc46f62cc3b81cc0090344ba73290f2cab8732b73ab6c5316182040"
+hash-format = "sha256"
+hash = "2f798aef2c56b4b368b976a8ad918dab79cd1d70d30478ba9c57c8646b47b6a5"
 
 [update]
 [update.modrinth]

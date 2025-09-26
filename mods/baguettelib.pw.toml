@@ -3,8 +3,8 @@ filename = "baguettelib-1.21.1-NeoForge-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f052892e383dc2f3f22942c74485454311fee898"
+hash-format = "sha256"
+hash = "c6475cd8a1c8e13988fec797565fe2f6c685749595e1b2c4efb4ff8e93c42a6e"
 mode = "metadata:curseforge"
 
 [update]

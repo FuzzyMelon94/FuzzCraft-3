@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LyOBYG8Q/versions/rL79JOkA/escalated-1.0.4%2Bcreate.6.0.4-mc.1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "2a235b11f6a50a080f4884994d29e04d43747e6ee45183e658073e51463c067ffde3ebaa2bc2eea743e4d5554088b6fdacb44568b097b8d41585d43768fe3f9f"
+hash-format = "sha256"
+hash = "057dfc93e2f191896c4c9e9de05e5a783c21072211113a269dc484cd50acde89"
 
 [update]
 [update.modrinth]

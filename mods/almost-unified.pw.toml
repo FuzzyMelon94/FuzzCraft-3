@@ -3,8 +3,8 @@ filename = "almostunified-neoforge-1.21.1-1.2.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "592d0d113020de7184af0f94c144b9e4a7faef2b"
+hash-format = "sha256"
+hash = "3b706ecf2af95a8fcef3e8ba97b2258d347273ad5cbd5d440d2555aab168d686"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lRwTUnD7/versions/x81NaTzn/rctmod-neoforge-1.21.1-0.16.5-beta.jar"
-hash-format = "sha512"
-hash = "45d94bad3b28d2484b5f866694e6e4a0dbf1ef12d8d26f5fb221a704502568358b30ac23af4264503ab6624b5d3b403297430f66a1c71a10bb93683c427a7f07"
+hash-format = "sha256"
+hash = "8a0cb3230afcc9d7db7c019d12c0b9cc478ca2c2b20cf5fac5504f935306841f"
 
 [update]
 [update.modrinth]

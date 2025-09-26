@@ -3,8 +3,8 @@ filename = "Upcycle-1.21-(v.2.0.0).jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9e3bdd825718d13a2b9cd8042ac462fd684df132"
+hash-format = "sha256"
+hash = "3baf37385db2466b2473d2cc0185090fed06b3c479fae884360922168c5367f2"
 mode = "metadata:curseforge"
 
 [update]

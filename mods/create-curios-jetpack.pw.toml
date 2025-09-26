@@ -3,8 +3,8 @@ filename = "create_jetpack_curios-1.2.0-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5146fc22a9385de8103b5ca0151f80dcd0f03978"
+hash-format = "sha256"
+hash = "b373a5a1483ba903ff9b696ffbf45b3e47aa514fed0fc880f7dbb6b9e8d293b0"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HXF82T3G/versions/k1HOiDUA/BiomesOPlenty-neoforge-1.21.1-21.1.0.10.jar"
-hash-format = "sha512"
-hash = "e6a57cdf49c5bbb156aef63d61bca172b8c00454a452bb176c974b51f6c3fd20b3b880db76d78761c855c4dcab86ee55dc5f2d985165371986764530a5cd7b43"
+hash-format = "sha256"
+hash = "6f9554c943b0be9f8f61c4ee893d1c336c16265853b7c7e04022f93dbf1456c4"
 
 [update]
 [update.modrinth]

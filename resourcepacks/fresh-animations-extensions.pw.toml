@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/YAVTU8mK/versions/JrJx24Cj/FA%2BAll_Extensions-v1.4.zip"
-hash-format = "sha512"
-hash = "99fd12d056846c5d7382fc333d0d62815bb3a9262888ccf7ebc9db9f02460f4a2ab0f7ccd7413b3b2b9c19e7f92db239cd3e7597a8dbcfb4fc1317a24796d5f8"
+hash-format = "sha256"
+hash = "cf6425feb0bad40c9124c361c4d962ee557fea6dfde5799b04560b8fb0f72961"
 
 [update]
 [update.modrinth]

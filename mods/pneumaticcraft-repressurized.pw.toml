@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ncAcdgk7/versions/L5G0uUMd/pneumaticcraft-repressurized-8.2.12%2Bmc1.21.1.jar"
-hash-format = "sha512"
-hash = "6d52274ee1caa0972598a38e6cde58a6acbdd6a8cbd49c26ce9020f40695a44ee886d0ae4cd1c2b03ee511b69891313979c7e33df7792d218c7ee7cec05f1493"
+hash-format = "sha256"
+hash = "48bc62c6a00994da7440202acafe9b2402a61f0ec0fcc1ae8cf2374e3ef278a3"
 
 [update]
 [update.modrinth]

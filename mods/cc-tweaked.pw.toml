@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gu7yAYhd/versions/h6qYZ1UT/cc-tweaked-1.21.1-forge-1.115.1.jar"
-hash-format = "sha512"
-hash = "a9580e569243592448955fa9f65e96b0efe7275df62b0c49e8fd9cf6c07546ea006a00a6c0aa30bb4e7d441cc0a3b79607388c1dab1efad45afec5bf4a9a48b7"
+hash-format = "sha256"
+hash = "c650d7b25565d87b0ed4c9b1a8ac696237babde48064c61ee1f118f0c65fc6e4"
 
 [update]
 [update.modrinth]

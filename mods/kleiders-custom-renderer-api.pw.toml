@@ -3,8 +3,8 @@ filename = "Kleiders Custom Renderer API 7.2.0 1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1eca38ab0d127bb105c4ab63ed32df6d45376887"
+hash-format = "sha256"
+hash = "ec306428746ef161a77e9932f36f7cb289f125c88f7b38372ca57d2973e14d31"
 mode = "metadata:curseforge"
 
 [update]

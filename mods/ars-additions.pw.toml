@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/GYK6Gk8R/versions/VS35BpPs/ars_additions-1.21.1-21.2.2.jar"
-hash-format = "sha512"
-hash = "768baf58d4463bc7b4d76427aa6bd72834f479edfd0284c6d0f3cb8119475d7322a624b1f0fa7b06bd4735f608adacbe5d1443109341ee540e9429618579940f"
+hash-format = "sha256"
+hash = "dce0ca8821ee2904b8408f78a5feaaf78fbffcc96262678bc4ad18a61219d2a5"
 
 [update]
 [update.modrinth]

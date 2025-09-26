@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/54eqfZSC/versions/pH5Hk4rL/totw_modded-neoforge-1.21-1.0.7.jar"
-hash-format = "sha512"
-hash = "980a9f515078d29ccdecd0c140844bf4984894eaf9c77cbb22a5fc360c92051d31f5a363a9a78031aab2c3f5ede048ac4937aef54024733254661a72929f0338"
+hash-format = "sha256"
+hash = "95db71b7533d8b0bc3c932069aff127b897ee5f6e91c93610c6a8756e898f679"
 
 [update]
 [update.modrinth]

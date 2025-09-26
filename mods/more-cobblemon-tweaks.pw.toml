@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5KWlJ2HC/versions/dueIDN0X/MoreCobblemonTweaks-neoforge-1.0.2.jar"
-hash-format = "sha512"
-hash = "7c9456051d43869e532cd2e1d8583325ef9300824d98af831cc7391ed113e82a68d6c1d4dd05d594fa0c350e79f5b7353b39d4e7d0a665898978a3868b2d8041"
+hash-format = "sha256"
+hash = "e506ae604d3ac32df963c915cbec568b199e315d5547cbd94967f2fbc8e7dc61"
 
 [update]
 [update.modrinth]

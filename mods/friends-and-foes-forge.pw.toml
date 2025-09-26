@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/BOCJKD49/versions/GrssH563/friendsandfoes-neoforge-4.0.5%2Bmc1.21.1.jar"
-hash-format = "sha512"
-hash = "cdff138cede33bd54720c33e1c0c9a6360a41897c1432b3896f5fd1bd3d8226f347692bc87a081a18c90d6e8e6ebac20291dafbf9fc0fea1c301cc326fc51759"
+hash-format = "sha256"
+hash = "475c4405eec2339e6f81c70841ecf433dd171757ffae92c38a8bb102f910b12b"
 
 [update]
 [update.modrinth]

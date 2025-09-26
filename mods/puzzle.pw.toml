@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3IuO68q1/versions/A1G9Ub0t/puzzle-neoforge-2.0.1%2B1.21.jar"
-hash-format = "sha512"
-hash = "b592bd6a55d8a7aec316aa69acdf4479dca461c3f10774760ff4e4bac36cc2d38102137011ab8b0a2038eb1d01b287c73b13c03b44903c296bdc14e0a1db5e39"
+hash-format = "sha256"
+hash = "d893822d33fa9d83799562add56334d4b287181759cb75467f2ccb0d2ea57634"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jZi8ogTA/versions/U63Q6A3m/someassemblyrequired-5.1.2.jar"
-hash-format = "sha512"
-hash = "1956d632b6151d86a765003feb217dc9a027f156fcb6af13e2dd6d83c1075848aefde8b235acff64a99939c071d798bdb2ef61dfeb84beb2f071f0591585b4d1"
+hash-format = "sha256"
+hash = "d52fa539ac095cc638642b0c3a1127edf0fa4afef6853cced63eff59a84947ed"
 
 [update]
 [update.modrinth]

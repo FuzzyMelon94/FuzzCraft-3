@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/mdJuXlKN/versions/aNcMg0O6/create_cheese_factory-1.2.0-neoforge-1.21.1.jar"
-hash-format = "sha512"
-hash = "e956f8ba91f4f6b6c75096cf22a46ab73cdb9511efc1ee777c9204c36d8306c59c4a928131dfb653979d1e4ea3ce1807908c9f56db4b0820641546d8d7c3e162"
+hash-format = "sha256"
+hash = "e655d812d62d50adc4e6d9804cd32e90d2b361a379224012297bd298e07bf5d6"
 
 [update]
 [update.modrinth]

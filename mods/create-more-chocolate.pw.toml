@@ -3,8 +3,8 @@ filename = "create_chocolate-3.3.0-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e7b609f8a4f69e20b80d1be5c4d317f070b41735"
+hash-format = "sha256"
+hash = "2ca94835a2e4cab55cc0d74268bebe1aec4521d887f0e28ac202b6db9f3dda84"
 mode = "metadata:curseforge"
 
 [update]

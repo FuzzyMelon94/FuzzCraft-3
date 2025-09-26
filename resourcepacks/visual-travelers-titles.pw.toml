@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Z6cnZeGU/versions/wEBZ7Vhy/Visual%20Titles%201.1.zip"
-hash-format = "sha512"
-hash = "e165def610cabd66a088105d2fffc4ca7aab3b26c080f6a3d3eb7eb4124a0ce14df9ea0552b26dc0a8eff33d0c6d853b11011a65aca52b4863f5e98170d8d6ae"
+hash-format = "sha256"
+hash = "990fea9d30883eb72982488c64d580c2025da9238e65fa3eb54d87d8070ac549"
 
 [update]
 [update.modrinth]

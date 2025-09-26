@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZtdULK5c/versions/Zk30hv74/eccentrictome-1.21.1-1.1.0.jar"
-hash-format = "sha512"
-hash = "b3d94b7dbec4ba91f6c6e986394f7947b1da0f4e130f147165d91bcad41f706ece63369b29a6e1985898e8abf688b8436f82d324c9c120ba254f61d57fea7e42"
+hash-format = "sha256"
+hash = "0d9fba37b571fce94284ecaf43342a2aa3f766556cab79aee10808f1005d057f"
 
 [update]
 [update.modrinth]

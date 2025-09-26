@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kcudYghD/versions/bb6lEr1r/cobbleloots-neoforge-2.0.7.jar"
-hash-format = "sha512"
-hash = "a498becbe009aa73ca81ea62c9c500fd53f268113eec405a438aa5c13448056db92b230339e62c38ef6a15d023e1e411dffa8b02ae7075b242b494623cecab34"
+hash-format = "sha256"
+hash = "571816ec02be5744c061cf9f1d15575be855ef846af519d0be8b059a933c8304"
 
 [update]
 [update.modrinth]

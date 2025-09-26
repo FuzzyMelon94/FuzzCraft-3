@@ -3,8 +3,8 @@ filename = "just_blahaj-1.0.7-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2d2cd978f24ed6dfa4dae72762974264fb925df7"
+hash-format = "sha256"
+hash = "4670d7476e89847f8853299c9cea96bbeb5d0f612fae80be46a12f31dce66fc7"
 mode = "metadata:curseforge"
 
 [update]

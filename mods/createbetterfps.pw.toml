@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/lMYIHZNH/versions/eYUsbRPG/Ponder-NeoForge-1.21.1-1.0.0.jar"
-hash-format = "sha512"
-hash = "cfbabd49f8ddd4e5a00b972ad15cb8bc81ebbe35edc8ec69da824b02c799a9b30e266e9b3d244ef38ab3d48b60b857e8d16f188e65035c452f13d5ddb508934e"
+hash-format = "sha256"
+hash = "c27d30acfb13a62a2d2eacb8718fef1330eed4cc367d5d49ec6f7033c2824ca9"
 
 [update]
 [update.modrinth]

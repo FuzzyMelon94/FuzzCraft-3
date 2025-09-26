@@ -3,8 +3,8 @@ filename = "ChippedExpress-universal-21x.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3a2a96c4875407e83b20610007227231735d6ba6"
+hash-format = "sha256"
+hash = "0e00cac10cebbb42b17f6178352c885eb0404fd58b63aa9c1c40a85d6cae20f9"
 mode = "metadata:curseforge"
 
 [update]

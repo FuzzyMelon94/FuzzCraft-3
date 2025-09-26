@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yEGVcr59/versions/p6KTl7zO/create_extra_casing-4.0.2-NeoForge-1.21.1.jar"
-hash-format = "sha512"
-hash = "331a4beb5e5ce57feaef09c3af027e231108f819695dfb276f804c318f6aaa0ae5cbd474ee9abc32c3984d9a5c6714a82b5c8b3f8f40f5a7b1875662204d1385"
+hash-format = "sha256"
+hash = "fc39be6637d0099b0087a674a0ddeabf8816cd916a8be3e4bea5f5805877e620"
 
 [update]
 [update.modrinth]

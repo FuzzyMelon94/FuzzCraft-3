@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MqcGBDhG/versions/NWXNcQfr/CobblemonMoveInspector-neoforge-1.2.0.jar"
-hash-format = "sha512"
-hash = "fd2d629216d69c901412856bf8fccb562e2e7a380f451a88862ef5bda9aebb4b85a080bebd6b32a166fcb53ef91f614d7e7739f258ad81c784c1e804ad26fab2"
+hash-format = "sha256"
+hash = "b76a58730b5ffeb144d8c1f6188f73f602a44cb80b5bdc908cfe298817a9d453"
 
 [update]
 [update.modrinth]

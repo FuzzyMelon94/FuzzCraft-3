@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/codAaoxh/versions/tUbl6MZ4/midnightlib-1.6.9-neoforge%2B1.21.jar"
-hash-format = "sha512"
-hash = "27f94841f7c357a31e7c4daaaeb38bbb8c6be3820644028b52f1b91228fc0856339354d2da4afa89752793560585286d7617bc1667bb9f57e5ef2a83f9d55638"
+hash-format = "sha256"
+hash = "7504ad6bf1584037be0ac26337da261005af1ffcdc3060eb2344b1cbe65cae21"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uYwn8IP5/versions/4dp6wb2s/stonezone-1.21-2.10.4-neoforge.jar"
-hash-format = "sha512"
-hash = "fea34dea6fe7cb736381a90884c754ebcd7d56157d4bf4de6e56e9cf6395e801387377e6e1e2a5c8d6d3a96c8141776025c585f428de3df8c3f47e1fa8e6e87a"
+hash-format = "sha256"
+hash = "e0c78f60051dd151a7b3fecbec966f4c4f7884543e1e164dcaf5a75e35689f87"
 
 [update]
 [update.modrinth]

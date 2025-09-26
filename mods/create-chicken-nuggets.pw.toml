@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OjmR0ibL/versions/LQmwlSCg/createchickennuggets-neoforge-1.21.1-1.0.1.jar"
-hash-format = "sha512"
-hash = "e2f35b6e7407b57f17d4a7b4924d07fe89ac552cfb6e0853915ec25e4eaf76f88804ad7e8114178ea3f9506abb36a72318dafebe999beaad40861e381374dee2"
+hash-format = "sha256"
+hash = "8b3ec3b420013e88385e3c852a5eea1c49b2f972bdefc86ff104e0088c3994df"
 
 [update]
 [update.modrinth]

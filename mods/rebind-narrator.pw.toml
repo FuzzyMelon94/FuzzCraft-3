@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qw2Ls89j/versions/7gQHpRp5/rebind_narrator-neoforge-1.21.1-2.0.3.jar"
-hash-format = "sha512"
-hash = "98d2c6748d917bbf4f16f358d03536b1ba725045fc94be4e2e716790db920f4acd8b6e12c0558b801e747913754301b40e5a3d5302acd2fafa55c00e94838d41"
+hash-format = "sha256"
+hash = "8071ee7ef882df4cc54ec2b67eacafbe8dcd9dd0baf7bab6974dacc2700474e5"
 
 [update]
 [update.modrinth]

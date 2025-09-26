@@ -3,8 +3,8 @@ filename = "DungeonsAriseSevenSeas-1.21.x-1.0.3.2-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9c837da6d9ff5e299ebb18c02c40b9d5c25be318"
+hash-format = "sha256"
+hash = "74c28eb504dcab4fdd16703289a55598a3e0b4abd76dc8861189da5dc88a24db"
 mode = "metadata:curseforge"
 
 [update]

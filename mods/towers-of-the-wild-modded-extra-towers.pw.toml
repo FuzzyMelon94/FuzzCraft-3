@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/RJcwF5bg/versions/yfviRsla/towers-of-the-wild-modded-extra-towers-1.0.6.jar"
-hash-format = "sha512"
-hash = "f776f1d2d2fa15e30081a9be1da1402d3eee5cbd726a542f3772997a07bd3293d271d53c8e99c25f03927558feacde11877299debb3140d37a33a3603a18d186"
+hash-format = "sha256"
+hash = "1d01920c0e6970f90d19a2f95493b7c141954f4ec1f41e94ecc03617f06452c8"
 
 [update]
 [update.modrinth]

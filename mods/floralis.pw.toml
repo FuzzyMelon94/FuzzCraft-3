@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1Nde79GO/versions/Yx82UhBz/floralis-17.0.0.jar"
-hash-format = "sha512"
-hash = "31e9653e70514e3a1182876d2eb4dd27ad6ee09a23e695e49085b225ee8650ccfb7e7eca812d54dff6d9862196ec66148af815622ce0fca8022ab7bf8279e3d0"
+hash-format = "sha256"
+hash = "0a5bbbf3549c794787c4b58a0b6d4fc2bd337ab5636463eb2001c778340e6788"
 
 [update]
 [update.modrinth]

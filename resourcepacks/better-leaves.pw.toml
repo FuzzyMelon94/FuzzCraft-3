@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/uvpymuxq/versions/1lk3J8Ip/Better-Leaves-9.2.zip"
-hash-format = "sha512"
-hash = "5cb3cb074fe11e35719cd080b1850569365c76996a2162df856e35de2daf1d34bee0c58bc10e940b492d12f1501155193ddf3cc285af3d198ee5a0d65ba420a2"
+hash-format = "sha256"
+hash = "0eada3bb5eaa841e85bc35f97e4739b977b77cc2b035b42416092f8df553b90a"
 
 [update]
 [update.modrinth]
