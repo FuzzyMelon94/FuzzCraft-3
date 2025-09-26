@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "687e93170fcab3399d23f9a00a49c65c6d6991f84bf3520eb71c506f69cb58cf"
+hash = "2dc9dc432724e2777b3e1876a55cda875d0be3b24118e4868a855e74fd7bfd6c"
 
 [[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
