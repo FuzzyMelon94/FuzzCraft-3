@@ -3557,12 +3557,12 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
-hash = "68d597f0015c1d625123b6f490525a82dc336384b34b034c3c5c9b2c236de9a4"
+hash = "9d9b074b2425fc4f19808b7d6df4a0baeae39a37e909107aaa85004df1a2d195"
 metafile = true
 
 [[files]]
 file = "mods/yungs-extras.pw.toml"
-hash = "805170d8fa7b1140a0963589a458aca8462144980e308a6b0a2b62eb0d94ed3f"
+hash = "2541b092b92a82757e5d200a6093658e20db548bb8583abad3f4506ed04e5ce6"
 metafile = true
 
 [[files]]
