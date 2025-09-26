@@ -31,7 +31,9 @@ both [ATLauncher](https://atlauncher.com/downloads) and [Prism Launcher](https:/
 9. Go to the "Commands" tab
 10. Set "Enable commands?" to "Yes"
 11. Add the following command to "Pre-launch command"
-    `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://fuzzymelon94.github.io/FuzzCraft-3/pack.toml`
+
+`"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://fuzzymelon94.github.io/FuzzCraft-3/pack.toml`
+
 12. Click "Save"
 13. Click "Open Folder"
 14. Make sure you're in the folder with `instance.json` file and the `mods` folder (among others)
@@ -50,7 +52,10 @@ both [ATLauncher](https://atlauncher.com/downloads) and [Prism Launcher](https:/
 8. Go to "Settings"
 9. Open the "Custom commands" tab
 10. Tick "Custom Commands"
-11. Add the above command to "Pre-launch command"
+11. Add the following command to "Pre-launch command"
+
+`"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://fuzzymelon94.github.io/FuzzCraft-3/pack.toml`
+
 12. Click "Close"
 13. Right-click the instance, then "Folder"
 14. Go into the "Minecraft" folder - you should see the `mods` folder
