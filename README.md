@@ -62,6 +62,16 @@ both [ATLauncher](https://atlauncher.com/downloads) and [Prism Launcher](https:/
 15. Place your `packwiz-installer-bootstrap.jar` in here
 16. Go back to Prism and double click the instance to launch
 
+## Setting up a server
+
+- Using [`docker-minecraft-server`](https://docker-minecraft-server.readthedocs.io/en/latest/#using-docker-compose) to run a server.
+- Using [`setupmc's configurator`](https://setupmc.com/java-server/) for the `compose.yml`
+- Launch with `docker compose up -d`
+- Run commands by first running `docker exec -i fuzzcraft3-mc-1 rcon-cli`
+  - Note, `fuzzcraft3-mc-1` will likely be different, run `docker ps` to get the container name
+- To restart the server, just run `docker compose up -d` again
+- View the logs with `docker compose logs -f`
+
 ## Setting up development
 
 Using `packwiz` to get this set up and versioned nicely.
