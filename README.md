@@ -1,5 +1,3 @@
-# FuzzCraft 3
-
 A custom modpack created for me and my friends, with some mods to keep everyone interested!
 
 ## Themes for the pack
@@ -16,7 +14,16 @@ both [ATLauncher](https://atlauncher.com/downloads) and [Prism Launcher](https:/
 1. Create a new instance
 2. Set the Minecraft version to `1.21.1`
 3. Set `NeoForge` as the mod loader, and select version `21.1.172`
-4.
+4. Setup pre-launch commands to grab the latest version of this pack (see below)
+
+### ATLauncher
+
+1. Click "Settings"
+2. Go to the "Commands" tab
+3. Set "Enable commands?" to "Yes"
+4. Add the following command to "Pre-launch command"
+   `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://fuzzymelon94.github.io/FuzzCraft-3/pack.toml`
+5. Click "Save"
 
 ## Setting up development
 
