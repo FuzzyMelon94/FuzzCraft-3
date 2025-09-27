@@ -913,6 +913,10 @@ file = "config/attributefix/neoforge/swim_speed.json"
 hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
 
 [[files]]
+file = "config/attributefix/tropicraft/underwater_visibility.json"
+hash = "84207d0866413a367d92222bd193912a418615f5eb9da342057bafec30173a79"
+
+[[files]]
 file = "config/balm-client.toml"
 hash = "c51ed7f0af9528cffc79b6bf65e50dbf3dd49b21b1ec3ee7815b17c90f2d5638"
 
@@ -1593,6 +1597,10 @@ file = "config/forgeendertech/Biomes/minecraft$warped_forest.cfg"
 hash = "8d0798e48edd5052e0620c0feb2c3f4cf16f05ebfddc90aa8bd0435a49b3992b"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$windswept_gravelly_hills.cfg"
+hash = "d7ffe0abdd81efdb84f5f640c90721fabf5290e426b7c6dfae4c9138681e03b9"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$wooded_badlands.cfg"
 hash = "fce5a910a90025adba11278cae3a86ad2dd9852e0bd808e845b0c626b0173fb6"
 
@@ -2252,6 +2260,10 @@ hash = "97dc092a064e2aab7d5c3f5b6552286c601d6a3e0ad981dfeb0872ff44d38b1f"
 [[files]]
 file = "config/travelerstitles-neoforge-1_21.toml"
 hash = "aa7573a0345adcf873b0f6b4644727bb0dd218d9281b36b0424b75b440bfe6fb"
+
+[[files]]
+file = "config/tropicraft-common.toml"
+hash = "aec9638bbbb154d9f638bc0ecf9f0ae814e135987f1c97a5ce66f43c98e63334"
 
 [[files]]
 file = "config/upcycle-client.toml"
@@ -3559,6 +3571,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "6fbc264dbd82f030e7e662de9ad9d65824f3ff598bcb6061e9f33a23ff399916"
+metafile = true
+
+[[files]]
+file = "mods/tropicraft.pw.toml"
+hash = "a9cca269c7d66cbe6d458c127c49abb368dce191d00e4ddca90d043e092cf4ff"
 metafile = true
 
 [[files]]
