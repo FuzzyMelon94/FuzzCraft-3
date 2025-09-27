@@ -1653,6 +1653,10 @@ file = "config/forgeendertech/Biomes/terralith$wintry_forest.cfg"
 hash = "a812082bd89a69cc1c16462a3e017cd623f865660b4090e618a4862866e7af12"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$yellowstone.cfg"
+hash = "271c83ceeaac3d37eefc4c40392774c2fb1f5464e364245096cd946ae0c99937"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$yosemite_cliffs.cfg"
 hash = "d2c5a42adf5e957ce85c98736daa0377d5c40778d8fbca792d7031b2ef189e46"
 
@@ -2200,6 +2204,30 @@ hash = "68a4e316bb07077a0c227fed0b25a83c943e3121ee313d5bd98343cab6ba6377"
 [[files]]
 file = "config/terrablender.toml"
 hash = "cff6a9a0d415b19b9852844c0ad5bb2b1cfdb9fce12e729e7228a6521fc95927"
+
+[[files]]
+file = "config/the_bumblezone/bee_aggression.toml"
+hash = "8a4a1dc4ae91de0aee98878ecbcb75f04bcebd84f478e65d4c0e5039449a3acc"
+
+[[files]]
+file = "config/the_bumblezone/client.toml"
+hash = "2919d4dbe9377c2c9ded90374de735ec82cc79f67b77ed1607949d858265fa40"
+
+[[files]]
+file = "config/the_bumblezone/dimension.toml"
+hash = "bf651b4809d3d3f23221be4d2c0f05a3011e8aab83ab726e07a9867da13ac1f8"
+
+[[files]]
+file = "config/the_bumblezone/general.toml"
+hash = "e5f6b202a6800d8f12f86663ff82b3c3ab2df6b54cfe12a06b349e1619da327c"
+
+[[files]]
+file = "config/the_bumblezone/mod_compatibility.toml"
+hash = "218925695e5db0654b018a60c684995241d9447fb92bbeea50b0d9ea62b8e2fe"
+
+[[files]]
+file = "config/the_bumblezone/worldgen.toml"
+hash = "966a526899953cf567988682f661917dffe358fcd51815866f840d9ca19bbef9"
 
 [[files]]
 file = "config/trashcans-common.toml"
@@ -3496,6 +3524,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "3f4585a08b3c6e5b703ed002e11494c6d17938f697a2b498f6da31592e7eb350"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone.pw.toml"
+hash = "0bd5c4edba88af74836b83344099923abe2071e4a11a00ff490dc65096256167"
 metafile = true
 
 [[files]]
