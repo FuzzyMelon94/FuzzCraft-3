@@ -6,7 +6,7 @@ hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "49cc18f889159bd96c2b7e97611d9ae5e935bd820e759e5ae04fa1e3fb12eb3b"
+hash = "dbda5edf49518ac2b0cdc19784a60516b4a4af96615d0be546ec9eca300fa38c"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -1301,6 +1301,18 @@ file = "config/cutthrough-client.toml"
 hash = "0f1e7df65dc4fcff84594a708ebed689598dd05dec4cfca38e9f807ca817c5c0"
 
 [[files]]
+file = "config/dimdungeons-client.toml"
+hash = "933d3f15e6968e150293acf6e4d1d7e6ac739be4afdcc946bcae7a8c4b060285"
+
+[[files]]
+file = "config/dimdungeons-common-r200.toml"
+hash = "246c79c5e062421b808666db05a94d3f90fce95f0c71a1791dbd2e20edd63b05"
+
+[[files]]
+file = "config/dimdungeons-server.toml"
+hash = "8f74e85ffec99ac4f18e7322de89a52f76d754c5a6b6b50dabfe4e6a5d3fd505"
+
+[[files]]
 file = "config/disenchanting_table-client.toml"
 hash = "9533cd0c0bb7a22df2f9037d09fbabf87a6f6ae66e18f8699658aa3cbe508dfb"
 
@@ -1391,6 +1403,10 @@ hash = "dc7598cff8d5128cabb1757c5e38a9cbf492ac2d195ed403bc47c679b4a1d4dc"
 [[files]]
 file = "config/escalated-server.toml"
 hash = "2c095b354df0b7b9b4027b4493af24695e23186682a7526c75ffe7269c7e1506"
+
+[[files]]
+file = "config/eternal_starlight.json"
+hash = "e0058477e5b05eb13210ffac32340ddb9bbaf0cf7a6146dd1c77cd33f11cc450"
 
 [[files]]
 file = "config/etf_warnings.json"
@@ -1527,6 +1543,10 @@ hash = "331fe2a94feb2d80fc037cf6f6fe4a87e84b5a0a49a42bbc7be7144ebf8770ff"
 [[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$wasteland_steppe.cfg"
 hash = "429df037a569438c79c4381815d6ac4aa6f212adb986ae92a649a0134ccf0477"
+
+[[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$wetland.cfg"
+hash = "bc5357e2abe705857add8665fa769989667b8c9204b368f29a7f94da8a179341"
 
 [[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$wintry_origin_valley.cfg"
@@ -2327,7 +2347,7 @@ hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "b1c47681c88ef9f848ef3a2d399bb532ff60b3091faef966e065707e3077f163"
+hash = "887dc781614da0ec0eb27b0b657a630b6c73d2a8a7b3073dfbda345da16346d2"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -2343,7 +2363,7 @@ hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
+hash = "74c912830ad2c61465d05e119c8cf583b7697d450ede5c6d14736879a97ebd26"
 
 [[files]]
 file = "config/yacl.json5"
@@ -2841,6 +2861,11 @@ metafile = true
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
 hash = "d2009e28ce4b9f697e4892f5ff336064e9256822e9620906ab09f37153841872"
+metafile = true
+
+[[files]]
+file = "mods/dimensional-dungeons.pw.toml"
+hash = "b5dfe7b93b050a0184062144526e9a2c21b2cd0903270095e20d272f92049106"
 metafile = true
 
 [[files]]
