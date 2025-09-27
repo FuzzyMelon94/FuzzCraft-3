@@ -1601,6 +1601,10 @@ file = "config/forgeendertech/Biomes/terralith$painted_mountains.cfg"
 hash = "29faeae2b5a5a3b328f47156c940d7587605cf2e971339a4d6bb5a150a921144"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$rocky_jungle.cfg"
+hash = "fdcdfbf72cc5bfa2573eb446e9e8020ef67c3567c240169015970cf778f8d59a"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$savanna_badlands.cfg"
 hash = "922dd2f3f1bc25bd57cab35cfdbfbcfec6346bae7bceb9597a1056f09d2759ff"
 
@@ -2745,7 +2749,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "972117288951051f420ea16968682b5ffc9f3d753df6e33e80cfc8988cea500e"
+hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
 metafile = true
 
 [[files]]
@@ -3490,12 +3494,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "46e890e7fe8518dec172b33a3da982324db47e8b9b2782f184ff235a16c986ff"
+hash = "9d76c3683cfea5c5976823a000eacc9944db9f097894356d2a029cf36642ffa4"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f648d95619341bb0f6f201cfbe292f25a2347bb5a587a90f5d195eb44ad1f29b"
+hash = "9b8940ac83dde84cfc59860c6544a4b1194e635786c26bd47dc15eee79e63598"
 metafile = true
 
 [[files]]
