@@ -1537,6 +1537,10 @@ file = "config/forgeendertech/Biomes/minecraft$mushroom_fields.cfg"
 hash = "b749e0680e8cd499bbe29c8267664507bedf501c9b2c40ee11e616657bb24ee3"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$old_growth_birch_forest.cfg"
+hash = "877dd0370f5015f92326d2eef6a2587908894baac9af70127077ac4323e83f3e"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$old_growth_spruce_taiga.cfg"
 hash = "97e4487d7d569f54a8748e46cb6cb5f37423166e84190415e364525253df33bf"
 
@@ -2058,6 +2062,10 @@ file = "config/skinlayers.json"
 hash = "6938dedbced0a6bb0ef345264f8df432b6db8b759f6614b32bae655ca72e131d"
 
 [[files]]
+file = "config/sky-aesthetics.json"
+hash = "8e1b6d5088e373f8b9d0a5b734b2b17c6e01d42f3e63da5637a3e8c0da7a0c48"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "2d4ca4951a0305b94d950b9a99e4842e91e6fbe93e213d37f5dde64c40464f80"
 
@@ -2116,6 +2124,10 @@ hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 [[files]]
 file = "config/spawn_notification.json"
 hash = "7995a3fe82793aaa319e036bc030a2ab2879340f30ad8b709cbc90322f6f3ab9"
+
+[[files]]
+file = "config/stellaris-config.json"
+hash = "74912e75abbbfe7e251fb3bd8052c55c8d9328d215302ee84be1c98b5e13e4a1"
 
 [[files]]
 file = "config/stonezone-common.toml"
@@ -2269,7 +2281,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "3d14e5fdb65aa868d36500bbf1ef35c8fb6135e35365e43ea0355a3fa0144f24"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -3158,6 +3170,11 @@ hash = "b11c3e96802d7f7642a49281a65056b73017f770fccc6c048f46e158684e636d"
 metafile = true
 
 [[files]]
+file = "mods/per-spatium.pw.toml"
+hash = "557c7470f6fa151d176e684154b22ea9a53b80f57070a8ae6eeccf771f336cab"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "9670332b4364a7ef14ad6d4d9bb39d6ef1a3a284d25875ed960a3096bf50ff35"
 metafile = true
@@ -3170,6 +3187,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "de4f1ab3ecf5219723a90e7350c0e43bd80692ae09ea67b521d005b10a1b12b2"
+metafile = true
+
+[[files]]
+file = "mods/potentials.pw.toml"
+hash = "92446d159e74cb755c54cfffb6a3e5a0976ec4d203da360a327c6010daef3b51"
 metafile = true
 
 [[files]]
@@ -3330,6 +3352,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be6f9f60b705e1be3722b3cef7d8d6c4a16fb31f0cad0efdcca83636ec1271b"
+metafile = true
+
+[[files]]
+file = "mods/stellaris.pw.toml"
+hash = "f8c07162ef6b153eee32774abf15bf133924ea78e495777479302818b6ffb128"
 metafile = true
 
 [[files]]
