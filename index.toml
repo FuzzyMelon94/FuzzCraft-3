@@ -1257,6 +1257,10 @@ file = "config/crepperoverhaul-client.jsonc"
 hash = "8ebd8ce17fd98dc18dde0d3271b9237fbc98d9664647940308c9a4d7804dc200"
 
 [[files]]
+file = "config/crittersandcompanions-common.toml"
+hash = "71476b13592ecf0681352a724ef6f33fd6b6d9e054d04436597bdbebafb4fae5"
+
+[[files]]
 file = "config/cubes_without_borders.json"
 hash = "99b15b0a069e6d9f3e5a6267e128c1bec50e8205dcf6baa7739dea79ea999ff2"
 
@@ -2690,6 +2694,11 @@ hash = "f0e99d5c3df1dd230b70c72f2786c76131e5ef6246ff6773326ccb8c2712351c"
 metafile = true
 
 [[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "96a87e8bb594c5aca42b33e45bd02027a1e59bce29975d657b8eb3d764455111"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
@@ -2911,7 +2920,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0954e5ed7997bf2f2885139887f4d98653548e089b3586d093a419d793b6a00e"
+hash = "960fb33c17aca9c635f99009c1f16d75c312d043e302a599f6ce8040452079e6"
 metafile = true
 
 [[files]]
