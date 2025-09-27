@@ -1529,6 +1529,14 @@ file = "config/forgeendertech/Biomes/incendium$weeping_valley.cfg"
 hash = "4e72709109fb9cf8edd4b35dc98e7029da06d798ab9bcec01a1586a7ebd4601c"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$deep_cold_ocean.cfg"
+hash = "1e0ec6319897cedb840d60318f6463c6066c968091e48e3e24ebb75809f3cd4f"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$frozen_ocean.cfg"
+hash = "6ef7bd2bb563cf14d62b3c6c5ee9cb5629b58c871cc8e3fe9d170488d528ccba"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$lush_caves.cfg"
 hash = "6434e38669136dd53a039fa18bc54e62dd1854d6976c5914f900c79b59beaf0a"
 
@@ -1607,6 +1615,10 @@ hash = "fdcdfbf72cc5bfa2573eb446e9e8020ef67c3567c240169015970cf778f8d59a"
 [[files]]
 file = "config/forgeendertech/Biomes/terralith$savanna_badlands.cfg"
 hash = "922dd2f3f1bc25bd57cab35cfdbfbcfec6346bae7bceb9597a1056f09d2759ff"
+
+[[files]]
+file = "config/forgeendertech/Biomes/terralith$shield_clearing.cfg"
+hash = "29613ebcf4c3cc16c7bf91e7e8d2d22fc7f599c0df9c8f0e179c9222d185fc65"
 
 [[files]]
 file = "config/forgeendertech/Biomes/terralith$stony_spires.cfg"
@@ -1954,7 +1966,7 @@ hash = "b9816b118ceae0ae6cd127983801b40562302e47dcfebbdf88d1700a47de5e94"
 
 [[files]]
 file = "config/paxi/datapacks/enchantedbookenabler-datapack.pw.toml"
-hash = "7ad6d7c3587dcfba7bd77a1829a6049eb7662185fdf4d1f9a6098007e0b57b7c"
+hash = "299948b2e34d22a81b4535f08762b625bd7585d8819c50d53de6ba6805900ccd"
 metafile = true
 
 [[files]]
@@ -3588,7 +3600,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
-hash = "aeb974de3d935eae85cb30af7f04143f370c81de26d0cb786be24d9c7cef3b12"
+hash = "590d63ddd680c1a9ce96945cec48c1b1dca146090003c850cf7a9cb855452699"
 metafile = true
 
 [[files]]

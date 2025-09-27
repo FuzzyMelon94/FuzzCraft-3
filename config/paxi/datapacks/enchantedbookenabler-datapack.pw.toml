@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9xfXfCPD/versions/CmBcjrxx/EnchantedBookEnabler%20-%20Datapack.zip"
-hash-format = "sha256"
-hash = "b9816b118ceae0ae6cd127983801b40562302e47dcfebbdf88d1700a47de5e94"
+hash-format = "sha512"
+hash = "c5055d90543e74251930139d41e00912b4d68f8f759bb80efa4a424324dd5d4ae8e1892e3bde3d0967b6abe0cc04a6bad43ba66cebbf9729aa1a775de0cd15e9"
 
 [update]
 [update.modrinth]
