@@ -1113,6 +1113,10 @@ file = "config/collective.json5"
 hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
 
 [[files]]
+file = "config/collective/entity_names.json"
+hash = "261f797676624aa9324536774863d5e54d30b06f9ab319c1296df90c41af79eb"
+
+[[files]]
 file = "config/comforts-common.toml"
 hash = "1f21c10bfce9cd25aea641046a79df88867f68ba8ba3838a5e1662521f9f06a2"
 
@@ -1623,6 +1627,10 @@ hash = "922dd2f3f1bc25bd57cab35cfdbfbcfec6346bae7bceb9597a1056f09d2759ff"
 [[files]]
 file = "config/forgeendertech/Biomes/terralith$shield_clearing.cfg"
 hash = "29613ebcf4c3cc16c7bf91e7e8d2d22fc7f599c0df9c8f0e179c9222d185fc65"
+
+[[files]]
+file = "config/forgeendertech/Biomes/terralith$shrubland.cfg"
+hash = "b72d01832d5830f5c3bb3bcd343f8954486d97bc59eb131ee571cebb8049d7f0"
 
 [[files]]
 file = "config/forgeendertech/Biomes/terralith$stony_spires.cfg"
@@ -2222,6 +2230,14 @@ file = "config/utilitarian-server.toml"
 hash = "c3fa563239f9d6083df7e4494abb170a5ad43f34559abebf36e7c7cb8b2db356"
 
 [[files]]
+file = "config/villagernames.json5"
+hash = "c6a90f762893e4b57c5ef6bd5fcc6a29180e8cb69c6fce3959bacb2ecf9041ea"
+
+[[files]]
+file = "config/villagernames/customnames.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/visualworkbench-client.toml"
 hash = "dade9ca594c676d696b7358992e4f534cd78e7e96b8ea7cbd06ba5bdd5725391"
 
@@ -2512,7 +2528,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0f483a4f5d37e39759f371f6485f7143fd75a19a30fce4823625a7d40b295647"
+hash = "3c77cfac6baca0b34f29f071d47aed281cf0a27c5284145fff9b1461c24e26f8"
 metafile = true
 
 [[files]]
@@ -3493,6 +3509,11 @@ metafile = true
 [[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "62ded356b4ec7c592ff7d8361588f087c304ff3f760f6173ceffe9166b382776"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "384337b9af46d36f7d45fbbd1e9ea5801704df31a0db000f862e16aac71c24a7"
 metafile = true
 
 [[files]]
