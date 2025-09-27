@@ -1505,6 +1505,10 @@ file = "config/forgeendertech/Biomes/biomesoplenty$prairie.cfg"
 hash = "8cd546f5ca1bbf655addef4a98a1ab74299e06dcd5f087f443778e23c94bf17d"
 
 [[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$pumpkin_patch.cfg"
+hash = "4d6f7b9ba1f702ea714f7e36bfa0ca97df91a71967dfac1dfb64c94b5fffee1b"
+
+[[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$shrubland.cfg"
 hash = "82d92afd80114a5f8154cbdd3b40a1ab5e6dac9d271fc239eb670b96720221c8"
 
@@ -1543,6 +1547,10 @@ hash = "1e0ec6319897cedb840d60318f6463c6066c968091e48e3e24ebb75809f3cd4f"
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$frozen_ocean.cfg"
 hash = "6ef7bd2bb563cf14d62b3c6c5ee9cb5629b58c871cc8e3fe9d170488d528ccba"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$grove.cfg"
+hash = "9f3336880db79d40c5f51b054680fd28132c94897a86160f808fb6e4181f782c"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$lush_caves.cfg"
@@ -1835,6 +1843,10 @@ hash = "6af411644e22ede34383135509cb96b2a636d8ed45494b28976514a95537105e"
 [[files]]
 file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/lithostitched.json"
+hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
 
 [[files]]
 file = "config/lootintegrations.json"
@@ -2437,6 +2449,11 @@ hash = "188d8fef30a732ba5ae30cbce736016509903d4faa463f46871064904fb14cfc"
 metafile = true
 
 [[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+hash = "42a0493478975eb4813c464f4985996a957dc39eea2b462fcb94d16f2b83f0d5"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "fd923f77a85d87a52e78076d8a6ebe1ae5eeee5af132b960f52b47715c414ed9"
 metafile = true
@@ -2744,6 +2761,11 @@ metafile = true
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "96a87e8bb594c5aca42b33e45bd02027a1e59bce29975d657b8eb3d764455111"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "470aa87612a0fad97ee2566e091ddc5ff115c3cde7214d831cb95a5dc34ba531"
 metafile = true
 
 [[files]]
@@ -3104,6 +3126,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "39d7f5b7e99a9469aca4844a7987586c472fd34cc73ba63de138694668ad4086"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "7c32793929cbecb28468de8edda056f793b0baf0339568dc3ecc75e8cdfcab3d"
 metafile = true
 
 [[files]]
