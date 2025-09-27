@@ -17,6 +17,7 @@ both [ATLauncher](https://atlauncher.com/downloads) and [Prism Launcher](https:/
 
 - Download a launcher that supports pre-launch commands
 - Download the latest version of [`packwiz-installer-bootstrap.jar`](https://github.com/packwiz/packwiz-installer-bootstrap/releases)
+- At least 8GB of RAM - don't forget to adjust the instance in your launcher
 
 ### ATLauncher
 
