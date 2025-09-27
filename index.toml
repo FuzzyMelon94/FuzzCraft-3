@@ -1473,6 +1473,10 @@ file = "config/forgeendertech/Biomes/biomesoplenty$coniferous_forest.cfg"
 hash = "1e9f90ad8ad059ec72169953bc1e82ae6fe734249836f31991673d0bb4a957d7"
 
 [[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$end_reef.cfg"
+hash = "ad6dbc2e1fb7b43838cff395a72f5b9bbe2295874698813b358f5324bffb62a9"
+
+[[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$fir_clearing.cfg"
 hash = "589bd7497e69230166749c2f3eabe60200140806bc75fab9b579f83b75444992"
 
@@ -1683,6 +1687,18 @@ hash = "2d184dfbe79bc606d5c934a899c5ce147db9d6951b28d3bbc757b660b7153fa6"
 [[files]]
 file = "config/gravestonecurioscompat-common.toml"
 hash = "250425339a33652b1da043c4ee48d36de74493c257c81df3ea6064eae82a7eb8"
+
+[[files]]
+file = "config/guardvillagers-client.toml"
+hash = "d73f511be1480c9dec4c54913e2f571ee6d4f430560e9bd0b998bf88d1dfef6a"
+
+[[files]]
+file = "config/guardvillagers-common.toml"
+hash = "e393666eb226df879b9630862552f661264547889e447ff821c861e385fc32e8"
+
+[[files]]
+file = "config/guardvillagers-startup.toml"
+hash = "02941cb74d4016b874dc5a907fd26a8c3053387ad070c2eadeaa33e45926a1bb"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -2957,6 +2973,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
 hash = "3e5d9fca527b5d1f68a17aeace44d61c49696a7a7fbd68d021287df154fd98f5"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "bb6b6e411d049c2f6bb4370d59804c49b6490ca30b7d3ca48ce7ed8da63b810b"
 metafile = true
 
 [[files]]
