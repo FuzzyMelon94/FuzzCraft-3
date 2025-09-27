@@ -1509,6 +1509,10 @@ file = "config/forgeendertech/Biomes/biomesoplenty$wasteland_steppe.cfg"
 hash = "429df037a569438c79c4381815d6ac4aa6f212adb986ae92a649a0134ccf0477"
 
 [[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$wintry_origin_valley.cfg"
+hash = "51deeef40f3e72d95e5c4c0d882ec35da9f4bd9e0138f767316adf9cbdfd30a9"
+
+[[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$withered_abyss.cfg"
 hash = "1dd4af40e1c8dd1afed76d408ca860811cadbe6a76af572e98b100e4d2e28b08"
 
@@ -2003,7 +2007,7 @@ hash = "a7198e48aea06a8cfa320c25deb24bc32651763dee34418dbf82ff507a18f347"
 
 [[files]]
 file = "config/protection-pixel.toml"
-hash = "0d250042d47362bed889029edc2d70bd8062f7302a7eb4f8bd73034e99a01b3f"
+hash = "4366eacd93d80d41861226ad3d645470aca490ccb5a757953890d77b956942e4"
 
 [[files]]
 file = "config/puzzle.json"
@@ -2040,6 +2044,14 @@ hash = "0a212a531c33238b3ae8b9aa15bb8466e3d65ae802b0441a0228a991136bbe17"
 [[files]]
 file = "config/safepastures/safepastures.json"
 hash = "c5392353cf86d37296242f6c3faf43e0342a72e190e457a1042108ffe980c5b6"
+
+[[files]]
+file = "config/silentgear-client.toml"
+hash = "e79d1931dfddd25dfd2969cc9e45d77b36968aee9d1116fa8c0321b1b99c172a"
+
+[[files]]
+file = "config/silentgear-common.toml"
+hash = "fd0e193bebc939a9124f4c275d4f3cf2f09e33060c0891f9dc43239bf3a8e3b1"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -3278,6 +3290,16 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "d6148871637c5eb6a69c43ee54db58c5cbc90fb67a565be34ca631ab9a519627"
+metafile = true
+
+[[files]]
+file = "mods/silent-gear.pw.toml"
+hash = "f39797b22a36306d868f37f35f84fc4b3571864abeb1e232622064ab210129c1"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "0270a241e1d1c3c8e1ecda59aeaa5004771a57d46a4a470566cb7dd6d7e89c85"
 metafile = true
 
 [[files]]
