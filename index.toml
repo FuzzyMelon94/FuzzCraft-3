@@ -3129,7 +3129,7 @@ metafile = true
 
 [[files]]
 file = "mods/diagonal-walls.pw.toml"
-hash = "c39243f1cf06f1132bf82cffa065c7f71bd9f94da644286025d61dcdec938764"
+hash = "bbc15c019fd260bbb9058b14a8e03232a55df77608d9aca466d051007d62abd2"
 metafile = true
 
 [[files]]
