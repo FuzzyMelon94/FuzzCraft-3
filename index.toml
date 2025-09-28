@@ -2728,6 +2728,11 @@ hash = "af5be21b70b778bd919a8d10807895fad40671c9701519dbf95bc74f139fec3f"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "612d49f065b3b26bb44cc3ef4f1f2a1c58883831695a96b7ed7f63f75a66295c"
+metafile = true
+
+[[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "2b48d5a0fb3108466f40edf2ee6c729f19eb0b829450a91783c49862185ae977"
 metafile = true
