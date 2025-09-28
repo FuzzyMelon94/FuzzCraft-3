@@ -3899,7 +3899,7 @@ metafile = true
 
 [[files]]
 file = "mods/trash-cans.pw.toml"
-hash = "5d1bdd5e5333ff360701eb76f316b939707581707b2da8e4fc013a37983333ad"
+hash = "a43bccc1cdad8e0ce5167f379c98935f7ea8117ac0bda2218b372defbc9fc985"
 metafile = true
 
 [[files]]
