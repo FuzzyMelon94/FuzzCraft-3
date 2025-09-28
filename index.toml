@@ -2688,11 +2688,6 @@ hash = "0bcbbcbf939f82f90be11d6d647478f93d43d60d289d6b8ba8484ffb0f8a0f59"
 metafile = true
 
 [[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "1b71b694a3f9998d0e98ec6af0325490e1773e4e1b65f2b82b5bc7d43b73408b"
-metafile = true
-
-[[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "e6c3d0d202b6949e92a730a16ab139e5a5e7a40bc2a43521cb63cf4bfd115c01"
 metafile = true
@@ -2734,7 +2729,7 @@ metafile = true
 
 [[files]]
 file = "mods/chipped-express.pw.toml"
-hash = "91461d856c4fb2342d2178158543e11d96317c69b1645432a3a8b8324323b745"
+hash = "69111a35b6486079bfb9bf03917608804abe4879f5f228af0cc464cdfe4d1474"
 metafile = true
 
 [[files]]
