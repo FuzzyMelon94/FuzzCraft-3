@@ -3524,7 +3524,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnum-torch.pw.toml"
-hash = "b90f9e7ee15758294faceff2b015b6944dca1c50d0d1d5481ab2b2366c8fd77a"
+hash = "f0c97c0212ddda5c012ba451a123d4b39e89f402cc70d38d31dc9098736ec07f"
 metafile = true
 
 [[files]]
