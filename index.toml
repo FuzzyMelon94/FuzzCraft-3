@@ -17,6 +17,10 @@ file = "config/accessories.json5"
 hash = "b9f6a56acdb02a286de9aa06578dac5485656fb476adc819fb3c63dd49ad0785"
 
 [[files]]
+file = "config/achiopt-common.toml"
+hash = "e9247671f56b0e448914785063aef58cc1277f7a4b7b084334e06117efd8cd67"
+
+[[files]]
 file = "config/adlods-common.toml"
 hash = "85ebda9f3e812a2c4942d75b3a668891843974f5dffda1d6cabc7e82626c0ac1"
 
@@ -1565,6 +1569,10 @@ file = "config/forgeendertech/Biomes/biomesoplenty$gravel_beach.cfg"
 hash = "903fd468c5a584e5d558d89cf041613ccb03975dce504fdda5338090afa12d05"
 
 [[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$lush_savanna.cfg"
+hash = "2c6e9e0e3909e6bbbbddae2b81f5243d3260e6a7e9745176347e80d25af0d0a1"
+
+[[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$mediterranean_forest.cfg"
 hash = "27188cdf6ecbf428c0135ed4e1326f39defb44445d5468e816ebf35e7db0a016"
 
@@ -1783,6 +1791,14 @@ hash = "5378186838edcf828c352a47b0ea7e5f87efcadc7230eef08dc7d2c9ed6d27c7"
 [[files]]
 file = "config/ftblibrary-client.snbt"
 hash = "749c947ef3e1d038863875e00787e23c5fef38d3b0f39451bfb54497b8597717"
+
+[[files]]
+file = "config/ftbqopt.snbt"
+hash = "e9b2aac274fca344993154713919afc40de44be68c2978e84efa6a74aa915a29"
+
+[[files]]
+file = "config/ftbquests-client.snbt"
+hash = "6359364663ea3c418cacb79500bb529d4988ce1089d6e73ed5b2eef526f2e6d1"
 
 [[files]]
 file = "config/ftbultimine-client.snbt"
@@ -2475,6 +2491,11 @@ hash = "e3735407bc7fefaa5972c9bd30ede5275d7aa1f2d7c8c1371073875800fe724b"
 metafile = true
 
 [[files]]
+file = "mods/achievements-optimizer.pw.toml"
+hash = "e6eb9466428ccb5be9c8a66bf447219858269605f0c012533c353d9d52932970"
+metafile = true
+
+[[files]]
 file = "mods/aether-villages.pw.toml"
 hash = "56012b11efef62f768ab4c035dc4d6adc5fd72a37021342e78fe36895c6bfdce"
 metafile = true
@@ -3161,7 +3182,22 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "412f21189a0a42c07557ccedbf92de3261a12b71e027dc47f8f1967c88def927"
+hash = "b6a4210fd736b2d48a436325842c428cc8aff3c8fc6e0fad5c6a2624514d24e3"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "6c038017372f42afd32c91d516013f8ea09b71d9a8ad4833d80bc0b25d99d26b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-optimizer.pw.toml"
+hash = "dbc25d2f270071232bf53a674abbdbf37c109ba8af1d0394af33fb8cb990ee99"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "a90dd177aaeeea1900e56b2d5e638839ed58af4397ecbbd26aadeae8822510c8"
 metafile = true
 
 [[files]]
