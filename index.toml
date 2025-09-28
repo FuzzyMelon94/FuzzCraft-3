@@ -2644,7 +2644,7 @@ metafile = true
 
 [[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
-hash = "33ab9d7b9170ffb5491d02a60800668cba9466e112785b48802b5f441aa22ca4"
+hash = "574807cedb57ba6360060d6bf4a359cea9d00bf8700caee866d48ab949005b89"
 metafile = true
 
 [[files]]
