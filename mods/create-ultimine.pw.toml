@@ -3,11 +3,11 @@ filename = "createultimine-1.21.1-neoforge-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "04a82b2145f7050747138e22aaae2a969d40afac"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vUE54e5E/versions/ekjjDn0d/createultimine-1.21.1-neoforge-1.2.2.jar"
+hash-format = "sha512"
+hash = "c383eccf8cd78e2ac297a51c960b7bd128e69eb5d29a76115a6a572908ff652668d33cc5a602d59177ee8823e1ae936ebc2735e77daeda34134ddb9bbf1d7435"
 
 [update]
-[update.curseforge]
-file-id = 6989004
-project-id = 1231381
+[update.modrinth]
+mod-id = "vUE54e5E"
+version = "ekjjDn0d"
