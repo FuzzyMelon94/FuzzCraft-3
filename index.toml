@@ -2589,7 +2589,7 @@ metafile = true
 
 [[files]]
 file = "mods/almanac.pw.toml"
-hash = "a39bc7f084b2958e1cba579e8c14b1e404f3fbca68662ba72e3006e485ea57c9"
+hash = "6b1de417a7fa934847bf002b75acd00d48637bb3484ea468799354b612658775"
 metafile = true
 
 [[files]]
@@ -3484,7 +3484,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "ed35ee922c68416dff9ce35241e6d86ed5682ad76d1a680032e0799faf709bf7"
+hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
 metafile = true
 
 [[files]]
