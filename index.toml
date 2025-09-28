@@ -3923,8 +3923,8 @@ hash = "a9cca269c7d66cbe6d458c127c49abb368dce191d00e4ddca90d043e092cf4ff"
 metafile = true
 
 [[files]]
-file = "mods/upcycle.pw.toml"
-hash = "0ec82cd5e4559e21d2fad90a932d6ac869db1f7aaa091a4a46034f8498836f3a"
+file = "mods/upcycle!.pw.toml"
+hash = "c9127c087e950600b328dc36218721f4f9e2647988b7ba410af7ac233d00152c"
 metafile = true
 
 [[files]]
