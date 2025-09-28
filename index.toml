@@ -3644,7 +3644,7 @@ metafile = true
 
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
-hash = "9670332b4364a7ef14ad6d4d9bb39d6ef1a3a284d25875ed960a3096bf50ff35"
+hash = "49c0bacf8e4cb3ade6c384ad379282f92d7fa3075f2affd8e3093feb685288dd"
 metafile = true
 
 [[files]]
