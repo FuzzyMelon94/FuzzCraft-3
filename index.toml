@@ -2799,7 +2799,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-move-inspector.pw.toml"
-hash = "2dabe995a41b774e27f7d367051957232e290483611ca60132e3818541dbe4f0"
+hash = "b042cc9ab27d9d15a9919f9879d0c06ae0422b4c3b8fa9933345af20435da397"
 metafile = true
 
 [[files]]
