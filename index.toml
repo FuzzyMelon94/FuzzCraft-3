@@ -3214,7 +3214,7 @@ metafile = true
 
 [[files]]
 file = "mods/engineers-delight.pw.toml"
-hash = "0a9a294fa98a922d95a0fd005b53364f43ba185bfac47aa96f4908615591a4c4"
+hash = "f9436381257cfa1abe017d71eaba0cb0b65b9e7d4242ea4b0e87873215ada286"
 metafile = true
 
 [[files]]
@@ -3403,13 +3403,13 @@ hash = "67456458bd27dd28509712b1d257f985ccc93003351c0bc4c23ebc9845a241a3"
 metafile = true
 
 [[files]]
-file = "mods/immersive-engineering.pw.toml"
-hash = "901106fc6fcb4dcb86c13dd8c1dfb0d26e048387fec5bd610d06082242bd786a"
+file = "mods/immersive-paintings.pw.toml"
+hash = "80b749335d8a885db433930654303ac924de8e3a70071859492dbb7a93faa519"
 metafile = true
 
 [[files]]
-file = "mods/immersive-paintings.pw.toml"
-hash = "80b749335d8a885db433930654303ac924de8e3a70071859492dbb7a93faa519"
+file = "mods/immersiveengineering.pw.toml"
+hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
 metafile = true
 
 [[files]]
