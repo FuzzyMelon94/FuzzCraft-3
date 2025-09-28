@@ -1101,6 +1101,14 @@ file = "config/chunky/tasks/minecraft/overworld.properties"
 hash = "597164925e0ae84a4c6443e8a368082ca016189f97432f5468a2019e20311230"
 
 [[files]]
+file = "config/clientsort-server.json"
+hash = "e3cf5f31b64de3d8a2d5634089deb809aea457bca4b35f79f7863c60fb1fbdaf"
+
+[[files]]
+file = "config/clientsort.json"
+hash = "fa6d10e81cbc55499289010f94fbc11a6e52ec2920ee85f427e3fb514027aa6c"
+
+[[files]]
 file = "config/clienttweaks-common.toml"
 hash = "3827e57f3af1dc2cd0f53052eed6d9b0bbb21fa9fb92325ca6a1407518d9f1ac"
 
@@ -1575,6 +1583,10 @@ hash = "4d6f7b9ba1f702ea714f7e36bfa0ca97df91a71967dfac1dfb64c94b5fffee1b"
 [[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$rocky_shrubland.cfg"
 hash = "6b2a10a20b3bafddfaa447c09dca6cec0afb0fc1239e746bc4f45e4ad9727e6a"
+
+[[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$seasonal_forest.cfg"
+hash = "a1dba52fa94049d25a98329578fc4840f83141ebb7db484290929ca5b2d90002"
 
 [[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$shrubland.cfg"
@@ -2593,8 +2605,13 @@ hash = "1c608c20b8215071f57886a1f440c2e0e212570360bd068ea0dfbbaac526afd0"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "3fabe75997facf7545b4af4ef343621cbde6e6288fb2d1e37c6271c8f8e988a7"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "fe127a6927e3b15b8503102cf377efb25f1eac5a110997003cb06e123ad210d8"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
