@@ -1,0 +1,13 @@
+name = "AU: Immersive Engineering"
+filename = "almostunified_ie-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57c5bfa58be1d1992100ac176dd29ac35caa4c8f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6825219
+project-id = 1316631
