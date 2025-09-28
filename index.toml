@@ -1557,6 +1557,10 @@ file = "config/forgeendertech/Biomes/biomesoplenty$fir_clearing.cfg"
 hash = "589bd7497e69230166749c2f3eabe60200140806bc75fab9b579f83b75444992"
 
 [[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$gravel_beach.cfg"
+hash = "903fd468c5a584e5d558d89cf041613ccb03975dce504fdda5338090afa12d05"
+
+[[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$mediterranean_forest.cfg"
 hash = "27188cdf6ecbf428c0135ed4e1326f39defb44445d5468e816ebf35e7db0a016"
 
@@ -1831,6 +1835,18 @@ hash = "a2f833b23c9edccd68dc2455ead4ddc9948cc4240eeeb2b99f29b31260d05af2"
 [[files]]
 file = "config/immersive_paintings/common_config.toml"
 hash = "ac280a3271b92b29c0f85cdc348099cb7108c3e139a49a3d7b8d9fd7c61211b9"
+
+[[files]]
+file = "config/immersiveengineering-client.toml"
+hash = "aeb224c318fdb3543240f124cd10e7ea5aaaa7fc922aaecf876ecfbf7468b180"
+
+[[files]]
+file = "config/immersiveengineering-server.toml"
+hash = "c0937b2c9358b77c96c8904de67a4c3c4f30f5a3e498d81e180638c2180a984e"
+
+[[files]]
+file = "config/immersiveengineering-startup.toml"
+hash = "db0592dacaddc8d709b9632c9fd4b785622b671fe0dba35009ee198f858f1bb2"
 
 [[files]]
 file = "config/immersivetips-client.toml"
@@ -3202,6 +3218,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "f4feb9b12e87c4591dbb391f237e28bd6f11624f5873607cfc6acebaf16d17f2"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "901106fc6fcb4dcb86c13dd8c1dfb0d26e048387fec5bd610d06082242bd786a"
 metafile = true
 
 [[files]]
