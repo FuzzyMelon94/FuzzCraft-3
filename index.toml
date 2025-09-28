@@ -3124,7 +3124,7 @@ metafile = true
 
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
-hash = "6ec10c3222d7c645bd772910021904b80ed3eae23862b904bd7e865305f7b3f3"
+hash = "632743d54d410c8b78fb92c94d8f3bb6a7a3faed45171f91e554877f94f82163"
 metafile = true
 
 [[files]]
