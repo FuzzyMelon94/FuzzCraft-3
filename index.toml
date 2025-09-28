@@ -3004,7 +3004,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-power-loader.pw.toml"
-hash = "4fe55dfb230a5072fc976387e179526e7bb512f79c7d71aa3da80b59420b7a27"
+hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
 metafile = true
 
 [[files]]
