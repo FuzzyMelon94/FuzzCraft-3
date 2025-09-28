@@ -3577,6 +3577,11 @@ hash = "0bd5c4edba88af74836b83344099923abe2071e4a11a00ff490dc65096256167"
 metafile = true
 
 [[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "011d48ede9fe1af671ab8dc18652d6cbf390969d5dd08cd904ed10dc104d2f9d"
+metafile = true
+
+[[files]]
 file = "mods/totw-modded.pw.toml"
 hash = "82f2e2a2c7a3af4527b10891ab519ed4efefed3bcce50bc1f79ce09389e9cf18"
 metafile = true
