@@ -2563,6 +2563,16 @@ hash = "ae6352055ac8adb36b9e4d2ae6bbc996e040399d032bc4a9fa5275c1c46dbf60"
 metafile = true
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "eb356d0a97e886fbf52816ae3b24c90fbb5a8ea01198233ace6050cd31f267d1"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "b1328c758ed239d638f1f912df918019fdf59eff8220ca4d8d45ac8a6f34711b"
+metafile = true
+
+[[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "e6eb9466428ccb5be9c8a66bf447219858269605f0c012533c353d9d52932970"
 metafile = true
@@ -3604,7 +3614,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
