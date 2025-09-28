@@ -3044,7 +3044,7 @@ metafile = true
 
 [[files]]
 file = "mods/create_oxidized.pw.toml"
-hash = "8f7641c2627c926306068f968495927e407016ed72c374d8bf811b710dd04592"
+hash = "50a9e0cce66be2ab5f875133d7ce53d0fc6c35d4a5a4fc0e776f10fadeb61c68"
 metafile = true
 
 [[files]]
