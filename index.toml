@@ -3549,7 +3549,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "cda7b1d997fa04b822b723f5ec453e9c128402b4ed02c87b2bc4595f89b635e7"
+hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
 
 [[files]]
