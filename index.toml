@@ -3678,11 +3678,6 @@ hash = "dd5aad569fb25abbead8793db184a0dfe928b1b66976a2b85e7cd1847677b5b3"
 metafile = true
 
 [[files]]
-file = "mods/protection-pixel.pw.toml"
-hash = "5fdac46c916833da87b04d1d10162f2ebf98cd06565ec318641d1797f77591a0"
-metafile = true
-
-[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "625dcc2180c9c4cfe233ba192493bf2828e206f0d960c138281287d36ff61caf"
 metafile = true
