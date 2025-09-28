@@ -2659,7 +2659,7 @@ metafile = true
 
 [[files]]
 file = "mods/bartering-station.pw.toml"
-hash = "3515eea0bf8d6e9cd811f4858856e7ea1e6f706e075cf81d1a398202a8c440c9"
+hash = "89d5086e2383c436bcedadc91aff9d69ec6a59d2bacbbba6b5d59e2d74576a69"
 metafile = true
 
 [[files]]
