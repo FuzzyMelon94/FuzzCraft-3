@@ -3443,8 +3443,8 @@ hash = "2d636f456b8a396fcaec06545aee486975e6372f1733ab2830015a97faedfe13"
 metafile = true
 
 [[files]]
-file = "mods/justblahaj.pw.toml"
-hash = "779b9a57279082886529db35a0d91cbcfd7f7338d779f128c3f6cc3319870d19"
+file = "mods/just-blahaj.pw.toml"
+hash = "26ec343b84136471f4e84a9210ebeffb22b3858c6f24c577d2dd1704d2026858"
 metafile = true
 
 [[files]]
