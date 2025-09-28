@@ -3729,12 +3729,12 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-farmers-delight-compat.pw.toml"
-hash = "ad62a3d127c54e7ba060eb4572a8a254f45ef141b9289d9dcf82b069c6365694"
+hash = "1b9625747845eac9c4a92135ec74201039b9f7677abbf42bc8b61f51986b5a1a"
 metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-floralis-compat.pw.toml"
-hash = "49e057898a3cb9f7cc61827be13087f251077e843b27809aae59630371c7f65b"
+hash = "8ff392e6cce33dcaf62abe58297bce63461b7cdc1b3cc12c7c16f3c437ff15eb"
 metafile = true
 
 [[files]]
@@ -3749,7 +3749,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-pneumaticcraft-repressurized-compat.pw.toml"
-hash = "4f116cc9967702c84029ba7d01193beda10259f093c07645a49284627603623c"
+hash = "6869a276138fbdff57563dfe89b243c0a719eace7db7e0ed7d3afe61104b75d7"
 metafile = true
 
 [[files]]
