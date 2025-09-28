@@ -25,7 +25,7 @@ both [ATLauncher](https://atlauncher.com/downloads) and [Prism Launcher](https:/
 2. Add in a name and description as you like
 3. Set "Minecraft Version" to `1.21.1`
 4. Set "Loader?" to `NeoForge`
-5. Set "Loader Version" to `21.1.172`
+5. Set "Loader Version" to `21.1.209`
 6. Click "Create Instance" and let it build
 7. Once complete, click "Instances"
 8. Find your new instance, and click "Settings"
@@ -47,7 +47,7 @@ both [ATLauncher](https://atlauncher.com/downloads) and [Prism Launcher](https:/
 2. Add in a name and description as you like
 3. Set "Minecraft Version" to `1.21.1`
 4. Set "Loader?" to `NeoForge`
-5. Set "Loader Version" to `21.1.172`
+5. Set "Loader Version" to `21.1.209`
 6. Click "OK"
 7. Right-click on the instance, then "Edit"
 8. Go to "Settings"

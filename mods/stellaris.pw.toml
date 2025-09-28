@@ -1,13 +1,13 @@
 name = "Stellaris"
-filename = "stellaris-1.21-neoforge-1.4.10.jar"
+filename = "stellaris-1.21-neoforge-1.4.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ItTQpuBn/versions/bfHSVpoL/stellaris-1.21-neoforge-1.4.10.jar"
+url = "https://cdn.modrinth.com/data/ItTQpuBn/versions/YLYGw8iW/stellaris-1.21-neoforge-1.4.11.jar"
 hash-format = "sha512"
-hash = "e65c2ccd686e0b6a28a2bc441e2a3fd76087466dd852f2c79f8c4042721b0950d6dc8adff1c03407a23914b7aaaa4e05246d94d7d76322f8faad4035d38f2553"
+hash = "acdc07219b0af579b3da782f33d0c80dcdc4ad9060ae59fd34e308fd9fb06efbed7882a5c7f18f0bb50e6bc6a6e428a985acfded537038da80aac0f521f895ea"
 
 [update]
 [update.modrinth]
 mod-id = "ItTQpuBn"
-version = "bfHSVpoL"
+version = "YLYGw8iW"

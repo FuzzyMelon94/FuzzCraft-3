@@ -1,13 +1,13 @@
 name = "MoreCobblemonTweaks"
-filename = "MoreCobblemonTweaks-neoforge-1.0.2.jar"
+filename = "MoreCobblemonTweaks-neoforge-1.1.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5KWlJ2HC/versions/dueIDN0X/MoreCobblemonTweaks-neoforge-1.0.2.jar"
-hash-format = "sha256"
-hash = "e506ae604d3ac32df963c915cbec568b199e315d5547cbd94967f2fbc8e7dc61"
+url = "https://cdn.modrinth.com/data/5KWlJ2HC/versions/Hs3tT8Jc/MoreCobblemonTweaks-neoforge-1.1.4.jar"
+hash-format = "sha512"
+hash = "3610776a3030111b7f184bfe6795f98e0ca31d265c1113294a9cef2bee6fd552b1467b9d52ab714a84f15b9deb16d0d42d24b28fb38d84bf5ccb0280526964e0"
 
 [update]
 [update.modrinth]
 mod-id = "5KWlJ2HC"
-version = "dueIDN0X"
+version = "Hs3tT8Jc"

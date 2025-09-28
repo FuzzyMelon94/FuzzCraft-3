@@ -1,13 +1,13 @@
 name = "Create: Dreams & Desires"
-filename = "Create_Desires-2-Dreams-1.21.1-2.0.0.jar"
+filename = "DnDesires-1.21.1-2.2c-BETA.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JmybsfWs/versions/zUkXiIr8/Create_Desires-2-Dreams-1.21.1-2.0.0.jar"
-hash-format = "sha256"
-hash = "e4f152d508908eebe59436a49487929760718b25a4b09d1f822a53ddf2cb36eb"
+url = "https://cdn.modrinth.com/data/JmybsfWs/versions/IQmSy8nn/DnDesires-1.21.1-2.2c-BETA.jar"
+hash-format = "sha512"
+hash = "383f809165e20d672807688174cac474dfc02b0da171cd15285f431f62a82d2a3224f94549a18840c6e2de9f7bf9e78627d3c757bc76fbf7fa69fd5751762878"
 
 [update]
 [update.modrinth]
 mod-id = "JmybsfWs"
-version = "zUkXiIr8"
+version = "IQmSy8nn"

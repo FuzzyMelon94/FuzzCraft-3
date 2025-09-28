@@ -1,13 +1,13 @@
 name = "Radical Cobblemon Trainers API"
-filename = "rctapi-neoforge-1.21.1-0.13.6-beta.jar"
+filename = "rctapi-neoforge-1.21.1-0.13.9-beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CBfM2yw7/versions/qMekONka/rctapi-neoforge-1.21.1-0.13.6-beta.jar"
-hash-format = "sha256"
-hash = "0a1798e4504683ca001e1197f79e25a0e49e595bcfa38e5d5c7439f2cd145624"
+url = "https://cdn.modrinth.com/data/CBfM2yw7/versions/qWAJHJVx/rctapi-neoforge-1.21.1-0.13.9-beta.jar"
+hash-format = "sha512"
+hash = "56744fcd0dcbf28ca54d211ded22e25d90c1d71d89a93fed24a9990656e49c6bf151db4f677c58b3155eeef96db9d96c0e5253d8d52e3d3e597bb1d0b4f8e561"
 
 [update]
 [update.modrinth]
 mod-id = "CBfM2yw7"
-version = "qMekONka"
+version = "qWAJHJVx"

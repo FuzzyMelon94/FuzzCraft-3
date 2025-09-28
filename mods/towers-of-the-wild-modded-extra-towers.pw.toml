@@ -1,13 +1,13 @@
 name = "Towers of the Wild Modded - Extra Towers"
-filename = "towers-of-the-wild-modded-extra-towers-1.0.6.jar"
+filename = "towers-of-the-wild-modded-extra-towers-1.0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RJcwF5bg/versions/yfviRsla/towers-of-the-wild-modded-extra-towers-1.0.6.jar"
-hash-format = "sha256"
-hash = "1d01920c0e6970f90d19a2f95493b7c141954f4ec1f41e94ecc03617f06452c8"
+url = "https://cdn.modrinth.com/data/RJcwF5bg/versions/azmCiYpi/towers-of-the-wild-modded-extra-towers-1.0.8.jar"
+hash-format = "sha512"
+hash = "74c7c0782b6d9333a4cef9389ba257dcc9c03178b40c0eaf95729793afa871966ca32fa92825585ec0de4de7ac52e6ce270d4a66925a799dc81448afe672738e"
 
 [update]
 [update.modrinth]
 mod-id = "RJcwF5bg"
-version = "yfviRsla"
+version = "azmCiYpi"

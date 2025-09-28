@@ -5,8 +5,9 @@
 /README.md
 
 # Not required from other mods
+*.bak
 /config/.puzzle_cache*
-/config/almostunified/debug.json
-/config/ars_nouveau/search_index/*.cfe
-/config/ars_nouveau/search_index/*.cfs
-/config/ars_nouveau/search_index/*.si
+/config/*/debug.json
+/config/ars_nouveau/search_index/_.cfe
+/config/ars_nouveau/search_index/_.cfs
+/config/ars_nouveau/search_index/\*.si

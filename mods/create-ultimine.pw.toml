@@ -1,13 +1,13 @@
 name = "Create Ultimine"
-filename = "createultimine-1.21.1-neoforge-1.2.0.jar"
+filename = "createultimine-1.21.1-neoforge-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "b31f3c66bb01ff6ab6ab889d5a5b3877be1ff7cc13bf1cbcf42bdbd8f3b8a16c"
+hash-format = "sha1"
+hash = "04a82b2145f7050747138e22aaae2a969d40afac"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6618330
+file-id = 6989004
 project-id = 1231381

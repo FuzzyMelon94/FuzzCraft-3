@@ -1,13 +1,13 @@
 name = "Friends&Foes (Forge/NeoForge)"
-filename = "friendsandfoes-neoforge-4.0.5+mc1.21.1.jar"
+filename = "friendsandfoes-neoforge-4.0.10+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/BOCJKD49/versions/GrssH563/friendsandfoes-neoforge-4.0.5%2Bmc1.21.1.jar"
-hash-format = "sha256"
-hash = "475c4405eec2339e6f81c70841ecf433dd171757ffae92c38a8bb102f910b12b"
+url = "https://cdn.modrinth.com/data/BOCJKD49/versions/3cipaSa0/friendsandfoes-neoforge-4.0.10%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "17d00e3a3ebf470c28a1ddde24546bf8cfa1e6097e538500b72dd88eaa690a0fdcf7095bf3554c974f50aaeb9be269acbaceab3560270c5bdf8f99cddb622a7c"
 
 [update]
 [update.modrinth]
 mod-id = "BOCJKD49"
-version = "GrssH563"
+version = "3cipaSa0"
