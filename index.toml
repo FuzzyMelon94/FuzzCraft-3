@@ -3878,8 +3878,13 @@ hash = "9b96e6ee34f283b54b17679e64d6f60ce48f75f67ff746ac4739edb06cc65745"
 metafile = true
 
 [[files]]
+file = "mods/tomtarus-cobblemon-and-farmers-delight-tweaks.pw.toml"
+hash = "9aa3e995213f406e6463f8ac7089b6dd372fed4bcc20fc3c5c89fc713d31dde6"
+metafile = true
+
+[[files]]
 file = "mods/tomtarus-cobblemon-immersive-engineering-tweaks.pw.toml"
-hash = "12dc5ad70440f66bc676b38d2cf76709a215cdd6d05b27ecc1700b40d81e579d"
+hash = "42326f0aefd3ac38b53f011aa9c25cb5ac073b109249e5db4103671be317d857"
 metafile = true
 
 [[files]]
