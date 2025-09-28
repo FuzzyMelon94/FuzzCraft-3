@@ -3354,7 +3354,7 @@ metafile = true
 
 [[files]]
 file = "mods/glitchcore.pw.toml"
-hash = "8e90867fa1b8131beb31baba06066af3b86bc01e36337b8d2b4d14687be72fe8"
+hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
 
 [[files]]
