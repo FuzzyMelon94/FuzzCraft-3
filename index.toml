@@ -2893,11 +2893,6 @@ hash = "88f0ed2720f25b03440898c6f953bb50e709fc9f5af6cd376b98977b1d40c275"
 metafile = true
 
 [[files]]
-file = "mods/create-cc-total-logistics.pw.toml"
-hash = "f47581626428be5bd66331427966cc450b95b5863959a822e27dd87d549e5b32"
-metafile = true
-
-[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "ce50db04fb5e06a6dd2fc36725ff72dec8b0455f9f6c682da0f9eed058431c11"
 metafile = true
