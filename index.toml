@@ -3724,7 +3724,7 @@ metafile = true
 
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
-hash = "fe46427c24436543441ad99c73bdf666db208f54594b607499d361ef84674833"
+hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
 metafile = true
 
 [[files]]
