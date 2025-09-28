@@ -1129,6 +1129,10 @@ file = "config/cobblemon/main.json"
 hash = "293d2cbfd02692ccf9cf52419d38c27522732f2519308790362eeb9e27f69670"
 
 [[files]]
+file = "config/cobblemon_quests/cobblemon_quests.config"
+hash = "0b594cb89cb7b08f9ba40d2aadbc1ecc87bc0397761fe04829fe061ce62f41db"
+
+[[files]]
 file = "config/cobblemonintegrations-common.toml"
 hash = "0a5663957c3aa122188b7b73c42550daae297537ac2f182b314391406370bcf9"
 
@@ -1645,6 +1649,10 @@ file = "config/forgeendertech/Biomes/minecraft$deep_cold_ocean.cfg"
 hash = "1e0ec6319897cedb840d60318f6463c6066c968091e48e3e24ebb75809f3cd4f"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$eroded_badlands.cfg"
+hash = "93c475ba2197d63ea439ae0a3e959eac29a63921ece4ffa00869fdefb2b15f3e"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$frozen_ocean.cfg"
 hash = "6ef7bd2bb563cf14d62b3c6c5ee9cb5629b58c871cc8e3fe9d170488d528ccba"
 
@@ -1807,6 +1815,10 @@ hash = "f4619aa7f0ba6a08b5738e238b9348deebc9cb6f38214bd86d06519f98d253bc"
 [[files]]
 file = "config/ftbultimine-server.snbt"
 hash = "321919f66706059c06de774ed3a960fcba1d141b13f7a71c8c2e5d821b709c6c"
+
+[[files]]
+file = "config/ftbxmodcompat.snbt"
+hash = "a42d7f47f736849079637dcc5f71e84682696b82899b10a011ecb59248d2625d"
 
 [[files]]
 file = "config/fzzy_config/keybinds.toml"
@@ -2115,6 +2127,10 @@ hash = "99c9c4dc7ff364020c9ff0799ee8be539faabea956425a980f45c17c8b8acb77"
 [[files]]
 file = "config/notenoughcrashes.json"
 hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
+
+[[files]]
+file = "config/openpartiesandclaims-server.toml"
+hash = "4d3a991d0f3b9c6dfde2c5c8ecf54968833f4e4a3cf728dc39af99634e3047e5"
 
 [[files]]
 file = "config/overflowingbars-client.toml"
@@ -2706,6 +2722,11 @@ hash = "ec186b5d1812521125ac2c4125cf2c4b0b7693d9ca5908c4a44740f5642f2f5e"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-quests.pw.toml"
+hash = "bf88bd18d28dbd1bd34f5db7a188463dce4ae3868c969566bc0179c3eef2ce78"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-ride-on.pw.toml"
 hash = "e70518598ea186405c6e817d82e0fe8c06d3885933252c2a82e07159468aba78"
 metafile = true
@@ -3206,6 +3227,11 @@ hash = "dee0c4841b0f968b2a9c93afb0546781c52d67e1a1136f612060d941d604aee9"
 metafile = true
 
 [[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "daaf72bca7eaa9dc5db24e5bb4101cfd7c36379fa3cd73d41feb1a82a77bf76f"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "9da240b44435255404eac2f8a2705ebe5f5934d0ec96724fbe3d4194d7505c28"
 metafile = true
@@ -3468,6 +3494,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "fe998b7da3c1c25e4686d49032dc316090d27ca4666c6746edce915553e250bf"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "ff08130567cdfdf428a41a815467dcbe1c07929e47afaf60732b43503ea450f7"
 metafile = true
 
 [[files]]
