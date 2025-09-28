@@ -2884,7 +2884,7 @@ metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
-hash = "102b88ab1cf48a8140baffdfb486bb19001b2cb0413c7b5b3ea5a6edc3a01794"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
