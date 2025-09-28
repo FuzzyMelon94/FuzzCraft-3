@@ -2589,7 +2589,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "4292e216d9c436006b801a6d90a3a355c47ea1949219187e577afae78737d729"
+hash = "4ce71c31b4e8427048b872a58ee88d4f3b7c1405485df449753bf4cedce27b56"
 metafile = true
 
 [[files]]
@@ -3114,7 +3114,7 @@ metafile = true
 
 [[files]]
 file = "mods/deep-aether.pw.toml"
-hash = "7aa415b7ead3466d0845d147b52a58df023c5c9753be197408dcaacfb525d079"
+hash = "5e0f65ac9e6e260e213f3d9a6657cafdd35f509965b09404a8eb9ab55c3ffbec"
 metafile = true
 
 [[files]]
