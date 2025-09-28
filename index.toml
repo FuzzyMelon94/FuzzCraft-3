@@ -2664,7 +2664,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "d4803e74ef130ad490adfe0013723b38a60201cb3e583aea85758dfb253592ef"
+hash = "48d7bd39747ff798107becba773583650ba9745d361b435edac3c377defcd462"
 metafile = true
 
 [[files]]
@@ -3369,7 +3369,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
-hash = "3e5d9fca527b5d1f68a17aeace44d61c49696a7a7fbd68d021287df154fd98f5"
+hash = "6f022dbbf895991f40dfe631d036d3388abb0af82fa0e95102b9ec33ffd52cdc"
 metafile = true
 
 [[files]]
