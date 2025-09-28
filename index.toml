@@ -2993,8 +2993,13 @@ hash = "5e49bf52d98b6f53488c2f494ba445e9e2a3e7a069c86548ee82fdc2f5ae2a07"
 metafile = true
 
 [[files]]
+file = "mods/create-more-packages.pw.toml"
+hash = "9e100648f60b0c489add22c2f11c65637bf9cb038c6d33fd84d09dcefc4ad085"
+metafile = true
+
+[[files]]
 file = "mods/create-more-sandpapers.pw.toml"
-hash = "5829c65428d28281a10fcd68ec70e68bd6d3b258b394630700a36026db7d4fd2"
+hash = "c8af0c27930ddb2dc60fe2775178cc383f72e304277c098bfe2114c292501c77"
 metafile = true
 
 [[files]]
