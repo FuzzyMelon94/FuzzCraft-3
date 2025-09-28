@@ -2764,7 +2764,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "592f8b93dd46bd16e154fe149af1e26465104e070863e4748f5fe439fc365d2e"
+hash = "c7f15ebcab95f04c71940715f09ced4caad2775a91ef34389431f91bc1c7be71"
 metafile = true
 
 [[files]]
