@@ -3874,7 +3874,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-undergarden.pw.toml"
-hash = "011d48ede9fe1af671ab8dc18652d6cbf390969d5dd08cd904ed10dc104d2f9d"
+hash = "9b96e6ee34f283b54b17679e64d6f60ce48f75f67ff746ac4739edb06cc65745"
 metafile = true
 
 [[files]]
