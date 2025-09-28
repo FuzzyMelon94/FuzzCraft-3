@@ -3699,7 +3699,7 @@ metafile = true
 
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
-hash = "37b6241c994450900a558dc135a78d8175783164fb207a6c18c871e46cdeabee"
+hash = "50949df6d64e9aae2a4c85ac93b5da36ad823178c5ddcfae2bb0f18723102688"
 metafile = true
 
 [[files]]
