@@ -693,54 +693,6 @@ file = "config/ars_nouveau/rewind.toml"
 hash = "927983e00266b0b3af2d78c1d5c10e791ed052e3cd8e525cc1bdb773845e921e"
 
 [[files]]
-file = "config/ars_nouveau/search_index/_1.cfe"
-hash = "f9fc288038b9e6a3fcb6bf933982264a7df7bba7bc32b124cd358d2bfedc8aa0"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_1.cfs"
-hash = "9502be7b5bbe6c7fbb9bc4763896ad012679ff4bef9346962d02c3df84451d0d"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_1.si"
-hash = "36bc3631ee24d97f8d8a0191d69b6c9ef3d1f112c134d62f8dd120478167fc58"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_3.cfe"
-hash = "8f8262451e541ad13a941bf6f2983f555a952cf6b88ae6cc500632bbea8dc2ed"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_3.cfs"
-hash = "7da7d5e44f1b2562ca707594f8be61fb378a20098fa073d0fe85009c86689c78"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_3.si"
-hash = "946aef6ac4099b116d5ac0a568eb8da88457294c16f7a6e3780b8fc0c460ce73"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_4.cfe"
-hash = "87f362111e3e0d98a9a74a71581459c50c5d661a2bb24c4ddf4d1c4ef7fb8e96"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_4.cfs"
-hash = "97599bf99b5d4406c625db50a00c4b8c55057024e42f0a93de9b4fb2a9db2684"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_4.si"
-hash = "4c124143d71dee2bbbc99cc7cd9206ffe0b2d1f03cb566a12fec2005c2ff6ed1"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_5.cfe"
-hash = "834aae9d035b9add0b45b0cdfb1ed7220e6a3326e95c61ca19afee07c8217b52"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_5.cfs"
-hash = "ce5e612e770f320a2fd0ce712ac4dd10d5342d458b8f1f8e991278e771b52ca9"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_5.si"
-hash = "b8c66b1d906593753d2d6289f9de62ad8bafc469633aa3328ea1138f93868684"
-
-[[files]]
 file = "config/ars_nouveau/search_index/segments_2"
 hash = "29dc86deaa277fdfec0373a9ada1de3efcbaf9a179c21b2fa589fae0759e5f63"
 
