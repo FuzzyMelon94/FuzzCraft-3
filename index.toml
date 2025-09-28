@@ -2708,6 +2708,11 @@ hash = "ef7c9b68b65e7baab19dc84903f068de6714e6f306052940f53c747743d3025e"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "88c8a2ba69aca58b0365584317660e6f0cd9d22daaa5ab2c5d7c3568a1d6d4d2"
 metafile = true
@@ -3150,6 +3155,11 @@ metafile = true
 [[files]]
 file = "mods/eccentric-tome.pw.toml"
 hash = "7ddcbc31e7421bb4119c7fb28d906db320e55c9689641ffb13d70f752f97d3d2"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
 
 [[files]]
