@@ -1,6 +1,6 @@
 name = "Dynamic Crosshair"
 filename = "dynamiccrosshair-9.8+1.21.1-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/A0S30Mxk/dynamiccrosshair-9.8%2B1.21.1-neoforge.jar"
