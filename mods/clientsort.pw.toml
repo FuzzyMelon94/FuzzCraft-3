@@ -3,11 +3,11 @@ filename = "clientsort-neoforge-2.0.0-beta.20+1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ff22cf736378ba38c6edc2ed30754f9751809fdb"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/K0AkAin6/versions/EFU5WUED/clientsort-neoforge-2.0.0-beta.20%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "8df87ff43bfad7ab59869c768f8a3331d4198a6f29929958fb737402ec26ad64441f3063e49249ea392288ed988368a60037516e212fcfbba0af24099becaf41"
 
 [update]
-[update.curseforge]
-file-id = 7014492
-project-id = 1049891
+[update.modrinth]
+mod-id = "K0AkAin6"
+version = "EFU5WUED"
