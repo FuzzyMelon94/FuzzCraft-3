@@ -2924,7 +2924,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-curios-jetpack.pw.toml"
-hash = "ecdb3dc68a5ca6f31344eeadb799b1bbb43136c033e63cf84391462a1379648a"
+hash = "9fc83755c0454a6c772bcda449b0cc40dce6aeff5453efa3555e474bbb690a43"
 metafile = true
 
 [[files]]
