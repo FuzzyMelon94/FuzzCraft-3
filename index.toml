@@ -3669,7 +3669,7 @@ metafile = true
 
 [[files]]
 file = "mods/prism-lib.pw.toml"
-hash = "7c66411d328400af7c5ff53b315029a6143aa32caa4a095e9aa27255d5d44715"
+hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
 metafile = true
 
 [[files]]
