@@ -3559,7 +3559,7 @@ metafile = true
 
 [[files]]
 file = "mods/modular-golems.pw.toml"
-hash = "0f2ec52f0ee575b0f26e8bc83d943b706f06b2dc1b7f51ce6184e0f164ec1470"
+hash = "3175ff3fd73aa3c1179be46637841f1a1ee2f88e976b925c6b08cfe576009936"
 metafile = true
 
 [[files]]
