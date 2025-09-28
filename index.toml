@@ -2594,7 +2594,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified-ie.pw.toml"
-hash = "b8907669e66fac2535f35b179a3d0cd43501543f04d6046e528bcd390a886126"
+hash = "266ac080f7f3d074af3160fe9ee53852706142f889b69db35e3fc5ef21117eef"
 metafile = true
 
 [[files]]
@@ -2740,11 +2740,6 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
-metafile = true
-
-[[files]]
-file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "42a0493478975eb4813c464f4985996a957dc39eea2b462fcb94d16f2b83f0d5"
 metafile = true
 
 [[files]]
