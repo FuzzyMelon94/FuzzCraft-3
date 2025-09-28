@@ -3883,6 +3883,11 @@ hash = "9b96e6ee34f283b54b17679e64d6f60ce48f75f67ff746ac4739edb06cc65745"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "cdffc74140a6d0da190aebf074d7b0e1a2d7f0b0e4fa7803618d2f154c262a0b"
+metafile = true
+
+[[files]]
 file = "mods/totw-modded.pw.toml"
 hash = "cc194bc3b6ca662987dc423efcfe80cace098a79136d0e9a757b17667b3dab6a"
 metafile = true
