@@ -3738,6 +3738,11 @@ hash = "49e057898a3cb9f7cc61827be13087f251077e843b27809aae59630371c7f65b"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures-forge.pw.toml"
+hash = "77541161200fe2283c868dd0e26d20898b01e1c590974a563f68ab9c691447de"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-friends-and-foes-compat.pw.toml"
 hash = "a8143d95c4cdac801411d7ba529e0b54f2c331501b041fcd4d30befb839ef2bf"
 metafile = true
@@ -3745,11 +3750,6 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-pneumaticcraft-repressurized-compat.pw.toml"
 hash = "4f116cc9967702c84029ba7d01193beda10259f093c07645a49284627603623c"
-metafile = true
-
-[[files]]
-file = "mods/repurposed-structures.pw.toml"
-hash = "c361a2f6b24af6723242af19024fef2afe18616de2192e757bd2b8b41f75a806"
 metafile = true
 
 [[files]]
