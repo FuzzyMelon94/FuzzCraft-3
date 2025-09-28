@@ -1145,14 +1145,6 @@ file = "config/chefsdelight-common.toml"
 hash = "10d852ba739ab2e9304c43bfd8d5eab2f95a7aaca01fb2e4db0c4f8d1ea2d3cb"
 
 [[files]]
-file = "config/chunky/config.json"
-hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
-
-[[files]]
-file = "config/chunky/tasks/minecraft/overworld.properties"
-hash = "597164925e0ae84a4c6443e8a368082ca016189f97432f5468a2019e20311230"
-
-[[files]]
 file = "config/clientsort-server.json"
 hash = "e3cf5f31b64de3d8a2d5634089deb809aea457bca4b35f79f7863c60fb1fbdaf"
 
@@ -1231,14 +1223,6 @@ hash = "db7bbdc89ab05070b2a4c22f6348b0c80aca4a3c449d92cdc6bc56b5af25ff7b"
 [[files]]
 file = "config/computercraft-server.toml"
 hash = "d4995da449d5c96d24245c7108b339b729cc088b012170b3445f7f4fc1e20b3d"
-
-[[files]]
-file = "config/connector.json"
-hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
-
-[[files]]
-file = "config/continuity.json"
-hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
 file = "config/copycats-client.toml"
@@ -2051,10 +2035,6 @@ hash = "a9c9034135d0ce7d10b2b14e6958f12f8578af0313dae6528cc53b446511d953"
 [[files]]
 file = "config/l2configs/modulargolems-server.toml"
 hash = "2912be01065303c90df4bffba0ec9a822a11daebaff9c514d2e164fd81373776"
-
-[[files]]
-file = "config/lavender_client_storage.json"
-hash = "fd673e59f4ea6cbbf0f0cc1b54da6ea78964e8d0ec4018ef81dbb4003eea6099"
 
 [[files]]
 file = "config/leavesbegone-server.toml"
