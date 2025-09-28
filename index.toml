@@ -2964,12 +2964,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-ironworks.pw.toml"
-hash = "7a3d76591cfedba10d536a9ae72ec9675f26c6025e8836e23ea0b8823953ed99"
+hash = "526ffc7ce038465260df7cb64c0f70613efe9f633f4174206f84d2103a0ff9dd"
 metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "0745f6197c9f4e77f4496d3ef3248ea0d02bf059b14e6e4370aae05a29aee9da"
+hash = "09eca8aef96745c2f30d0536ed76904a2342a5f9cbe0745b62ce48f5e4666b4c"
 metafile = true
 
 [[files]]
