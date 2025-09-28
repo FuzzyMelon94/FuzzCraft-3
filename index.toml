@@ -2568,11 +2568,6 @@ hash = "e6eb9466428ccb5be9c8a66bf447219858269605f0c012533c353d9d52932970"
 metafile = true
 
 [[files]]
-file = "mods/advanced-peripherals.pw.toml"
-hash = "939dfd658b50e825c15e0fa5d1b8b822127f522a3676eb20dbbb1c579ef6893b"
-metafile = true
-
-[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "c15e7554a43fcb2f81920f10d4e683a7dbb342460fa265cb6874e274661ec9ef"
 metafile = true
