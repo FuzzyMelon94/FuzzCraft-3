@@ -2753,6 +2753,11 @@ hash = "42a0493478975eb4813c464f4985996a957dc39eea2b462fcb94d16f2b83f0d5"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "ea30fa9651ec3dfc36de93abb9c4e357ccd8f33753739c897bbb16ab5e9e5244"
 metafile = true
@@ -3135,11 +3140,6 @@ metafile = true
 [[files]]
 file = "mods/dis-enchanting-table.pw.toml"
 hash = "458528d76709ee1a14c36052a225742306ae24defc3a323ae7bce48608d17080"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
 metafile = true
 
 [[files]]
