@@ -3254,7 +3254,7 @@ metafile = true
 
 [[files]]
 file = "mods/explorers-compass.pw.toml"
-hash = "bd7945d6984c84a7475d460b7f0f7ff91c75d505780b5df002e766c142b72be9"
+hash = "de5ea0b6d6c303af3788a178996c39f46d260cd15a86121b1246b3591913d256"
 metafile = true
 
 [[files]]
