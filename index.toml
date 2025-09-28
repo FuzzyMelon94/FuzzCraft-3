@@ -2669,7 +2669,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "b4d9b9051dd1b601c330272efe0aeb9a7e4084d4f2fa6b2f3b1299a91d2c48f0"
+hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
