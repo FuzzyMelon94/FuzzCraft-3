@@ -2624,7 +2624,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-elixirum.pw.toml"
-hash = "ddc83c403fb6a82ab6d514e09414212f9f202ccbc70fc26f26506f23659eb8dc"
+hash = "65ae54fbe544adbd5c83872bfbe75f08939f9941f18bef611c4b829d421229f3"
 metafile = true
 
 [[files]]
