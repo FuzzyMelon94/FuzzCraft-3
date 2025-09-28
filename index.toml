@@ -1301,6 +1301,10 @@ file = "config/cutthrough-client.toml"
 hash = "0f1e7df65dc4fcff84594a708ebed689598dd05dec4cfca38e9f807ca817c5c0"
 
 [[files]]
+file = "config/deeperdarker-common.toml"
+hash = "216cba34f4b7bb6f75ac414c98bea3ec02765adaa369f3d681c3b01ee62faaf5"
+
+[[files]]
 file = "config/dimdungeons-client.toml"
 hash = "933d3f15e6968e150293acf6e4d1d7e6ac739be4afdcc946bcae7a8c4b060285"
 
@@ -1527,6 +1531,10 @@ hash = "8cd546f5ca1bbf655addef4a98a1ab74299e06dcd5f087f443778e23c94bf17d"
 [[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$pumpkin_patch.cfg"
 hash = "4d6f7b9ba1f702ea714f7e36bfa0ca97df91a71967dfac1dfb64c94b5fffee1b"
+
+[[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$rocky_shrubland.cfg"
+hash = "6b2a10a20b3bafddfaa447c09dca6cec0afb0fc1239e746bc4f45e4ad9727e6a"
 
 [[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$shrubland.cfg"
@@ -2846,6 +2854,11 @@ metafile = true
 [[files]]
 file = "mods/cut-through.pw.toml"
 hash = "c44bcb37c3b4275c419f23128df69d093c7cb69a16cbedeff5290aa4b0823578"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "4c49bcbf4236ebf3eff68e66671c7129193df464cbdae9cdcac2346e848b8c4d"
 metafile = true
 
 [[files]]
