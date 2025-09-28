@@ -3384,7 +3384,7 @@ metafile = true
 
 [[files]]
 file = "mods/hearths.pw.toml"
-hash = "47f693474cf52e2c0844d13a7667a443660497f5036b1e7224c02698bf4196aa"
+hash = "e85a99b873be94bc88f82dc924b3db1e14b70c3cd2962384ee3e0a998fb31f62"
 metafile = true
 
 [[files]]
