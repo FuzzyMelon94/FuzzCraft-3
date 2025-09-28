@@ -3449,7 +3449,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleiders-custom-renderer-api.pw.toml"
-hash = "9ecf8135016a5c476ca1a6127767c8a98668a729dbc59237b197f531f01ee5af"
+hash = "7c556d56aa767d9e425aeb779cbc51ecd2eb03ca0f55fdfa60748bdfe7ce1da2"
 metafile = true
 
 [[files]]
