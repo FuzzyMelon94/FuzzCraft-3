@@ -745,6 +745,14 @@ file = "config/attributefix/ars_nouveau/ars_nouveau.perk.wixie.json"
 hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
 
 [[files]]
+file = "config/attributefix/botanypots/growth.json"
+hash = "1d756e18fecb9d13b75a7022c006b3c995d5acfcf08180effc604d672a23de29"
+
+[[files]]
+file = "config/attributefix/botanypots/yield.json"
+hash = "1d756e18fecb9d13b75a7022c006b3c995d5acfcf08180effc604d672a23de29"
+
+[[files]]
 file = "config/attributefix/elixirum/potion_immunity.json"
 hash = "e2a98e72a8b7154371e0db50f6744dc602dab6751a61bd4ba0a7d2f26df6d95e"
 
@@ -1067,6 +1075,10 @@ hash = "b9abd11468b8f1a0a56024f78e27cc6d79c2cce4cce8754b1ba4f0f44289a741"
 [[files]]
 file = "config/biomesoplenty/generation.toml"
 hash = "428c8be557854161e82b21b5654d2865b9b0c53bba969f20398568f94d4ae030"
+
+[[files]]
+file = "config/botanypots.json"
+hash = "4c2c8d447ff50ed3de32aaff6d16fc4cdbca4b4d9cb090b0c9795be1c327f124"
 
 [[files]]
 file = "config/brewinandchewin-client.toml"
@@ -2627,6 +2639,21 @@ hash = "473ae97b1428f1c78b32bdfe2cffa9cd54b25f813af4327c37347c629eb62dae"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "1b71b694a3f9998d0e98ec6af0325490e1773e4e1b65f2b82b5bc7d43b73408b"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "e6c3d0d202b6949e92a730a16ab139e5a5e7a40bc2a43521cb63cf4bfd115c01"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "0f65903b12bae41e80128a499439d818fec9597604f6c8d5ea04d443c0eda93c"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "698f42e399cb36a74a2ffbb497734b1623cdfaf0f3823d7ec884b48a9268da22"
 metafile = true
@@ -3548,7 +3575,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "c63e05728388be4837f75c9c4216cd93fa006f21488991e79535b683caec891d"
+hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
