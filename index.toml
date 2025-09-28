@@ -3729,12 +3729,12 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-farmers-delight-compat.pw.toml"
-hash = "1b9625747845eac9c4a92135ec74201039b9f7677abbf42bc8b61f51986b5a1a"
+hash = "5e4f45b6e1f2ce9ae540301225913e7c5d2f3babfc801b3bc20b496ca62b0a4e"
 metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-floralis-compat.pw.toml"
-hash = "8ff392e6cce33dcaf62abe58297bce63461b7cdc1b3cc12c7c16f3c437ff15eb"
+hash = "1ab16478a2b7e2738b935d3f95e628da6f5b7ab5b736a9e645b19c42559c450e"
 metafile = true
 
 [[files]]
@@ -3744,12 +3744,12 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-friends-and-foes-compat.pw.toml"
-hash = "a8143d95c4cdac801411d7ba529e0b54f2c331501b041fcd4d30befb839ef2bf"
+hash = "e70016472391fc0c86ab267b08883cddeb657bb4e82f0c14f7ea87f8dd5b6b40"
 metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-pneumaticcraft-repressurized-compat.pw.toml"
-hash = "6869a276138fbdff57563dfe89b243c0a719eace7db7e0ed7d3afe61104b75d7"
+hash = "0f4d83a238dc668049ca4670e9f337c14be864a25b31c83135afe4675d6cde92"
 metafile = true
 
 [[files]]
@@ -3875,16 +3875,6 @@ metafile = true
 [[files]]
 file = "mods/the-undergarden.pw.toml"
 hash = "9b96e6ee34f283b54b17679e64d6f60ce48f75f67ff746ac4739edb06cc65745"
-metafile = true
-
-[[files]]
-file = "mods/tomtarus-cobblemon-and-farmers-delight-tweaks.pw.toml"
-hash = "9aa3e995213f406e6463f8ac7089b6dd372fed4bcc20fc3c5c89fc713d31dde6"
-metafile = true
-
-[[files]]
-file = "mods/tomtarus-cobblemon-immersive-engineering-tweaks.pw.toml"
-hash = "42326f0aefd3ac38b53f011aa9c25cb5ac073b109249e5db4103671be317d857"
 metafile = true
 
 [[files]]
