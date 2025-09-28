@@ -3109,7 +3109,7 @@ metafile = true
 
 [[files]]
 file = "mods/cut-through.pw.toml"
-hash = "c44bcb37c3b4275c419f23128df69d093c7cb69a16cbedeff5290aa4b0823578"
+hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
 metafile = true
 
 [[files]]
