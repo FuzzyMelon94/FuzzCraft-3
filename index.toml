@@ -229,6 +229,34 @@ file = "config/adlods/VanillaOres/tuff.cfg"
 hash = "3147996e6e2ee8869116b342019c94455f9824bc88e90a254d5744615710eac3"
 
 [[files]]
+file = "config/aeroblender-common.toml"
+hash = "c34c0ac1f978b1c80b99fe3b78b8fb29a633392c33b05495e8804d04be6d5449"
+
+[[files]]
+file = "config/aether-client.toml"
+hash = "1eb44b8a4ebc37ceee3bcf09a55f0a4757328df30c8be3eacab5162709be54c9"
+
+[[files]]
+file = "config/aether-common.toml"
+hash = "84a8a068fe51a5ca5c82e9560db63628c11c242136f2b39797b1747886319b48"
+
+[[files]]
+file = "config/aether-server.toml"
+hash = "054dabc1c3d2765309fd589127800f61ef04f6368bc5a98b9e4a9efdd35c36ba"
+
+[[files]]
+file = "config/aether-startup.toml"
+hash = "7540bee0eb77cd177eb6b550563709ca123b0b9ed77f9198d127340dcc528799"
+
+[[files]]
+file = "config/aether/aether_customizations.txt"
+hash = "113f7dfc56b7b2efdc782e45356c87c47174bb76dc34dcef24ca2ec32c7908e1"
+
+[[files]]
+file = "config/aether/sun_altar_whitelist.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
 file = "config/aiimprovements-common.toml"
 hash = "99113ed20833ab95be2a9ca46ffc88e3427b066d4b02646873cdebe2203fd622"
 
@@ -1301,6 +1329,18 @@ file = "config/cutthrough-client.toml"
 hash = "0f1e7df65dc4fcff84594a708ebed689598dd05dec4cfca38e9f807ca817c5c0"
 
 [[files]]
+file = "config/deep_aether-client.toml"
+hash = "01e33dc4e16dcdfcc6f7ed4231a57bcf38d1c268c219585af1c75480acc67a33"
+
+[[files]]
+file = "config/deep_aether-common.toml"
+hash = "6c09ee40e239099967f76cdafbba461dedeeec6462b6ae3b795606a235b0f1b3"
+
+[[files]]
+file = "config/deep_aether-server.toml"
+hash = "6863697a9b7c6e47acffd1fb36674cf57520473399889d1133d84e415f0a50f7"
+
+[[files]]
 file = "config/deeperdarker-common.toml"
 hash = "216cba34f4b7bb6f75ac414c98bea3ec02765adaa369f3d681c3b01ee62faaf5"
 
@@ -1649,6 +1689,10 @@ file = "config/forgeendertech/Biomes/terralith$desert_oasis.cfg"
 hash = "48b267e40bd2d224667dc0bdbd76f75f1d431d206463eb0f25bb6a980bd77865"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$glacial_chasm.cfg"
+hash = "8e823e262d39ffb18914767f8456ca94e7670b74e2bf5708274f9e12a000ac0c"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$lavender_valley.cfg"
 hash = "91f74000ea3436832f1483c416601684a2a6cae7c31d701e4834667864fe8376"
 
@@ -1695,6 +1739,10 @@ hash = "271c83ceeaac3d37eefc4c40392774c2fb1f5464e364245096cd946ae0c99937"
 [[files]]
 file = "config/forgeendertech/Biomes/terralith$yosemite_cliffs.cfg"
 hash = "d2c5a42adf5e957ce85c98736daa0377d5c40778d8fbca792d7031b2ef189e46"
+
+[[files]]
+file = "config/forgeendertech/Biomes/undergarden$dead_sea.cfg"
+hash = "e6d6589ce85cc9a1ec2560c8bcd368eb20751bcb9659f3c21f3df67f44ea7039"
 
 [[files]]
 file = "config/forgeendertech/Wind.cfg"
@@ -2294,6 +2342,14 @@ file = "config/tropicraft-common.toml"
 hash = "aec9638bbbb154d9f638bc0ecf9f0ae814e135987f1c97a5ce66f43c98e63334"
 
 [[files]]
+file = "config/undergarden-client.toml"
+hash = "ac5595c5751711472a04415c16b3a39bb82f0b42a4c7e52f45244f61bb15c171"
+
+[[files]]
+file = "config/undergarden-common.toml"
+hash = "dc7249557cb4d82bb5c824ab3014a27f1132b8e4ba1d35f8d4c4c4ad5af1f336"
+
+[[files]]
 file = "config/upcycle-client.toml"
 hash = "36fc8ceec8ed4a317eba901f5534c30190566a436d8f84ecb1366cec573e183a"
 
@@ -2387,6 +2443,16 @@ hash = "e3735407bc7fefaa5972c9bd30ede5275d7aa1f2d7c8c1371073875800fe724b"
 metafile = true
 
 [[files]]
+file = "mods/aether-villages.pw.toml"
+hash = "56012b11efef62f768ab4c035dc4d6adc5fd72a37021342e78fe36895c6bfdce"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "4292e216d9c436006b801a6d90a3a355c47ea1949219187e577afae78737d729"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "a7de15b1b38eb154b0799b8dc2a9d1a021dbc0940e7575959f8fd38e015465cb"
 metafile = true
@@ -2413,7 +2479,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
@@ -2854,6 +2920,11 @@ metafile = true
 [[files]]
 file = "mods/cut-through.pw.toml"
 hash = "c44bcb37c3b4275c419f23128df69d093c7cb69a16cbedeff5290aa4b0823578"
+metafile = true
+
+[[files]]
+file = "mods/deep-aether.pw.toml"
+hash = "7aa415b7ead3466d0845d147b52a58df023c5c9753be197408dcaacfb525d079"
 metafile = true
 
 [[files]]
@@ -3318,7 +3389,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "6835dcbb4251dd6a3c240f4bf414fe9e68d3fff02259d56b41affe8d55c888ad"
+hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
 metafile = true
 
 [[files]]
