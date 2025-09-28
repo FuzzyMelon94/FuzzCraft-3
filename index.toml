@@ -3134,7 +3134,7 @@ metafile = true
 
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
-hash = "d2009e28ce4b9f697e4892f5ff336064e9256822e9620906ab09f37153841872"
+hash = "218dcd780f0251a15f78b097206ea22a519d57b974b39e2fdd43dce91ac07133"
 metafile = true
 
 [[files]]
