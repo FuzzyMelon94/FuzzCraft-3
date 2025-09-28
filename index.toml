@@ -2638,6 +2638,11 @@ hash = "4cb216ce5180c707ea38e47de43cbda4a927a4a0534d325d1cb8a72f7e529072"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "586341de7078015cea16ffaf8e2e198a16c43b306d70bc439a15ea0298f9d3cb"
 metafile = true
@@ -2734,7 +2739,7 @@ metafile = true
 
 [[files]]
 file = "mods/chipped.pw.toml"
-hash = "188d8fef30a732ba5ae30cbce736016509903d4faa463f46871064904fb14cfc"
+hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
