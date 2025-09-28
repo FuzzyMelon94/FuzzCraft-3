@@ -3529,7 +3529,7 @@ metafile = true
 
 [[files]]
 file = "mods/man-of-many-planes.pw.toml"
-hash = "e2d5d5794fa82b263388956e02bc7b4444790bfa979480c5132c63c321ea692c"
+hash = "d887c005b64a36e1ab515d2fc6a35531b665ff7f4964b7068a01d3a136925641"
 metafile = true
 
 [[files]]
