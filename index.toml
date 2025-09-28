@@ -2914,7 +2914,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-confectionery.pw.toml"
-hash = "45283a5df582127ec8d3e988dc8a078a20fc7f7bfbae54ea0f0dfe577933b945"
+hash = "85bfeee744eff6e3cb9146da32407874d569237298072c4455224566e322e476"
 metafile = true
 
 [[files]]
