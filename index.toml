@@ -1761,6 +1761,10 @@ file = "config/forgeendertech/Biomes/minecraft$wooded_badlands.cfg"
 hash = "fce5a910a90025adba11278cae3a86ad2dd9852e0bd808e845b0c626b0173fb6"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terrablender$deferred_placeholder.cfg"
+hash = "1f2824d9115c4df1dddd7712cb0c7dfe967e4dbaef55c0c2311bbd02fed1e21b"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$alpha_islands.cfg"
 hash = "cb08607b05e4a4152c0fceffb8f568b793697882dd83f29115ef5627f614bee1"
 
@@ -1819,6 +1823,10 @@ hash = "82a94e3df47506398a27d1358cdd4ce307f4d02b56297975c5797fa1f045271f"
 [[files]]
 file = "config/forgeendertech/Biomes/terralith$volcanic_crater.cfg"
 hash = "dad083869038cae4dc71d8a18f939548f03604f94efd03faaeee8fed0913c159"
+
+[[files]]
+file = "config/forgeendertech/Biomes/terralith$volcanic_peaks.cfg"
+hash = "38ce15e84659615967c12cd4808dbc463c5cc3e4a6c7797cae13958d13f50e1b"
 
 [[files]]
 file = "config/forgeendertech/Biomes/terralith$wintry_forest.cfg"
@@ -2599,7 +2607,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
-hash = "c15e7554a43fcb2f81920f10d4e683a7dbb342460fa265cb6874e274661ec9ef"
+hash = "4403b61890429bcd27cf3f59b5ec2c76bdd31aeb88ff76398262899189cf38b4"
 metafile = true
 
 [[files]]
@@ -2609,7 +2617,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "4ce71c31b4e8427048b872a58ee88d4f3b7c1405485df449753bf4cedce27b56"
+hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
 
 [[files]]
@@ -2659,7 +2667,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "a2e45be5fae5f8fea2c595db28e903af1288922d3c0ae0fbc0314a73a5e37620"
+hash = "003fa45538ea53acf3a0659f6282d1dfe6d611eca5ce6eee87395edaef7de39c"
 metafile = true
 
 [[files]]
@@ -2744,7 +2752,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "88c8a2ba69aca58b0365584317660e6f0cd9d22daaa5ab2c5d7c3568a1d6d4d2"
+hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
 
 [[files]]
@@ -2759,7 +2767,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "612d49f065b3b26bb44cc3ef4f1f2a1c58883831695a96b7ed7f63f75a66295c"
+hash = "43bace539daf9f65b9bd3c232d5f8db821965df5997e2a68710c90d35b6c9529"
 metafile = true
 
 [[files]]
@@ -3809,12 +3817,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "9f18dd5ca5372301c6d804b5829bee3d17049eed4e077e5586b4aafca82ab3d0"
+hash = "8606bf8ace7739d76f6379dc654290b4796601aa0c838dd5ad7dd5c40cb46503"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "49b66f2c945ef591f5e6b787a7dd946918723c0486188ced9bd7415155fab2ec"
+hash = "0f283489d4e69b4214d17a5b36c816ca0dea35d04f319dc829ec05a0f8f3b777"
 metafile = true
 
 [[files]]
