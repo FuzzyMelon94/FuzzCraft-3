@@ -3,11 +3,11 @@ filename = "Kleiders Custom Renderer API 7.2.0 1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "ec306428746ef161a77e9932f36f7cb289f125c88f7b38372ca57d2973e14d31"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/oaG6aa1j/versions/RetNOzdq/Kleiders%20Custom%20Renderer%20API%207.2.0%201.21.1.jar"
+hash-format = "sha512"
+hash = "d67d96d6f852dad0b03f2e70b1d3c4ac2177a192d1923bcfebf7511cd8af3bf8406ba8bbe5eb3db66dc5a90c2b014ba688c2bb47d303ca84caa56ec497977143"
 
 [update]
-[update.curseforge]
-file-id = 5675429
-project-id = 682065
+[update.modrinth]
+mod-id = "oaG6aa1j"
+version = "RetNOzdq"

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PM1NaPZg/versions/B1ZFLRSM/createsandpapers-1.21.1-1.2.0-1.21.1.jar"
-hash-format = "sha256"
-hash = "c4abb91630f6035bb6e67b676ece08701bc07ceab8650cc80045447caac2b205"
+hash-format = "sha512"
+hash = "31770c8eee3f021ba31ff0bc2d4f3882d0859216be6d4b0ecfc4a39abb8c8f67f147411f52bc00eacf3fb00fe747e572cd428c682627369229f5d572ec2744bd"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/oYe4cXFm/versions/BWFdlSBY/elixirum-neoforge-1.21.1-0.2.2.jar"
-hash-format = "sha256"
-hash = "6ab1261c0dc4059330684abd1766c9716daca2d2bb4555b9c171c25c1612da14"
+hash-format = "sha512"
+hash = "0a20deba725570ea683b200e36e7e1dceca2c481914164683b82a484366b0faa443b1461eeca77531241f8a8ecbf75c688f1778264083647b7083130621d72f7"
 
 [update]
 [update.modrinth]

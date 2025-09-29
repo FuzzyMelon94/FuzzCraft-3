@@ -1,6 +1,6 @@
 name = "Client Tweaks"
 filename = "clienttweaks-neoforge-1.21.1-21.1.8.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/vPNqo58Q/versions/OITwdEsS/clienttweaks-neoforge-1.21.1-21.1.8.jar"

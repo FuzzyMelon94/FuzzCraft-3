@@ -1,11 +1,11 @@
 name = "Repurposed Structures - PneumaticCraft: Repressurized Compat"
 filename = "repurposed_structures_pneumaticcraft_repressurized_compat_v6.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/VpyBGfGz/versions/euBSht0M/repurposed_structures_pneumaticcraft_repressurized_compat_v6.jar"
-hash-format = "sha256"
-hash = "50d86653e9dab236459f91a622e655df504b7d2db0b98110d8d9d4d7d1bf27b3"
+hash-format = "sha512"
+hash = "5338f14dfc00b1762c7b92bf4aac8c73a83b39656e0c29243bad135fc7450b4058c1f2fade19af0b39d5a7693e6ba0516ceae2a4383ef8b71f4b6daedd62a41d"
 
 [update]
 [update.modrinth]

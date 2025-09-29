@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vRYk0bv7/versions/xyqrX19y/trashslot-neoforge-1.21.1-21.1.4.jar"
-hash-format = "sha256"
-hash = "2050aa12c8d75e75bba373693f836b28d06587d7ae2950d45aa7bad0a9e6b01d"
+hash-format = "sha512"
+hash = "940b842c4698e8fb4aedf9dff2d55aa5354e0858ee461445f31854881390f90caadb89d29c256a8573ef89841813e119a1c8a7f52d5ec09d3e9b8b8642344fd3"
 
 [update]
 [update.modrinth]

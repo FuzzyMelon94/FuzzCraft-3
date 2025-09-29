@@ -1,0 +1,13 @@
+name = "Create more packages"
+filename = "ccomunityboxes-2.2-neoForge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QQo0QybO/versions/F6a3uv3q/ccomunityboxes-2.2-neoForge-1.21.1.jar"
+hash-format = "sha512"
+hash = "143379cae658faa8ce5d6dbf1d24ed84abec1431652d9359a8553b367319201fbbcd3f3dd3809e39f73aa4cca14016fe8c99a6a2443cee3a241d1e413dad6eac"
+
+[update]
+[update.modrinth]
+mod-id = "QQo0QybO"
+version = "F6a3uv3q"
