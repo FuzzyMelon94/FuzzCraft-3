@@ -2843,11 +2843,6 @@ hash = "d21c41437169bb49b9b92bc97a2f05daa45bcd56744f590a2a858840a5f56044"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-knowlogy.pw.toml"
-hash = "29797e0e80690ad6c60862080b4f5d29991090ebccd096e2ed750aedde828f08"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-move-inspector.pw.toml"
 hash = "b042cc9ab27d9d15a9919f9879d0c06ae0422b4c3b8fa9933345af20435da397"
 metafile = true
@@ -2910,16 +2905,6 @@ metafile = true
 [[files]]
 file = "mods/completionists-index.pw.toml"
 hash = "046642a0f4d4862c9d8625fcf7d33f8e08c0f1317ed2eabaf4e1f3597b3bb585"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "1cfa183bba77b45e4ae2abea9449c5f4f33b1af56e8b87166525fc56216daba4"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
@@ -3328,11 +3313,6 @@ hash = "56bf2f103421c35755a644c7076decf15760ab43efa2ed4c7dd9fa267af431d3"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "7afdc4a1e9619ea434e5c5a05819dd12653978d0781eaeb1fa6257086c79e827"
-metafile = true
-
-[[files]]
 file = "mods/fragmentum.pw.toml"
 hash = "907626f3224cff49b9c2754f9c182062c3d5ae8a3538df382d46e1042b97d056"
 metafile = true
@@ -3503,11 +3483,6 @@ hash = "7c556d56aa767d9e425aeb779cbc51ecd2eb03ca0f55fdfa60748bdfe7ce1da2"
 metafile = true
 
 [[files]]
-file = "mods/knowlogy.pw.toml"
-hash = "5519ac418243f4157d73056955a9d7cac7c22ad80c0881d7ce5d147a5565af26"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
@@ -3520,11 +3495,6 @@ metafile = true
 [[files]]
 file = "mods/large-ore-deposits.pw.toml"
 hash = "64256b34853d22fc30926d21872d50ce7e8ace89b0f1fe90bcd58a5057a35053"
-metafile = true
-
-[[files]]
-file = "mods/lavender.pw.toml"
-hash = "c24f906172c6828200616df9bffa40398975f596f26488b9358c29e29f150fa4"
 metafile = true
 
 [[files]]
