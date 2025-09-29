@@ -1,6 +1,6 @@
 name = "Cobblemon Capture XP"
 filename = "capturexp-neoforge-1.6.1-1.2.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LBl4Qguc/versions/Lh0clnjO/capturexp-neoforge-1.6.1-1.2.1.jar"

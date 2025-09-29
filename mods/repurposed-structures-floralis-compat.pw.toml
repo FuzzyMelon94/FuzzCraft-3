@@ -1,6 +1,6 @@
 name = "Repurposed Structures - Floralis Compat"
 filename = "repurposed_structures_floralis_compat_v3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZKVGK4u1/versions/BX2GUZf6/repurposed_structures_floralis_compat_v3.jar"

@@ -1,6 +1,6 @@
 name = "Double Doors"
 filename = "doubledoors-1.21.1-7.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/JrvR9OHr/versions/jkV7br3s/doubledoors-1.21.1-7.1.jar"
