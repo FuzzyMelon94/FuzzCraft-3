@@ -729,6 +729,18 @@ file = "config/arsdelight-server.toml"
 hash = "cdd272a01d1c7294685107e11373f09fb88c99c7acdf72f3a87b6f35029e5896"
 
 [[files]]
+file = "config/artifacts/client.toml"
+hash = "3921700655db2af439702410ce0f4771955fa426b8b184ccb569721063da2a70"
+
+[[files]]
+file = "config/artifacts/general.toml"
+hash = "eb8418b22d8e2103bf879ef77dcbd8e1347ac2f088b893c4dbae9fd528f05f50"
+
+[[files]]
+file = "config/artifacts/items.toml"
+hash = "4ad2b5325a9ddd32792b0cca532ab88914ae0c85aef8f5f56db8f5e75609bc28"
+
+[[files]]
 file = "config/attributefix/aether/moa_max_jumps.json"
 hash = "f4141221feb1e43056da711fcda29f9091344a48876c62e6f1d1a61fac8af44a"
 
@@ -766,6 +778,54 @@ hash = "6217856e9bb2355a468bbe03fe24bc97bae91f8deb54e9df42f8a4021cde99e6"
 
 [[files]]
 file = "config/attributefix/ars_nouveau/ars_nouveau.perk.wixie.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.attack_burning_duration.json"
+hash = "2b35471191429cb7b18be98f70f23a3ea36ddf0d984a5a3f6a492ce3b3a1dba5"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.drinking_speed.json"
+hash = "ea105c9bb954b8cc9e60749b9a304a1ff80fa0c80873099c569e94c6ea5d6c67"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.eating_speed.json"
+hash = "ea105c9bb954b8cc9e60749b9a304a1ff80fa0c80873099c569e94c6ea5d6c67"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.flatulence.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.invincibility_ticks.json"
+hash = "f2b86540287515290388f49a96e00e5e9ae90abe7332b9beeb44870d0e30c206"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.mount_speed.json"
+hash = "c568f31255bb84ce497127463bdeaa91d597a4336320d84bf669e630ccf169ea"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.movement_speed_on_snow.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.slip_resistance.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.sprinting_speed.json"
+hash = "c568f31255bb84ce497127463bdeaa91d597a4336320d84bf669e630ccf169ea"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.sprinting_step_height.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/artifacts/player.entity_experience.json"
+hash = "137e8a8052b2264bc1c881b91b97011e4c33726819f4c434753ad5480ee3d19f"
+
+[[files]]
+file = "config/attributefix/artifacts/player.villager_reputation.json"
 hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
 
 [[files]]
@@ -1645,6 +1705,10 @@ file = "config/forgeendertech/Biomes/biomesoplenty$pumpkin_patch.cfg"
 hash = "4d6f7b9ba1f702ea714f7e36bfa0ca97df91a71967dfac1dfb64c94b5fffee1b"
 
 [[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$rainforest.cfg"
+hash = "5ada87c917585fe14247fba5db3116e67e80e36f570ff7adbb6d85fb4e293c36"
+
+[[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$rocky_shrubland.cfg"
 hash = "6b2a10a20b3bafddfaa447c09dca6cec0afb0fc1239e746bc4f45e4ad9727e6a"
 
@@ -1663,6 +1727,10 @@ hash = "0209563037d0a953632c22c9f991cebcb9e14b43a96d4412ae57e46851eb5a6c"
 [[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$visceral_heap.cfg"
 hash = "b67acccdd643cd4981b6309e87a2c81e65c5d1c9c64382f8b65528ca90fae617"
+
+[[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$volcano.cfg"
+hash = "d6d7c3e892a757eeabc53102372294c5eb1abcb9ae00a8097781e09963b1a44f"
 
 [[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$wasteland.cfg"
@@ -1691,6 +1759,10 @@ hash = "59375a56d2170563f04667778c586a53c0284f4719d45e6f22dc5e6d8bb4cf97"
 [[files]]
 file = "config/forgeendertech/Biomes/incendium$weeping_valley.cfg"
 hash = "4e72709109fb9cf8edd4b35dc98e7029da06d798ab9bcec01a1586a7ebd4601c"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$crimson_forest.cfg"
+hash = "3462b57115e3fd6e6a2c0f8667dae213eca5bdb310336ad9e29691f682b1eac9"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$deep_cold_ocean.cfg"
@@ -1731,6 +1803,10 @@ hash = "877dd0370f5015f92326d2eef6a2587908894baac9af70127077ac4323e83f3e"
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$old_growth_spruce_taiga.cfg"
 hash = "97e4487d7d569f54a8748e46cb6cb5f37423166e84190415e364525253df33bf"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$plains.cfg"
+hash = "8d728676cc2ab8d924af009e9cc44cdb1a63d782be42e4a37c6dba1933eecbdd"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$river.cfg"
@@ -1817,6 +1893,10 @@ file = "config/forgeendertech/Biomes/terralith$rocky_jungle.cfg"
 hash = "fdcdfbf72cc5bfa2573eb446e9e8020ef67c3567c240169015970cf778f8d59a"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$rocky_mountains.cfg"
+hash = "c961722da2707fe7fc880a1ea73a601e26bc2afce9f9ff7f5f0e1ca016afc16b"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$savanna_badlands.cfg"
 hash = "922dd2f3f1bc25bd57cab35cfdbfbcfec6346bae7bceb9597a1056f09d2759ff"
 
@@ -1835,6 +1915,10 @@ hash = "8c2ae7d5d59b8d9876f742d4174c7a5b4c75df089ca56f913e5fdf9d9d3dff1f"
 [[files]]
 file = "config/forgeendertech/Biomes/terralith$skylands_winter.cfg"
 hash = "c51df017ae1aa0c7971818cca542eb78802cfc719f3ce93287bef4d1e48b9926"
+
+[[files]]
+file = "config/forgeendertech/Biomes/terralith$snowy_shield.cfg"
+hash = "e020c1dcda745cbf82cc60ebeccb3bc120ee993c0fe2f18baeffb4a51a9b8402"
 
 [[files]]
 file = "config/forgeendertech/Biomes/terralith$stony_spires.cfg"
@@ -1871,6 +1955,10 @@ hash = "d2c5a42adf5e957ce85c98736daa0377d5c40778d8fbca792d7031b2ef189e46"
 [[files]]
 file = "config/forgeendertech/Biomes/the_bumblezone$hive_pillar.cfg"
 hash = "0acba02dc475d19567eb74dc61aa5c739b774694e85d7a92aaa32416f1725069"
+
+[[files]]
+file = "config/forgeendertech/Biomes/the_bumblezone$hive_wall.cfg"
+hash = "34efc3fc3197629d00644b64f8a0fc3c370df2596258bcd10acbea04269be813"
 
 [[files]]
 file = "config/forgeendertech/Biomes/undergarden$dead_sea.cfg"
@@ -2045,6 +2133,10 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "d61f8c5cc3305b24b133cb95804c85a66c405f0ff977fbf45ff452c38dbb7546"
 
 [[files]]
+file = "config/jumpoverfences-client.toml"
+hash = "02826f4ffd366c642cfcbe8fea4ed689d2c17c8ee01bcc70acba672b0d8551ef"
+
+[[files]]
 file = "config/l2configs/l2core-client.toml"
 hash = "58a37c4b6c7f3bbfe8320afec4792e324fb81985ae4ba763752e1841cccde538"
 
@@ -2091,6 +2183,10 @@ hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 [[files]]
 file = "config/lithostitched.json"
 hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
+
+[[files]]
+file = "config/logbegone.json"
+hash = "8d3e327f5524c355259b5919a31170aa0b439a4936442e7513ca054ff2c348a8"
 
 [[files]]
 file = "config/lootintegrations.json"
@@ -2330,6 +2426,10 @@ file = "config/rctmod-server.toml"
 hash = "78614e249fc24024b241281a2084fdb82f56ec132b75192b7bdef8202dee5512"
 
 [[files]]
+file = "config/relics.yaml"
+hash = "4411078ac8d2107482e0f717576b1d9e1fa6c0938d11135a2541f4d8c2518278"
+
+[[files]]
 file = "config/repurposed_structures-neoforge/modded_loot.toml"
 hash = "7108d5e1936fc5e528bd3eff3b7f2176ad1180e41dfeafb6a17da0954d09d8a4"
 
@@ -2412,6 +2512,42 @@ hash = "c298f506a9243beba0f3a3ca52199dc8058ac6d1e5357a533549bfd18fbdc63e"
 [[files]]
 file = "config/sophisticatedcore-common.toml"
 hash = "450dcd187b54b7fda10824923ba7194e9af48d8df83e8650f1f00e0cc34a6617"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
+
+[[files]]
+file = "config/sound_physics_remastered/sound_rates.properties"
+hash = "1a26bccc455cb359eaad29d02896309fe0a869a194e382018a3b6b2a468c69e8"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "d29dede3f214ee4b1aa03314f92c3f973c21ee6e26d173eba3d01a2083237b6d"
+
+[[files]]
+file = "config/sounds/chat.json"
+hash = "05c4c8183027ab2741dbaac953ea4431b3706f3a0e42153459e962958255a782"
+
+[[files]]
+file = "config/sounds/event.json"
+hash = "6245d6fd01be9aac33c2c7967fb795b8542a21526623ffc19a85596b3a6e1d1f"
+
+[[files]]
+file = "config/sounds/mod_utils.json"
+hash = "ad4c5fe9811db5595602b39957453cf553ca0ccf0c084db6393caa2f2fa05132"
+
+[[files]]
+file = "config/sounds/ui.json"
+hash = "ad2d93625c17340af17d4f8160853cb2a8db338ebc5e8989c574798039379f56"
+
+[[files]]
+file = "config/sounds/world.json"
+hash = "820bccce5bd99fdeed446f04aa6b332d6353ece919189db1a29bef9618c12564"
 
 [[files]]
 file = "config/spark/config.json"
@@ -2708,8 +2844,18 @@ hash = "4cb216ce5180c707ea38e47de43cbda4a927a4a0534d325d1cb8a72f7e529072"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "a22428140ae8ade420e9708a85cff2bc1a67d31d085f7521e3b0d440cc6b95a7"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "586341de7078015cea16ffaf8e2e198a16c43b306d70bc439a15ea0298f9d3cb"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "03bf4c83390893faab62e2122e9265712a721bd3cd8e0d603f5daddc2549bbd5"
 metafile = true
 
 [[files]]
@@ -3178,6 +3324,11 @@ hash = "d71851407e388787d67281a0564f357bd6384316fa1e4c1984ac6c549acba68d"
 metafile = true
 
 [[files]]
+file = "mods/dismount-entity.pw.toml"
+hash = "3a191ec81bcc9d5e55193d4836abbd8d3b74ca2f391c9f6e73237ab01880e482"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
 metafile = true
@@ -3483,6 +3634,11 @@ hash = "2d636f456b8a396fcaec06545aee486975e6372f1733ab2830015a97faedfe13"
 metafile = true
 
 [[files]]
+file = "mods/jump-over-fences.pw.toml"
+hash = "3ee389e5b994aa1423e36140804840a6fe419dffd4798111c0624c2afebd95ab"
+metafile = true
+
+[[files]]
 file = "mods/just-blahaj.pw.toml"
 hash = "26ec343b84136471f4e84a9210ebeffb22b3858c6f24c577d2dd1704d2026858"
 metafile = true
@@ -3530,6 +3686,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "48bd525ac1cd8811759a7842548a49e51bd25455b8044f99a423d464987dfdc0"
 metafile = true
 
 [[files]]
@@ -3623,6 +3784,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
@@ -3640,6 +3806,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "94828636fa5e8b258a60049250c84ba8c5a0310a98bc1530fc02c351a06aab8b"
 metafile = true
 
 [[files]]
@@ -3718,6 +3889,11 @@ hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
 metafile = true
 
 [[files]]
+file = "mods/rar-compat.pw.toml"
+hash = "9fd3f4f0a9d5d145bd80f15f50605c45522da51ddbea2c0ac49c649e624fe92a"
+metafile = true
+
+[[files]]
 file = "mods/rctapi.pw.toml"
 hash = "6654874d9fa1354511ca589b2e2ef089c5f1da6315136905bd89f0a1a3779ca3"
 metafile = true
@@ -3750,6 +3926,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "c29ea2e8b991a9c0060de48ea98eef0c349966432e56455cfa2901b9f2bbcccd"
 metafile = true
 
 [[files]]
@@ -3845,6 +4026,16 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "0f283489d4e69b4214d17a5b36c816ca0dea35d04f319dc829ec05a0f8f3b777"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "7ac912d80e0695b2bf3ee394f247f714df1dcd0df4975deb27487ea519ed8179"
 metafile = true
 
 [[files]]
