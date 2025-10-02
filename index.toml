@@ -1893,6 +1893,10 @@ file = "config/forgeendertech/Biomes/terralith$rocky_jungle.cfg"
 hash = "fdcdfbf72cc5bfa2573eb446e9e8020ef67c3567c240169015970cf778f8d59a"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$rocky_mountains.cfg"
+hash = "c961722da2707fe7fc880a1ea73a601e26bc2afce9f9ff7f5f0e1ca016afc16b"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$savanna_badlands.cfg"
 hash = "922dd2f3f1bc25bd57cab35cfdbfbcfec6346bae7bceb9597a1056f09d2759ff"
 
@@ -2847,6 +2851,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "586341de7078015cea16ffaf8e2e198a16c43b306d70bc439a15ea0298f9d3cb"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "03bf4c83390893faab62e2122e9265712a721bd3cd8e0d603f5daddc2549bbd5"
 metafile = true
 
 [[files]]
