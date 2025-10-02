@@ -729,6 +729,18 @@ file = "config/arsdelight-server.toml"
 hash = "cdd272a01d1c7294685107e11373f09fb88c99c7acdf72f3a87b6f35029e5896"
 
 [[files]]
+file = "config/artifacts/client.toml"
+hash = "3921700655db2af439702410ce0f4771955fa426b8b184ccb569721063da2a70"
+
+[[files]]
+file = "config/artifacts/general.toml"
+hash = "eb8418b22d8e2103bf879ef77dcbd8e1347ac2f088b893c4dbae9fd528f05f50"
+
+[[files]]
+file = "config/artifacts/items.toml"
+hash = "4ad2b5325a9ddd32792b0cca532ab88914ae0c85aef8f5f56db8f5e75609bc28"
+
+[[files]]
 file = "config/attributefix/aether/moa_max_jumps.json"
 hash = "f4141221feb1e43056da711fcda29f9091344a48876c62e6f1d1a61fac8af44a"
 
@@ -766,6 +778,54 @@ hash = "6217856e9bb2355a468bbe03fe24bc97bae91f8deb54e9df42f8a4021cde99e6"
 
 [[files]]
 file = "config/attributefix/ars_nouveau/ars_nouveau.perk.wixie.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.attack_burning_duration.json"
+hash = "2b35471191429cb7b18be98f70f23a3ea36ddf0d984a5a3f6a492ce3b3a1dba5"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.drinking_speed.json"
+hash = "ea105c9bb954b8cc9e60749b9a304a1ff80fa0c80873099c569e94c6ea5d6c67"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.eating_speed.json"
+hash = "ea105c9bb954b8cc9e60749b9a304a1ff80fa0c80873099c569e94c6ea5d6c67"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.flatulence.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.invincibility_ticks.json"
+hash = "f2b86540287515290388f49a96e00e5e9ae90abe7332b9beeb44870d0e30c206"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.mount_speed.json"
+hash = "c568f31255bb84ce497127463bdeaa91d597a4336320d84bf669e630ccf169ea"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.movement_speed_on_snow.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.slip_resistance.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.sprinting_speed.json"
+hash = "c568f31255bb84ce497127463bdeaa91d597a4336320d84bf669e630ccf169ea"
+
+[[files]]
+file = "config/attributefix/artifacts/generic.sprinting_step_height.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = "config/attributefix/artifacts/player.entity_experience.json"
+hash = "137e8a8052b2264bc1c881b91b97011e4c33726819f4c434753ad5480ee3d19f"
+
+[[files]]
+file = "config/attributefix/artifacts/player.villager_reputation.json"
 hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
 
 [[files]]
@@ -1645,6 +1705,10 @@ file = "config/forgeendertech/Biomes/biomesoplenty$pumpkin_patch.cfg"
 hash = "4d6f7b9ba1f702ea714f7e36bfa0ca97df91a71967dfac1dfb64c94b5fffee1b"
 
 [[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$rainforest.cfg"
+hash = "5ada87c917585fe14247fba5db3116e67e80e36f570ff7adbb6d85fb4e293c36"
+
+[[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$rocky_shrubland.cfg"
 hash = "6b2a10a20b3bafddfaa447c09dca6cec0afb0fc1239e746bc4f45e4ad9727e6a"
 
@@ -1663,6 +1727,10 @@ hash = "0209563037d0a953632c22c9f991cebcb9e14b43a96d4412ae57e46851eb5a6c"
 [[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$visceral_heap.cfg"
 hash = "b67acccdd643cd4981b6309e87a2c81e65c5d1c9c64382f8b65528ca90fae617"
+
+[[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$volcano.cfg"
+hash = "d6d7c3e892a757eeabc53102372294c5eb1abcb9ae00a8097781e09963b1a44f"
 
 [[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$wasteland.cfg"
@@ -1731,6 +1799,10 @@ hash = "877dd0370f5015f92326d2eef6a2587908894baac9af70127077ac4323e83f3e"
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$old_growth_spruce_taiga.cfg"
 hash = "97e4487d7d569f54a8748e46cb6cb5f37423166e84190415e364525253df33bf"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$plains.cfg"
+hash = "8d728676cc2ab8d924af009e9cc44cdb1a63d782be42e4a37c6dba1933eecbdd"
 
 [[files]]
 file = "config/forgeendertech/Biomes/minecraft$river.cfg"
@@ -1875,6 +1947,10 @@ hash = "d2c5a42adf5e957ce85c98736daa0377d5c40778d8fbca792d7031b2ef189e46"
 [[files]]
 file = "config/forgeendertech/Biomes/the_bumblezone$hive_pillar.cfg"
 hash = "0acba02dc475d19567eb74dc61aa5c739b774694e85d7a92aaa32416f1725069"
+
+[[files]]
+file = "config/forgeendertech/Biomes/the_bumblezone$hive_wall.cfg"
+hash = "34efc3fc3197629d00644b64f8a0fc3c370df2596258bcd10acbea04269be813"
 
 [[files]]
 file = "config/forgeendertech/Biomes/undergarden$dead_sea.cfg"
@@ -2338,6 +2414,10 @@ file = "config/rctmod-server.toml"
 hash = "78614e249fc24024b241281a2084fdb82f56ec132b75192b7bdef8202dee5512"
 
 [[files]]
+file = "config/relics.yaml"
+hash = "4411078ac8d2107482e0f717576b1d9e1fa6c0938d11135a2541f4d8c2518278"
+
+[[files]]
 file = "config/repurposed_structures-neoforge/modded_loot.toml"
 hash = "7108d5e1936fc5e528bd3eff3b7f2176ad1180e41dfeafb6a17da0954d09d8a4"
 
@@ -2749,6 +2829,11 @@ metafile = true
 [[files]]
 file = "mods/arsdelight.pw.toml"
 hash = "4cb216ce5180c707ea38e47de43cbda4a927a4a0534d325d1cb8a72f7e529072"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "a22428140ae8ade420e9708a85cff2bc1a67d31d085f7521e3b0d440cc6b95a7"
 metafile = true
 
 [[files]]
@@ -3697,6 +3782,11 @@ hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "94828636fa5e8b258a60049250c84ba8c5a0310a98bc1530fc02c351a06aab8b"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "bda53b942ecc9d210b25da27ead8e4c4c44d05bbcbcdd9f6e4fa69bf8014800a"
 metafile = true
@@ -3772,6 +3862,11 @@ hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
 metafile = true
 
 [[files]]
+file = "mods/rar-compat.pw.toml"
+hash = "9fd3f4f0a9d5d145bd80f15f50605c45522da51ddbea2c0ac49c649e624fe92a"
+metafile = true
+
+[[files]]
 file = "mods/rctapi.pw.toml"
 hash = "6654874d9fa1354511ca589b2e2ef089c5f1da6315136905bd89f0a1a3779ca3"
 metafile = true
@@ -3804,6 +3899,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "c29ea2e8b991a9c0060de48ea98eef0c349966432e56455cfa2901b9f2bbcccd"
 metafile = true
 
 [[files]]
