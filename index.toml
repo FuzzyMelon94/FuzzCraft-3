@@ -1837,6 +1837,10 @@ file = "config/forgeendertech/Biomes/terralith$skylands_winter.cfg"
 hash = "c51df017ae1aa0c7971818cca542eb78802cfc719f3ce93287bef4d1e48b9926"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$snowy_shield.cfg"
+hash = "e020c1dcda745cbf82cc60ebeccb3bc120ee993c0fe2f18baeffb4a51a9b8402"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$stony_spires.cfg"
 hash = "f85e1a614145f5514084def3af9fb77a8a8fc77aa6a6574d6308a24da4e3ecbb"
 
@@ -2043,6 +2047,10 @@ hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
 hash = "d61f8c5cc3305b24b133cb95804c85a66c405f0ff977fbf45ff452c38dbb7546"
+
+[[files]]
+file = "config/jumpoverfences-client.toml"
+hash = "02826f4ffd366c642cfcbe8fea4ed689d2c17c8ee01bcc70acba672b0d8551ef"
 
 [[files]]
 file = "config/l2configs/l2core-client.toml"
@@ -3480,6 +3488,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "2d636f456b8a396fcaec06545aee486975e6372f1733ab2830015a97faedfe13"
+metafile = true
+
+[[files]]
+file = "mods/jump-over-fences.pw.toml"
+hash = "3ee389e5b994aa1423e36140804840a6fe419dffd4798111c0624c2afebd95ab"
 metafile = true
 
 [[files]]
