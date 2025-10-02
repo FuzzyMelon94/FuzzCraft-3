@@ -1761,6 +1761,10 @@ file = "config/forgeendertech/Biomes/incendium$weeping_valley.cfg"
 hash = "4e72709109fb9cf8edd4b35dc98e7029da06d798ab9bcec01a1586a7ebd4601c"
 
 [[files]]
+file = "config/forgeendertech/Biomes/minecraft$crimson_forest.cfg"
+hash = "3462b57115e3fd6e6a2c0f8667dae213eca5bdb310336ad9e29691f682b1eac9"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$deep_cold_ocean.cfg"
 hash = "1e0ec6319897cedb840d60318f6463c6066c968091e48e3e24ebb75809f3cd4f"
 
@@ -2175,6 +2179,10 @@ hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 [[files]]
 file = "config/lithostitched.json"
 hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
+
+[[files]]
+file = "config/logbegone.json"
+hash = "8d3e327f5524c355259b5919a31170aa0b439a4936442e7513ca054ff2c348a8"
 
 [[files]]
 file = "config/lootintegrations.json"
