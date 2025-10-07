@@ -2719,7 +2719,7 @@ hash = "ffdc0599eeeb8acb0fcfd2d1d3adb54f25447ed9b57fa9fa792d7529406742bd"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "cf58744dbe870388a22f13c70c5c0488978f1d1e92465d12db6a0a30adabdb66"
+hash = "91cd8f32523ec95b2ad305ea536cd5df00a19c4cd54e35eb30699bd1bd869c81"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
