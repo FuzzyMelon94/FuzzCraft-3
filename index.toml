@@ -1533,6 +1533,10 @@ file = "config/eccentrictome-common.toml"
 hash = "67cf23ebaa39a12ac8d0dbd487595cb8788c638d77143be908e67f5faaa063bf"
 
 [[files]]
+file = "config/elytra-trims.json"
+hash = "84a7506102a44c2c76aebd0a28c30ff280d18791b7eddca16c08c7a91a670c80"
+
+[[files]]
 file = "config/emi.css"
 hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
 
@@ -1871,6 +1875,10 @@ hash = "c6a63a4dcde9ee3e4d0383638f0d0a7e4aaae13a94dce65626d2635742897c64"
 [[files]]
 file = "config/forgeendertech/Biomes/terralith$caldera.cfg"
 hash = "01ad476dd4527c8515e48a0954f0d1283404eb55b64264146ece0099a94acc37"
+
+[[files]]
+file = "config/forgeendertech/Biomes/terralith$cave$deep_caves.cfg"
+hash = "a072a75e0fc72cddf8fe5a02eeed861d7964556e2aba410b2339c226dbaaa73a"
 
 [[files]]
 file = "config/forgeendertech/Biomes/terralith$desert_oasis.cfg"
@@ -3381,6 +3389,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "07ea5950240bde3452c93be59647a662dd790692e5eeb5d3c4266910781d6d6d"
 metafile = true
 
 [[files]]
