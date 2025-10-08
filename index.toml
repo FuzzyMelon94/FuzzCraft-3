@@ -2365,6 +2365,10 @@ file = "config/neruina.json5"
 hash = "ec19d7ed0ba06a589888b1c939f1e89be173114f769dbe78e0e93c17ffb40721"
 
 [[files]]
+file = "config/netherdepthsupgrade-common.toml"
+hash = "d7218d14743fc422d527245fb4839d5d4f2b65d091b3ea0d55e2ef799a8b48e8"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "99c9c4dc7ff364020c9ff0799ee8be539faabea956425a980f45c17c8b8acb77"
 
@@ -3884,6 +3888,11 @@ hash = "0dd4391f03f0f480f2749024db291d75013b58f03722ed63e7ec86d4e0e902c5"
 metafile = true
 
 [[files]]
+file = "mods/nether-depths-upgrade.pw.toml"
+hash = "2104f30f90dbd5ff5eae8295f71f47227c9b1c96b4b5bb2ae196cd67d11e138a"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
@@ -4206,6 +4215,11 @@ metafile = true
 [[files]]
 file = "mods/the-undergarden.pw.toml"
 hash = "9b96e6ee34f283b54b17679e64d6f60ce48f75f67ff746ac4739edb06cc65745"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "0ccb1c696758d7935d02dd5160987cab8d3594ab24f89deb01c28f9e596094e7"
 metafile = true
 
 [[files]]
