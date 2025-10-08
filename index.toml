@@ -1925,6 +1925,10 @@ file = "config/forgeendertech/Biomes/terralith$snowy_shield.cfg"
 hash = "e020c1dcda745cbf82cc60ebeccb3bc120ee993c0fe2f18baeffb4a51a9b8402"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$steppe.cfg"
+hash = "441bb9652732c4c75bae0bc38a3c57e80c0127a1b3a2b652ae8cb6d44cb11fbb"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$stony_spires.cfg"
 hash = "f85e1a614145f5514084def3af9fb77a8a8fc77aa6a6574d6308a24da4e3ecbb"
 
@@ -4053,6 +4057,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "8c71edbbb86e5d3e1c14ea6629382539d44e75b1061725df9c3abceb889a8591"
 metafile = true
 
 [[files]]
