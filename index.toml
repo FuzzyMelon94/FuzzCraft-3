@@ -3849,6 +3849,11 @@ hash = "0dd4391f03f0f480f2749024db291d75013b58f03722ed63e7ec86d4e0e902c5"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
