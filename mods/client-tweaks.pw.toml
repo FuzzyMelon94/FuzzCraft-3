@@ -1,13 +1,13 @@
 name = "Client Tweaks"
-filename = "clienttweaks-neoforge-1.21.1-21.1.8.jar"
+filename = "clienttweaks-neoforge-1.21.1-21.1.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/vPNqo58Q/versions/OITwdEsS/clienttweaks-neoforge-1.21.1-21.1.8.jar"
+url = "https://cdn.modrinth.com/data/vPNqo58Q/versions/htfCkPAc/clienttweaks-neoforge-1.21.1-21.1.9.jar"
 hash-format = "sha512"
-hash = "a03155201272a7157d5544c786fa42168bfd7821e400ed4f88b739e97860bb7b236dd18d091666866d15dce4616a3383fd32af9f04cee739fad7b43aff98c1e6"
+hash = "f4506e8b5fde8cba9b365841034d42ee0aeaf3e19b226c942a23210b2d8f34d128dae3085153f6b97e9631adbb7ed8de12f874ad68466a9bf81f3cb0355e35ee"
 
 [update]
 [update.modrinth]
 mod-id = "vPNqo58Q"
-version = "OITwdEsS"
+version = "htfCkPAc"

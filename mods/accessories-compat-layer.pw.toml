@@ -1,13 +1,13 @@
 name = "Accessories Compatibility Layer"
-filename = "accessories_compat_layer-neoforge-0.1.9+1.21.1.jar"
+filename = "accessories_compat_layer-neoforge-0.1.10+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ySnjMzLg/versions/eWZ9wgZ1/accessories_compat_layer-neoforge-0.1.9%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/ySnjMzLg/versions/6ocwvkgG/accessories_compat_layer-neoforge-0.1.10%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "19b17e30b8f7ace6e3062247a8c02aa1e1ab86024f082c89846f28fe01d0fbd4f7637ca5c8678cec03f0f2f97e3fcb215b1815508491aba5b571943836fadf4a"
+hash = "d53e77c2650c74beb90c242eae85413d6607a4253ef55cddb4e98565786f3591c4d27f5316ecf6b9d9f1878368e0c132f670f95d7e9a9a6eb0967be297b4b5e5"
 
 [update]
 [update.modrinth]
 mod-id = "ySnjMzLg"
-version = "eWZ9wgZ1"
+version = "6ocwvkgG"
