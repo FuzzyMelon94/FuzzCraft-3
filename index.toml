@@ -1909,6 +1909,10 @@ file = "config/forgeendertech/Biomes/terralith$painted_mountains.cfg"
 hash = "29faeae2b5a5a3b328f47156c940d7587605cf2e971339a4d6bb5a150a921144"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$red_oasis.cfg"
+hash = "002635fb776b646cc5202259e573208e6a07b4eeb95c7ff6c77655cec4838d13"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$rocky_jungle.cfg"
 hash = "fdcdfbf72cc5bfa2573eb446e9e8020ef67c3567c240169015970cf778f8d59a"
 
@@ -2327,6 +2331,14 @@ hash = "6ae9ec9348bd85d9d67c401536fc13dd0ae72760438ec915a0c18c0627dcae07"
 [[files]]
 file = "config/more_cobblemon_tweaks.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/mutantmonsters-common.toml"
+hash = "73df4c62f9a6d5bb34a2fc7c5b772afa6ce5507587af5af308948112373efba6"
+
+[[files]]
+file = "config/mutantmonsters-server.toml"
+hash = "099b34550dd28478624388f54e6c6fafd1cc09a6a1eee8c97f1cdd6c859da757"
 
 [[files]]
 file = "config/naturescompass-client.toml"
@@ -3854,6 +3866,11 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
+metafile = true
+
+[[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "caa3e2282daef2c96ca71b329e07453d904aa338026e274c362432512b0129ca"
 metafile = true
 
 [[files]]
