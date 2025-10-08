@@ -1,6 +1,7 @@
 name = "Relics: Artifacts Compat"
 filename = "rarcompat-1.21-0.9.6.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/GnU07giL/versions/V5CWNMoG/rarcompat-1.21-0.9.6.jar"

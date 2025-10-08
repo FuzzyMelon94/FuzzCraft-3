@@ -3914,7 +3914,7 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "94828636fa5e8b258a60049250c84ba8c5a0310a98bc1530fc02c351a06aab8b"
+hash = "887ba5294717f9ee27cba14fc75b3db43e822aa3b0647ee39403a52d4fad5aaf"
 metafile = true
 
 [[files]]
@@ -3994,7 +3994,7 @@ metafile = true
 
 [[files]]
 file = "mods/rar-compat.pw.toml"
-hash = "9fd3f4f0a9d5d145bd80f15f50605c45522da51ddbea2c0ac49c649e624fe92a"
+hash = "37893ceb6496e55d59cd9db122183ccd85a422d1f5c775cfdf3d9a9bf3eab479"
 metafile = true
 
 [[files]]
@@ -4034,7 +4034,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "c29ea2e8b991a9c0060de48ea98eef0c349966432e56455cfa2901b9f2bbcccd"
+hash = "1ab74dad7befd3ae95726f2eee8b510dde7aa8b556916116195c6e14f27e7603"
 metafile = true
 
 [[files]]

@@ -1,6 +1,7 @@
 name = "Relics"
 filename = "relics-1.21.1-0.10.7.5.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/OCJRPujW/versions/1rqBbDn5/relics-1.21.1-0.10.7.5.jar"
