@@ -1545,6 +1545,10 @@ file = "config/emi_ores-client.json"
 hash = "856df01bdd2e529fb6df5a6561bf82bd033295bbb3150f3f8158945587579e68"
 
 [[files]]
+file = "config/emojitype.json"
+hash = "25f03911cf4f939df5e165faba2c7b705cd006630505c902e99e3de193090cb3"
+
+[[files]]
 file = "config/enchdesc.json"
 hash = "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b"
 
@@ -3426,6 +3430,11 @@ metafile = true
 [[files]]
 file = "mods/emiffect.pw.toml"
 hash = "b53c40130b7c2f91237cf62480877414296fbea3525f2c824351c0c07f136ddb"
+metafile = true
+
+[[files]]
+file = "mods/emoji-type.pw.toml"
+hash = "bba89e9b06ee8b4274aab144d2eeb5769585bf834d4758288a9bcf100cbd3c29"
 metafile = true
 
 [[files]]
