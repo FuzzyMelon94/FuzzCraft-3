@@ -1765,6 +1765,10 @@ file = "config/forgeendertech/Biomes/biomesoplenty$withered_abyss.cfg"
 hash = "1dd4af40e1c8dd1afed76d408ca860811cadbe6a76af572e98b100e4d2e28b08"
 
 [[files]]
+file = "config/forgeendertech/Biomes/incendium$toxic_heap.cfg"
+hash = "2871ecb4579e64902fd1692c85c2810ea9101d16249cdabc78bd4bab55143479"
+
+[[files]]
 file = "config/forgeendertech/Biomes/incendium$volcanic_deltas.cfg"
 hash = "59375a56d2170563f04667778c586a53c0284f4719d45e6f22dc5e6d8bb4cf97"
 
@@ -3380,6 +3384,11 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "37297b2f4f83f324972147ca4bd4ec8fa275513fcdfd3e64406393f255ef8813"
+metafile = true
+
+[[files]]
+file = "mods/dyed-flames.pw.toml"
+hash = "e639795ef008287a2e8848d0ef30fe14cc67eb5eca7b7ad8dac5811c69a04393"
 metafile = true
 
 [[files]]
