@@ -1226,7 +1226,7 @@ hash = "c85653944e9ad0a167fa21032ffb518ce1dfc044268ca6e95b4f449d882b4ae7"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "293d2cbfd02692ccf9cf52419d38c27522732f2519308790362eeb9e27f69670"
+hash = "5165527767affeff92e3bb93aeadf11f8bed5e987e4f9e4c606f014a5694e5f4"
 
 [[files]]
 file = "config/cobblemon_quests/cobblemon_quests.config"
@@ -2322,7 +2322,7 @@ hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
 
 [[files]]
 file = "config/openpartiesandclaims-server.toml"
-hash = "4d3a991d0f3b9c6dfde2c5c8ecf54968833f4e4a3cf728dc39af99634e3047e5"
+hash = "76e478b96e299b2a3c5d49d76f77c54f4a590f357b6c9c84ed6294877bde3f1d"
 
 [[files]]
 file = "config/overflowingbars-client.toml"
