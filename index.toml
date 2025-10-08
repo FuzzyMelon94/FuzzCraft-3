@@ -1989,6 +1989,10 @@ file = "config/forgeendertech/Biomes/undergarden$dead_sea.cfg"
 hash = "e6d6589ce85cc9a1ec2560c8bcd368eb20751bcb9659f3c21f3df67f44ea7039"
 
 [[files]]
+file = "config/forgeendertech/Biomes/undergarden$frosty_smogstem_forest.cfg"
+hash = "93e53c90bccfc4e73c9e944591c2cdae78575b27f7ea518970582efb45952496"
+
+[[files]]
 file = "config/forgeendertech/Wind.cfg"
 hash = "415d2ea719d00720d919d4110626b1136f892e1663c19a42622db6d15511670c"
 
@@ -2488,6 +2492,14 @@ hash = "e79d1931dfddd25dfd2969cc9e45d77b36968aee9d1116fa8c0321b1b99c172a"
 [[files]]
 file = "config/silentgear-common.toml"
 hash = "fd0e193bebc939a9124f4c275d4f3cf2f09e33060c0891f9dc43239bf3a8e3b1"
+
+[[files]]
+file = "config/simplehats.json"
+hash = "ef023c7f0d6c273b463f595c62145afab8f3b65b43b0b3304e3da5e9355cb5dc"
+
+[[files]]
+file = "config/simplehats.json5"
+hash = "d0d3829502a5b6ced40632583e1453e13115afe97556e1c1bd3ab4d4f9700822"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -4044,6 +4056,11 @@ metafile = true
 [[files]]
 file = "mods/silent-lib.pw.toml"
 hash = "0270a241e1d1c3c8e1ecda59aeaa5004771a57d46a4a470566cb7dd6d7e89c85"
+metafile = true
+
+[[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "e49e5bbd1acba6a50c445e3d087552bc134e3559eae8a29da2332b4d11588228"
 metafile = true
 
 [[files]]
