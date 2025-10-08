@@ -1881,6 +1881,10 @@ file = "config/forgeendertech/Biomes/terralith$ancient_sands.cfg"
 hash = "c6a63a4dcde9ee3e4d0383638f0d0a7e4aaae13a94dce65626d2635742897c64"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$arid_highlands.cfg"
+hash = "6907d84e8b205c955c6576e38c870b640fae994085d3b719b995031673e48d84"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$caldera.cfg"
 hash = "01ad476dd4527c8515e48a0954f0d1283404eb55b64264146ece0099a94acc37"
 
@@ -2744,6 +2748,10 @@ hash = "c32a7d79a6d9349f699aaaf78b623b354a8680ecdd72282873b510435c750bab"
 [[files]]
 file = "config/utilitarian-server.toml"
 hash = "c3fa563239f9d6083df7e4494abb170a5ad43f34559abebf36e7c7cb8b2db356"
+
+[[files]]
+file = "config/villager-in-a-bucket.properties"
+hash = "85bc7a0319cda049809ac340303c9ef4bd74e6884d969592ba287bea0f054ee8"
 
 [[files]]
 file = "config/villagernames.json5"
@@ -4270,6 +4278,11 @@ metafile = true
 [[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "74104b7854f3ee565c7c47e8f01fcbfba464aa33f5d9d1be9e026b8da09abc26"
+metafile = true
+
+[[files]]
+file = "mods/villager-in-a-bucket.pw.toml"
+hash = "3e9c8727137b1c6fc3417153ade02c9a02dce16a6f91440cbf38a610af2f8654"
 metafile = true
 
 [[files]]
