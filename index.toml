@@ -1681,6 +1681,10 @@ file = "config/forgeendertech/Biomes/biomesoplenty$lush_savanna.cfg"
 hash = "2c6e9e0e3909e6bbbbddae2b81f5243d3260e6a7e9745176347e80d25af0d0a1"
 
 [[files]]
+file = "config/forgeendertech/Biomes/biomesoplenty$maple_woods.cfg"
+hash = "0a2da68037539ba25518f8574ad7933061472f2dcf89148c7fa2c26440acd686"
+
+[[files]]
 file = "config/forgeendertech/Biomes/biomesoplenty$mediterranean_forest.cfg"
 hash = "27188cdf6ecbf428c0135ed4e1326f39defb44445d5468e816ebf35e7db0a016"
 
@@ -1937,6 +1941,10 @@ file = "config/forgeendertech/Biomes/terralith$volcanic_peaks.cfg"
 hash = "38ce15e84659615967c12cd4808dbc463c5cc3e4a6c7797cae13958d13f50e1b"
 
 [[files]]
+file = "config/forgeendertech/Biomes/terralith$white_cliffs.cfg"
+hash = "e5bfaf2e37b80757bd59685777634090fa12aa7380b5cf42df8e07a4a0795452"
+
+[[files]]
 file = "config/forgeendertech/Biomes/terralith$white_mesa.cfg"
 hash = "33f324c00575ef86bb23534adc443ee62d9ea627260eea0e3fcf202af3cffa18"
 
@@ -1959,6 +1967,10 @@ hash = "0acba02dc475d19567eb74dc61aa5c739b774694e85d7a92aaa32416f1725069"
 [[files]]
 file = "config/forgeendertech/Biomes/the_bumblezone$hive_wall.cfg"
 hash = "34efc3fc3197629d00644b64f8a0fc3c370df2596258bcd10acbea04269be813"
+
+[[files]]
+file = "config/forgeendertech/Biomes/tropicraft$overgrown_mangroves.cfg"
+hash = "b6e4530a952c68e25ebb2db4f47395969040fcbe4ba4c58e9f87033c603a676d"
 
 [[files]]
 file = "config/forgeendertech/Biomes/undergarden$dead_sea.cfg"
@@ -3596,6 +3608,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
+file = "mods/iron-barrels.pw.toml"
+hash = "1e3d6cf652adf4097556ab6ec9243b5ce9f580770dc06a4d1a4f994dbfce24d3"
 metafile = true
 
 [[files]]
