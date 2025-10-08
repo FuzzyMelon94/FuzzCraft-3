@@ -2329,6 +2329,10 @@ file = "config/neoforge-server.toml"
 hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
 
 [[files]]
+file = "config/neruina.json5"
+hash = "ec19d7ed0ba06a589888b1c939f1e89be173114f769dbe78e0e93c17ffb40721"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "99c9c4dc7ff364020c9ff0799ee8be539faabea956425a980f45c17c8b8acb77"
 
@@ -3075,6 +3079,11 @@ hash = "046642a0f4d4862c9d8625fcf7d33f8e08c0f1317ed2eabaf4e1f3597b3bb585"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+hash = "abf6af8c6879dc13e54ca1aa55bc3f3c88bd9bd1478448a524e595d7e64795d9"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
@@ -3807,6 +3816,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "0dd4391f03f0f480f2749024db291d75013b58f03722ed63e7ec86d4e0e902c5"
 metafile = true
 
 [[files]]
