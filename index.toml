@@ -1277,6 +1277,10 @@ file = "config/completionistsindex-client.toml"
 hash = "1fa44b7c4c8872ec5b32f1130add1cd747700b0c749f2fec225f416b4104a155"
 
 [[files]]
+file = "config/compressedblocks-startup.toml"
+hash = "469fc19225b9d161c023aacd2958b9f78b4f4a544fe04f1d7a0d633abf738ef0"
+
+[[files]]
 file = "config/computercraft-client.toml"
 hash = "db7bbdc89ab05070b2a4c22f6348b0c80aca4a3c449d92cdc6bc56b5af25ff7b"
 
@@ -1995,6 +1999,10 @@ hash = "0acba02dc475d19567eb74dc61aa5c739b774694e85d7a92aaa32416f1725069"
 [[files]]
 file = "config/forgeendertech/Biomes/the_bumblezone$hive_wall.cfg"
 hash = "34efc3fc3197629d00644b64f8a0fc3c370df2596258bcd10acbea04269be813"
+
+[[files]]
+file = "config/forgeendertech/Biomes/the_bumblezone$sugar_water_floor.cfg"
+hash = "32bdb82aeb98beac0dfa3fdde3dec363848b291d59047f1ba3f32c1f5aca9bf2"
 
 [[files]]
 file = "config/forgeendertech/Biomes/tropicraft$overgrown_mangroves.cfg"
@@ -3113,6 +3121,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "e3cb1eb238192071af93f764e3ff2c493f4f437802bb56273f664bafdea13f1d"
+metafile = true
+
+[[files]]
+file = "mods/cobblepedia.pw.toml"
+hash = "777d43c32847ac522bcad868f85c430eb0cea08d4a6af7d224b1458d11667d3d"
 metafile = true
 
 [[files]]
