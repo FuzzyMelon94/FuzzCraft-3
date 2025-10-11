@@ -2996,6 +2996,11 @@ hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
 
 [[files]]
+file = "mods/cb-compressed-blocks.pw.toml"
+hash = "0e401c580a706a6178b6cc968e48c6e858334f35004ddf8ed35f03bb6b1e3ab1"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "88773a3eb40bdea95e454e38e9f8b8154d119997fbdd31c7c4bf8c24baaf4de4"
 metafile = true
